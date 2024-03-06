@@ -1,0 +1,16 @@
+# rOpenSci Champions Program Internal Playbook {.unnumbered}
+
+![](images/media/image1.png)
+
+![](images/media/image2.png)
+
+_Cover illustration by [Lydia Hill](https://www.lydiakahill.com/)_
+
+## License
+
+This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en) License.
+
+## How to cite this work
+
+
+
