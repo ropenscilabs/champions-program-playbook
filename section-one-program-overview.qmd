@@ -91,7 +91,7 @@ Below is a table describing the team working on the Champions program
 +------------------------+----------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------+
 | Camille Santistevan    | CSCCE Director of Learning                                                                   | Consultation on program design                                                                                       |
 |                        |                                                                                              |                                                                                                                      |
-|                        |                                                                                              | Training                                                                                                             |
+|                        |                                                                                              | Training and assessment.                                                                                                              |
 +------------------------+----------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------+
 | Maya Sanghvi           | CSCCE Junior Trainer and Curriculum Assistant                                                | Training and assessment.                                                                                             |
 +------------------------+----------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------+
@@ -115,7 +115,7 @@ The ideal program timeline is listed below. An external-facing timeline for the 
 |August - November 2023|Champions outreach: host events, deliver talk, write about their experiences.|Champion's host: a workshop on good practices to build packages or good practices in software peer review or deliver a talk on a conference/event and one community event to gather feedback to improve rOpenSci’s projects|1 to 3 h|
 |September 2023|Cohort meeting: Reflections on events |Champions will be invited to share takeaways from their events with the cohort.|1.5 h|
 |December 2023|Cohort meeting: Reflections on program|Champions will be invited to share takeaways from the program with the cohort and start to define future roles for Champions.|1.5 h|
-|February 2024|End of term|Close cohort and define new roles for Champions.|1 h|
+|January-February 2024|Assessment and End of term|Close cohort and define new roles for Champions. Anonymous survey, Champions interview and mentors focus group|1 h|
 
 ### 2023-2024 tentative timeline
 
@@ -132,5 +132,5 @@ The ideal program timeline is listed below. An external-facing timeline for the 
 |July 2024 |Cohort meeting: Reflections on projects|Champions will be invited to share takeaways from their projects with the cohort.|1.5 h|
 |September 2024|Cohort meeting: Reflections on events |Champions will be invited to share takeaways from their events with the cohort.|1.5 h|
 |October 2024|Cohort meeting: Reflections on program|Champions will be invited to share takeaways from the program with the cohort and start to define future roles for Champions.|1.5 h|
-|November 2024|End of term|Close cohort and define new roles for Champions.|1 h|
+|November 2024|Assessment and End of term|Surveys, interview and focus group. Close cohort and define new roles for Champions.|1 h|
 
