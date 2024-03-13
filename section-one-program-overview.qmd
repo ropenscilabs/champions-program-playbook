@@ -63,7 +63,7 @@ Below is a table describing the team working on the Champions program
 +------------------------+----------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------+
 | Name                   | Title                                                                                        | Role on the project                                                                                                  |
 +========================+==============================================================================================+======================================================================================================================+
-| Karthik Ram            | rOpenSci Executive Director, Project PI                                                      | Program oversight                                                                                                    |
+| Karthik Ram            | rOpenSci Executive Director, Project PI                                                      | Program oversight, Selection of champions and mentors                                                                                                     |
 +------------------------+----------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------+
 | Maëlle Salmon          | Research Software Engineer, Project co-PI, Associate editor of rOpenSci Software Peer Review | Selection of champions and mentors                                                                                   |
 |                        |                                                                                              |                                                                                                                      |
@@ -95,6 +95,10 @@ Below is a table describing the team working on the Champions program
 +------------------------+----------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------+
 | Maya Sanghvi           | CSCCE Junior Trainer and Curriculum Assistant                                                | Training and assessment.                                                                                             |
 +------------------------+----------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------+
+
+### Instructors
+
+In addition to the team mentioned above, there are two guest instructors: Mauro Lepore developed the material and gave the workshop on peer-review software and Heather Turner gave the workshop on How to contribute to R base. 
 
 ## Program timeline
 
