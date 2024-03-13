@@ -69,6 +69,8 @@ Once the web pages have been updated, the community manager drafts blog posts to
 
 - Blog post announcing the open call for champions and mentors 2023-2024 ([English](https://ropensci.org/blog/2023/07/14/call-champions-program/) and [Spanish](https://ropensci.org/es/blog/2023/07/14/launch-champions-program-es/))
 
+- rOpenSci Newletter announcements examples: [rOpenSci News Digest, September 2022](https://ropensci.org/blog/2022/09/23/ropensci-news-digest-september-2022/), [rOpenSci News Digest, October 2022](https://ropensci.org/blog/2022/10/21/ropensci-news-digest-october-2022/), [rOpenSci News Digest, July 2023](https://ropensci.org/blog/2023/07/21/news-july-2023/), [rOpenSci News Digest, August 2023](https://ropensci.org/blog/2023/08/25/news-august-2023/)
+
 #### Step 3: Create an outreach plan and draft related text and resources
 
 Once the webpage and blog posts are ready, you are ready to begin promotion. The program should first be announced on the rOpenSci blog, newsletter, Slack, and social media sites.
