@@ -5,7 +5,7 @@ the [rOpenSci Champions Program](https://ropensci.org/champions/). Although the 
 
 Included is an overview of the typical timeline for running the program as well as details for the various phases: recruitment, onboarding, training and support, offboarding and evaluation. It also provide strategies and task for activities like communication and infrastructure. 
 
-It includes information about both the rOpenSci Champions as well as the Mentors and Istructors for the pilot (2022-2024).
+It includes information about both the rOpenSci Champions as well as the Mentors and Instructors for the pilot (2022-2024).
 
 ## Useful links
 
