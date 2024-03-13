@@ -1,0 +1,167 @@
+# Recruitment and selection of champions and mentors
+
+## Overview
+
+The recruitment process for champions and mentors should begin at least four months before the program start date to ensure there is adequate time to promote the opportunity, review applications, and communicate with successful and unsuccessful applicants. 
+
+During the first year, we received 74 champion applications and 28 mentor applications. In the second year we received 98 champions applications and 28 mentors applications - so this process can take a significant amount of time!
+
+To ensure a broad range of applications from people across the world, we strive to offer information about the program in different languages. However, at this time, all applications must be written in English.
+
+Below are details about the recruitment process for both champions and mentors including the applications, the communications plan and selection process.
+
+### Applications
+
+The application process for both champions and mentors is intentionally lightweight and consists of an airtable form and accompanying list of questions that applicants can review prior to submission.
+
+Potential champions program applicants are encouraged to attend an optional community call to learn more about the program and the application process. They may also attend an optional coworking session to work on their applications together, and/or book a brief 15-minute meeting with the community manager to get feedback on their applications.
+
+#### Champions application materials
+
+-   [Champions Airtable application form](https://airtable.com/shrAsYlSXU0coJ5Ld). (The form is close if we don't have an open call for applications)
+
+-   Champions application final questions (available in [English]((https://ropensci.org/champions/files/champions_template/) and [Spanish](https://ropensci.org/champions/files/champions_template_es/)). This are the questions in the application form. 
+
+-   Google doc with draft text for the Champions 2022-23 application. This document is the [*application form template*](https://docs.google.com/document/d/18V38IdipJXNL8w714Xdoj8XHd9j-mr8aDQl0TqOIAEg/edit#heading=h.d3uqayuakf9e) and it is accessible only to rOpenSci Champions Program Team. 
+
+- After the first year application we create [Frequently Asked Question (FAQs) for Champions](https://ropensci.org/champions/programdetails_2023/#frequently-asked-questions). This FAQs improved response time to interested people's queries.
+
+#### Mentor application materials
+
+-   [Mentors Airtable application form](https://airtable.com/shrlrLdQbb4wphosK). (The form is close if we don't have an open call for applications) 
+
+-   List of questions available in [English](https://ropensci.org/champions/files/mentors_champions_template/) and [Spanish](https://ropensci.org/champions/files/mentors_champions_template_es/).
+
+-   Google doc with draft text for the 2022-23 Mentors application form.This document is the [*application form template*](https://docs.google.com/document/d/1HdyQW-xIbj21UxjEEKl9-XDyaDXjtNqbnu-MBhk1ejA/) and it is accessible only to rOpenSci Champions Program Team. 
+
+- After the first year we also create [Frequently Asked Questions for Mentors](https://ropensci.org/champions/programdetailsmentors_2023/#frequently-asked-questions) 
+
+
+### Communications plan
+
+rOpenSci’s standard communication channels are used to spread the news about the champions program. There is a dedicated [webpage](https://ropensci.org/champions/), and blog post announcing the program and accompanying communications plan to promote the opportunity on social media and various listservs. In addition, the community manager hosts a community call about the program, and posts a recording on the rOpenSci website afterwards. The community manager may also speak at events and meetings hosted by other organizations to ensure the broadest possible reach.
+
+Before beginning, decide which languages the recruitment materials will be translated into and identify translators if necessary. Remember to consider all the materials that will need to be translated (blog posts, video captions, social media posts (mastodon, linkedIn, slack), slides, and emails).
+
+> The materials outlined below are saved in this folder (for internal use by the rOpenSci Champions Program Team. Preserved for archival reasons. All information is available with open licence and up to date on the Champions Program web site and this playbook): [*2. Communications plan*](https://drive.google.com/drive/folders/1UlW185xJI3NQ1soPnu4GhwvaMd85W1aD)
+
+#### Step 1: Update program web pages
+
+Before beginning promotion, review the program webpage text and update as appropriate with new key dates and application materials.
+
+-   [Main Champions program webpage](https://ropensci.org/champions/): present the information about:
+
+  - Program general information like goals, format, and timeline. 
+  - Champions and mentors information including eligibility criteria, benefits of taking part, expectations, timeline for the application and for the program, FAQs and templates.
+  - Training materials.
+  - Events and blog post about the Champions Program.
+  - Champions and Mentors for each cohort. 
+
+> Note: For the first cohort it is necessary to create the website from scratch and for that it is necessary to develop the program with objectives, measures of success, format, target audience, languages and build all the content.    
+
+#### Step 2: Draft blog and social media posts
+
+Once the web pages have been updated, the community manager drafts blog posts to announce the opportunity. If possible, translate these posts into other languages. These blog posts may be linked to in additional outreach efforts such as social media posts and newsletters.
+
+- Blog posts Announcing the rOpenSci Champions Program 2022-2023 ([English](https://ropensci.org/blog/2022/09/22/launch-champions-program/) and [Spanish](https://ropensci.org/blog/2022/09/22/launch-champions-program-es/).
+
+- Blog post Announcing the open call for Mentors 2022-2023: [Become a Mentor for rOpenSci Champions!](https://ropensci.org/champions/programdetailsmentors/).
+
+- Blog post announcing the open call for champions and mentors 2023-2024 ([English](https://ropensci.org/blog/2023/07/14/call-champions-program/) and [Spanish](https://ropensci.org/es/blog/2023/07/14/launch-champions-program-es/))
+
+#### Step 3: Create an outreach plan and draft related text and resources
+
+Once the webpage and blog posts are ready, you are ready to begin promotion. The program should first be announced on the rOpenSci blog, newsletter, Slack, and social media sites.
+
+Then, promotion on other mailing lists and/or Slack workspaces can begin. To ensure a broad range of applicants, it may be helpful to give short presentations about the program at events or meetings hosted by other organisations or communities.
+
+The community manager may wish to conduct individual outreach to prospective mentors.
+
+-   Create a list of social media and email lists to post about the program
+
+    -   List and draft text for the 2022-23 program: [*Communications channels*](https://docs.google.com/document/d/1tqtvKjCIsiDixVdxRU2GEI9hIdiRXc_ocZhptJYZ9Ws/edit)
+
+-   Update the rOpenSci outreach slide deck
+
+    -   [*rOpenSci - Abuja RUG*](https://docs.google.com/presentation/d/1Bah05iiIFM4lgOmqSAFNP8dZAfn3LXgoTjlIBxQg5nw/edit?usp=sharing)
+
+-   Post recordings on the rOpenSci event webpage: [*https://ropensci.org/events/abuja-2022/*](https://ropensci.org/events/abuja-2022/)
+
+    -   Presentation recording for the 2022-23 program: [*rOpenSci, a community for R developers and scientists, Yanina Bellini Saibene*](https://www.youtube.com/watch?v=AAotbYDQVdM)
+
+#### Step 4: Host application support activities
+
+The community manager should plan two live sessions to support potential applicants: 1) a community call where applicants can ask specific questions about the application process and 2) a coworking session where applicants can work on the application together in real-time.
+
+-   Application community call
+
+-   Co-working hours
+
+### Selection and matching process
+
+The rOpenSci team is responsible for selecting both champions and mentors using screening rubrics. Below are details about each step of the selection and matching process, including suggested timelines.
+
+#### Step 1: Community manager assigns applications to reviewers (1 week)
+
+After the application deadline, the community manager can evenly assign applications to each reviewer, taking into account any conflicts of interest.
+
+#### Step 2: Selection team reviews their assigned applicants (2 weeks)
+
+The reviewers should consider all their assigned applications using the screening rubric and set aside any candidates that don’t meet the basic criteria. The team should take care to write substantive feedback as we attempt to provide each applicant with feedback that may be helpful to them in the future.
+
+In a slack private direct message group, the team discusses any doubts during the review. The doubts may be related to the rubric, to details in the application, etc
+
+-   [*rOpenSci Champions screening rubric template*](https://docs.google.com/spreadsheets/d/1Ox2ELEAUsJAwWAl8cSONjIpGGij304aHUCwPM8EJSlU/edit#gid=0)
+
+-   [*rOpenSci Champions Mentors rubric template*](https://docs.google.com/spreadsheets/d/1b3fm6yRcZP7ZzOaXr8jtW_rLMBqHOytMlDuCcEAEkoo/edit#gid=3253069)
+
+#### Step 3: Meeting to discuss applicants and potential mentor matches
+
+The selection committee should meet to discuss the top applicants and consider potential mentor matches. The goal of this meeting is to settle on a final list.
+
+Before the meeting the community manager reviews all the applications with their scoring and prepares the final list for champions and a final list for mentors ordering the applications according to the score they obtained. The CM marks with different colors according to the scoring: definite yes, possible yes, or unsure
+
+The reviewers initially consider the definite and possible yeses which may be up to twice as many candidates who can be selected. Reviewers should take into account not only the ranking but also the country/region they come from, type of project proposed, languages spoken, and gender.
+
+We also consider the champion's proposed project alongside the mentor pool to ensure the type and topic is within the scope and that they can be well supported. We also take into account that the champions and mentors are in compatible time zones and speak a common language. Finally, the region and gender of the mentors are variables taken into account in the final selection.
+
+The champion/mentor assignments are created by the CM with input from the team during the meeting, and then the team reviews that final mix. It is discussed asynchronously in the Slack group set up for the review.
+
+#### Step 4: Inform applicants (3 weeks)
+
+Once you have selected the top applicants, prepare individual messages to each person to inform them and request them to confirm their participation by a certain date. If for some reason a successful applicant can no longer participate, you can invite the next best applicant to take their place.
+
+After all selected champions and mentors have confirmed their participation, prepare messages to inform applicants who were unsuccessful. Whenever possible, we try to include specific feedback to each applicant, so they can make improvements for next time. We also strive to direct them to other rOpenSci activities or opportunities that may be of interest to them.
+
+-   Draft text to applicants: [*Feedback for* *champions*](https://docs.google.com/document/d/1mB6_Fdn16XMkh4ORN7bZMSRtiGnvl_iZWNeEzQIZ6Iw/edit#heading=h.wskca8x07uq9)
+
+### First Cohort 2022-2023. Champions and Mentors
+
+| Champion Name            | Project type | Mentor Name              |
+|--------------------------|--------------|--------------------------|
+| Alican Cagri Gokcek      | review a package           | Elio Campitelli.         |
+| Bilikisu Wunmi Olatunji  | develop a new package      | Christina Maimone        |
+| Carolina Pradier         | package peer-review        | Mo (Athanasia Mowinckel) |
+| Cesar Luis Aybar Camacho | package peer-review        | Marc Choisy              |
+| Cheryl Isabella Lim      | review a package           | Mauro Lepore             |
+| Ghozayel Elotteebi       | develop a new package      | Zebulun Arendsee         |
+| Haydee Svab              | develop a new package      | Beatriz Milz             |
+| Marcos Miguel Prunello   | package peer-review        | Lukas Walrick            |
+| Paola Belén Corrales     | package peer-review        | Adam Sparks              |
+| Victor Ordu              | package peer-review        | Laura DeCicco            |
+
+#### Second Cohort 2023-2024. Champions and Mentors
+
+| Champion Name            | Project type | Mentor Name              |
+|--------------------------|--------------|--------------------------|
+|  |              |         |
+|  |              |       |
+|  |              |  |
+|  |              |   |
+|  |              |   |
+|  |              |  |
+|  |              |  |
+|  |              |   |
+|  |              |  |
+|  |              |  |
+
