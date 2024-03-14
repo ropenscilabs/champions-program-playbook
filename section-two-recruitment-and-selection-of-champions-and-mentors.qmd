@@ -160,14 +160,14 @@ After all selected champions and mentors have confirmed their participation, pre
 
 | Champion Name            | Project type | Mentor Name              |
 |--------------------------|--------------|--------------------------|
-|  |              |         |
-|  |              |       |
-|  |              |  |
-|  |              |   |
-|  |              |   |
-|  |              |  |
-|  |              |  |
-|  |              |   |
-|  |              |  |
-|  |              |  |
+| Andrea Gomez Vargas | develop a new package | Luis D. Verde Arregoitia        |
+| Binod Jung Bogati | develop a new package | Erle Holgersen      |
+| Erika Siregar | develop a new package | Apoorv Anand  |
+| Ezekiel Adebayo Ogundepo | review a package |  Francisco Orlando Cardozo Macias |
+| Francesca Belem Lopes Palmeira | develop a new package  | Bruna Wundervald   |
+| Jacqui Levy | develop a new package | Jonathan Keane |
+| Liz Hare | review a package   | François Michonneau |
+| Mirna Vázquez Rosas Landa |  package peer-review | Marie Vendettuoli  |
+| Sehrish Kanwal | package peer-review  | Emi Tanaka |
+| Yi-Chin (Sunny) Tseng | develop a new package | Eunseop Kim |
 
