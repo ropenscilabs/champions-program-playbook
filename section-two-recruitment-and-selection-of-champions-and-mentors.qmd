@@ -102,7 +102,6 @@ The community manager should plan two live sessions to support potential applica
 -   Co-working hours
 
 
-
 ### Selection and matching process
 
 The rOpenSci team is responsible for selecting both champions and mentors using screening rubrics. Below are details about each step of the selection and matching process, including suggested timelines.
