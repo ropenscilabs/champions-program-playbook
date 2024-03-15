@@ -1,0 +1,84 @@
+# Offboarding
+
+## Overview 
+
+The offboarding is an opportunity to officially close the participation in the Champions Program. It mainly gives us a chance to **reflect on the road we have traveled and celebrate our achievements**. It also includes administrative tasks, such as the payment process for the champions and reporting. Champions and mentors are invited to express how they would like to continue engage with rOpenSci.
+
+### Champions Stipend
+
+NUMFocus is the rOpenSci fiscal sponsor and is responsible for paying the stipend. They have set up a process for payment requests.
+
+The program manager emails the Instructions for receiving payment for your fellowship as a rOpenSci Champion to every champion. The summary is:
+
+1.  Champions must submit an **Invoice** with the following information:
+
+    -   Champions name, address, and email address
+
+    -   Address the invoice to *NumFOCUS, Inc., PO Box 90596, Austin, TX 78709*
+
+    -   The current date
+
+    -   Unique invoice number
+
+    -   Description: *"rOpenSci Champions Program stipend"* 
+
+    -   Amount: *\$1,000.00 USD*
+
+2.  Send the payment request using NUMFocus form.
+
+    -   The form will request your bank account information or *PayPal* account.
+
+    -   In *Project Name* choose *rOpenSci*.
+
+    -   In *Item/Work Description* write *rOpenSci Champions Program Fellowship*
+
+    -   Upload your invoice in PDF format.
+
+3.  Payment is issued within 30 days after approval by project leaders.
+
+    ::: callout-important
+    ## Know issues
+
+    -   The information on the name holder in the bank account must be the same as in the payment request form.
+
+    ```{=html}
+    <!-- -->
+    ```
+    -   PayPal can apply fees to the payment.
+
+    -   Countries have different regulations and processes about payments in a foreign currency. Each champion must know their country's details in order to get pay.
+    :::
+
+### Final meeting 
+
+The very last full cohort and mentor meeting provides an opportunity for Champions to reflect on their projects and progress, offer thanks to each other and their mentors, and talk about next steps.
+
+::: callout-note
+## Virtual Notes
+
+These are the [virtual notes](https://docs.google.com/document/d/14uVy79h7F-qiqJbqjnFNxfRyaCldbhsgbQxZcaCyhxI/edit#heading=h.nt54rmdn6k7z) from the 2022-2023 final meetings. 
+
+Only accessible for rOpenSci Champions Program Team and First cohort attendees.
+:::
+
+The meeting is mandatory for champions but optional for mentors. The agenda for the meeting is:
+
+-   Program manager recap in all the work done and what are the next step. 15 minutes. Slides: [rOpenSci Champions Program - Wrapup](https://docs.google.com/presentation/d/1tukcGlzDZ2iqwqco-sQZVUEK5gAVAbkbFrLKL58cvAg/edit?usp=sharing) 
+
+-   A Q&A session  - 10 minute: there were questions related with the process to .
+
+-   Activity: rOpenSci: Final Reflections - 30 minutes.
+
+####  Final Reflections Activity
+
+In the shared documents. Find your name under each title and add your reflections. 
+
+After you've added your own reflections, review each other's posts and add comments or likes (+1)
+
+-   Title 1: Participating in the rOpenSci Champions Program enables me to …
+
+-   Title 2: I felt like a “change agent” for rOpenSci when …
+
+-   Title 3: General notes of gratitude
+
+The program manager also have 1 to 1 meeting with the champions that required to discuss with more detail future engagement with the community.
