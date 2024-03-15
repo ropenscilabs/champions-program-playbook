@@ -12,13 +12,13 @@ To ensure a broad range of applications from people across the world, we strive 
 
 Below are details about the recruitment process for both champions and mentors including the applications, the communications plan and selection process.
 
-### Applications
+## Applications
 
 The application process for both champions and mentors is intentionally lightweight and consists of an airtable form and accompanying list of questions that applicants can review prior to submission.
 
 Potential champions program applicants are encouraged to attend an optional community call to learn more about the program and the application process. They may also attend an optional coworking session to work on their applications together, and/or book a brief 15-minute meeting with the community manager to get feedback on their applications.
 
-#### Champions application materials
+### Champions application materials
 
 -   [Champions Airtable application form](https://airtable.com/shrAsYlSXU0coJ5Ld). (The form is close if we don't have an open call for applications)
 
@@ -30,7 +30,7 @@ Potential champions program applicants are encouraged to attend an optional comm
     [Application form template](https://docs.google.com/document/d/18V38IdipJXNL8w714Xdoj8XHd9j-mr8aDQl0TqOIAEg/edit#heading=h.d3uqayuakf9e) in google doc format for the 2022-23 application call. Preserved for archival reasons. Access only by the rOpenSci Champions Program Team. All information is available with open license and up to date on the Champions Program web site and this playbook.
     :::
 
-#### Mentor application materials
+### Mentor application materials
 
 -   [Mentors Airtable application form](https://airtable.com/shrlrLdQbb4wphosK). (The form is close if we don't have an open call for applications)
 
@@ -56,18 +56,33 @@ For internal use by the rOpenSci Champions Program Team. Preserved for archival 
 
 #### Step 1: Update program web pages
 
-Before beginning promotion, review the program webpage text and update as appropriate with new key dates and application materials.
+Before beginning promotion, review the program webpage text and update as appropriate with new **key dates and application materials**.
 
 The [main Champions program webpage](https://ropensci.org/champions/): present the information about:
 
 -   Program general information like goals, format, and timeline.
--   Champions and mentors information including eligibility criteria, benefits of taking part, expectations, timeline for the application and for the program, FAQs and templates.
+
+-   Champions and mentors information including eligibility criteria, benefits of taking part, expectations, [timeline for the program](https://ropensci.org/champions/#program-2023-2024-timeline), [FAQs for champions](https://ropensci.org/champions/programdetails_2023/#frequently-asked-questions) and [for Mentors](https://ropensci.org/champions/programdetailsmentors_2023/#frequently-asked-questions), and templates.
+
+-   Timeline for the application
+
+    **2023-2024 Application timeline**
+
+    | Date        | Event                                                                                                                                                        |
+    |---------------|---------------------------------------------------------|
+    | Jul 14      | Call for Champions and Mentor Applications opens 🎉                                                                                                          |
+    | Jul 25      | \[OPTIONAL\] Community Call - Learn from other Mentors and Champions and get tips for submitting your application                                            |
+    | Aug 17 & 23 | \[OPTIONAL\] Coworking Champions Application Clinics in different timezones (Aug 17 and Aug 23): receive help with your application to the Champions Program |
+    | Sep 4       | Call for applications closes                                                                                                                                 |
+
 -   Training materials.
+
 -   Events and blog post about the Champions Program.
+
 -   Champions and Mentors for each cohort.
 
 ::: callout-tip
-For the first cohort it is necessary to create the website from scratch and for that it is necessary to develop the program with objectives, measures of success, format, target audience, languages and build all the content.
+For the first cohort it is necessary to create the website from scratch and for that it is necessary to develop the program with objectives, measures of success, format, target audience, languages and write and build all the content.
 :::
 
 #### Step 2: Draft blog and social media posts
