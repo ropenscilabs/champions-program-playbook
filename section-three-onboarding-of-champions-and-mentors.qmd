@@ -1,0 +1,118 @@
+# Onboarding of champions and mentors
+
+## Overview
+
+This section describes the onboarding process for both champions and
+mentors. Prior to onboarding meetings, a number of scaffolding pieces
+are put into place, including a Google Drive, Slack, and templates for
+meetings between mentors and champions. Once participants are selected,
+mentors and champions meet each other during the program kick-off
+meeting. Next, mentors attend a training and orientation meeting to
+share expectations and tools needed for the program.
+
+## Onboarding process
+
+#### Step 1: Kick-off meeting / initial mentor/mentee introductions
+
+The community manager hosts a kick-off meeting to introduce the
+champions and mentors to each other, provide an overview of the program,
+review the tentative training schedule and expectations for the program.
+The community manager also shares information about tool and
+infrastructure that will be used to communicate and collaborate during
+the program, such as Slack, Google Drive, template docs, and shared
+calendar.
+
+Kick-off meeting materials:
+
+- [*rOpenSci - Champion Program -
+  KickOff*](https://docs.google.com/presentation/d/1K4HDAvxk3MkKN2DCr_oYSx1lE73fDI8Ri1Bxo8z83ow/edit#slide=id.g1db4e36fb1d_1_0)
+
+- [*Notes - Kick-off Meeting Champions
+  Program*](https://docs.google.com/document/d/1qH6FyBo-ZJ-KM5FTR-XNauAMPGRbW7csc7I02eRaNYQ/edit)
+
+#### Step 2: Mentor training and orientation meeting
+
+After the initial kickoff, the mentors have a 75 minute meeting with the
+rOpenSci Community Manager with the purpose of giving them tools,
+skills, and guidance to provide good mentorship to the champions.
+
+The overarching message of the meeting is that the role of a mentor is
+to advise and inspire. They can do this by recommending resources,
+offering feedback, and connecting their mentees to other people or
+programs.
+
+The content of the first meeting can be broken down into a skills and
+tools section.
+
+The skills are aimed at:
+
+- Active listening
+
+- Effective questioning
+
+- Giving feedback
+
+Tools include guidance on:
+
+- Setting expectations for meetings
+
+- The GROW Model for exploring and reflecting
+
+  - Goal: Agree on a topic & objective or longer-term goals
+
+  - Reality: self-assessment, specific examples
+
+  - Options: suggestions offered & choices made
+
+  - Way forward: next steps
+
+During the meeting, mentors also have time to reflect on their own
+mentorship experiences (as a mentor or mentee), practice the GROW model,
+and consider their readiness for being a mentor.
+
+##### Mentor training and orientation materials
+
+- [*rOpenSci Champions Program Mentor Guidelines
+  v1.0*](https://docs.google.com/document/d/1oEN_6anF2hlUJcHOqL78kVDK9W1pl4zW3BUtgozI0AE/edit#)
+
+- Slide deck: [*rOpenSci - Champion Program - Mentorship Training and
+  Orientation*](https://docs.google.com/presentation/d/1qAv8IfSMRRGbQlwOkyM7QvnYQSEvL-cUFPj72ixNgN4/edit)
+
+- [*Mentor materials and
+  resources*](https://drive.google.com/drive/folders/1IAMCn01yh_YeAngkcb1rcvCgnp5OT0t8)
+
+- Web page with instructors notes:
+  [*https://ropensci-training.github.io/ropensci-mentors/*](https://ropensci-training.github.io/ropensci-mentors/)
+
+#### Step 3: Champion and mentor 1-on-1 meetings
+
+Mentors are positioned to help champions progress their projects, answer
+questions, and provide motivation and support. One way for the pair to
+keep up to date with each other is by monthly 1-on-1 meetings, of which
+they are expected to have around 11 and can have more. The meetings
+should be about 30 minutes, but can be shorter or longer depending on
+both people’s needs and availability.
+
+Mentor and champion pairs are expected to decide on meeting times and
+platforms with each other and are provided with a
+[*list*](https://docs.google.com/document/d/1oEN_6anF2hlUJcHOqL78kVDK9W1pl4zW3BUtgozI0AE/edit#heading=h.ierqx96guq2c)
+of potential collaboration platforms including Zoom, Slack, WhatsApp,
+Google Docs, and When2Meet. They are also expected to read, implement,
+and abide by rOpenSci’s [*Code of
+Conduct*](https://ropensci.org/code-of-conduct/) in their meetings and
+interactions.
+
+After the mentor orientation, the mentors are given a
+[*template*](https://docs.google.com/document/d/1vjmfbjv9ABJ6fkbtQRMFPydJZ3ypKOIpZ-xf7_iBhvo/edit)
+for their first meeting with their mentees and asked to set an agenda
+with goals, possible areas they can investigate, and expectations for
+each other. Mentors are expected to complete a form to confirm with the
+community manager that these monthly meetings are taking place.
+
+Subsequent meetings between the two will be structured as a check-in to
+ensure that the champion is keeping up with their goals and to answer
+any questions they may have. The final meeting will offer an opportunity
+for both to celebrate their accomplishments and offer feedback. More
+details about the meetings can be found in the [*Mentorship
+Meetings*](https://docs.google.com/document/d/1oEN_6anF2hlUJcHOqL78kVDK9W1pl4zW3BUtgozI0AE/edit#heading=h.k5vsm0igh6zd)
+section of the Mentor Guidebook.
