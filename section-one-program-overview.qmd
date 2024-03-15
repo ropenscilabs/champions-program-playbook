@@ -22,7 +22,6 @@ One of the goals of this program was to ensure that all participants gained new 
 
 -   **Stipend:** we also pay a stipend to champions for participating.  This has been important for champions to be able to dedicate time to the activity.
 
-    \
     ![Champions Program elements](images/cp-elements.jpg){fig-alt="Scheme with the elements of the Champions Program. A vertical box on the left has a calendar image up, below the text 12 months, 10 champions, 10 mentors, and below a $ image. In the middle are three horizontal boxes. The first says training with an image of a teacher signing in to a board, the second has a computer image and Project, and the last one has a presentation screen image and says Outreach. Each one lists the activities for the three stages. Training: Dev. good practices, package development, code review, and contribution to OSS and outreach. Project: New package, Peer-review their package, Become a reviewer. Outreach: Write a blog post, Teach a workshop, Talk at an event, and Organize a meetup. On the right, another vertical box with two chat bubbles, one with a question mark and the other with a check mark with the word Mentoring. Below is an image of three people with a boar in the background and the word Cohort below."}
 
 ## Program goals
