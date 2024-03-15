@@ -43,7 +43,7 @@ rOpenSci’s standard communication channels are used to spread the news about t
 
 Before beginning, decide which languages the recruitment materials will be translated into and identify translators if necessary. Remember to consider all the materials that will need to be translated (blog posts, video captions, social media posts (mastodon, linkedIn, slack), slides, and emails).
 
-> The materials outlined below are saved in this folder (for internal use by the rOpenSci Champions Program Team. Preserved for archival reasons. All information is available with open licence and up to date on the Champions Program web site and this playbook): [*2. Communications plan*](https://drive.google.com/drive/folders/1UlW185xJI3NQ1soPnu4GhwvaMd85W1aD)
+> The materials outlined below are saved in this folder (for internal use by the rOpenSci Champions Program Team. Preserved for archival reasons. All information is available with open licence and up to date on the Champions Program web site and this playbook): [2. Communications plan](https://drive.google.com/drive/folders/1UlW185xJI3NQ1soPnu4GhwvaMd85W1aD)
 
 #### Step 1: Update program web pages
 
@@ -69,27 +69,61 @@ Once the web pages have been updated, the community manager drafts blog posts to
 
 - Blog post announcing the open call for champions and mentors 2023-2024 ([English](https://ropensci.org/blog/2023/07/14/call-champions-program/) and [Spanish](https://ropensci.org/es/blog/2023/07/14/launch-champions-program-es/))
 
-- rOpenSci Newletter announcements examples: [rOpenSci News Digest, September 2022](https://ropensci.org/blog/2022/09/23/ropensci-news-digest-september-2022/), [rOpenSci News Digest, October 2022](https://ropensci.org/blog/2022/10/21/ropensci-news-digest-october-2022/), [rOpenSci News Digest, July 2023](https://ropensci.org/blog/2023/07/21/news-july-2023/), [rOpenSci News Digest, August 2023](https://ropensci.org/blog/2023/08/25/news-august-2023/).
-
-- Social media post examples: 
 
 #### Step 3: Create an outreach plan and draft related text and resources
 
 Once the webpage and blog posts are ready, you are ready to begin promotion. The program should first be announced on the rOpenSci blog, newsletter, Slack, and social media sites.
 
+- rOpenSci Newletter announcements examples: [rOpenSci News Digest, September 2022](https://ropensci.org/blog/2022/09/23/ropensci-news-digest-september-2022/), [rOpenSci News Digest, October 2022](https://ropensci.org/blog/2022/10/21/ropensci-news-digest-october-2022/), [rOpenSci News Digest, July 2023](https://ropensci.org/blog/2023/07/21/news-july-2023/), [rOpenSci News Digest, August 2023](https://ropensci.org/blog/2023/08/25/news-august-2023/).
+
+- Social media post examples: 
+
+
 Then, promotion on other mailing lists and/or Slack workspaces can begin. To ensure a broad range of applicants, it may be helpful to give short presentations about the program at events or meetings hosted by other organisations or communities.
 
-The community manager may wish to conduct individual outreach to prospective mentors.
+The community manager may wish to conduct individual outreach to prospective mentors and champions.
 
--   Create a list of social media and email lists to post about the program
+##### Create a list of social media and email lists to post about the program.
 
-    -   List and draft text for the 2022-23 program: [*Communications channels*](https://docs.google.com/document/d/1tqtvKjCIsiDixVdxRU2GEI9hIdiRXc_ocZhptJYZ9Ws/edit)
+This is an example of Slack work spaces were we share about the Champions Program 2022-2023 cohort:
 
--   Update the rOpenSci outreach slide deck
+* AsiaR
+* CS&S
+* CSCCE
+* CSV Conf
+* CZI
+* French Speaking R Slack
+* GitHub Partners
+* LatinR
+* Life Science Trainers
+* MiR
+* Notebooks Now!
+* NumFOCUS
+* Open Science Community Saudi Arabia
+* R User Groups Organizers
+* R-Contributors
+* R-Forwards
+* R-Ladies Community
+* R-Ladies Organizers
+* R-Ladies Remote
+* RConsortium
+* ReproHack
+* rOpenSci
+* RSE
+* RStudio Certified Instructor
+* The Carpentries
+* The Turing Way
+* useR! 2021 Conf
+* useR! 2022 Conf
+* Women+ in Geospatial
 
-    -   [*rOpenSci - Abuja RUG*](https://docs.google.com/presentation/d/1Bah05iiIFM4lgOmqSAFNP8dZAfn3LXgoTjlIBxQg5nw/edit?usp=sharing)
+> List and draft text for the 2022-23 program for [Communications channels](https://docs.google.com/document/d/1tqtvKjCIsiDixVdxRU2GEI9hIdiRXc_ocZhptJYZ9Ws/edit). (For internal use by the rOpenSci Champions Program Team. Preserved for archival reasons. All information is available with open licence and up to date on the Champions Program web site and this playbook) 
 
--   Post recordings on the rOpenSci event webpage: [*https://ropensci.org/events/abuja-2022/*](https://ropensci.org/events/abuja-2022/)
+-   Update the rOpenSci Champions Program outreach slide deck.
+
+  - [*Champions Program Presentation at Abuja RUG - English](https://docs.google.com/presentation/d/1Bah05iiIFM4lgOmqSAFNP8dZAfn3LXgoTjlIBxQg5nw/edit?usp=sharing)
+
+  - Post recordings on the rOpenSci event webpage: [*https://ropensci.org/events/abuja-2022/*](https://ropensci.org/events/abuja-2022/)
 
     -   Presentation recording for the 2022-23 program: [*rOpenSci, a community for R developers and scientists, Yanina Bellini Saibene*](https://www.youtube.com/watch?v=AAotbYDQVdM)
 
