@@ -78,12 +78,13 @@ Once the webpage and blog posts are ready, you are ready to begin promotion. The
 
 - Social media post examples: 
 
+![](images/social-media-examples-1.jpg)
 
 Then, promotion on other mailing lists and/or Slack workspaces can begin. To ensure a broad range of applicants, it may be helpful to give short presentations about the program at events or meetings hosted by other organisations or communities.
 
 The community manager may wish to conduct individual outreach to prospective mentors and champions.
 
-##### Create a list of social media and email lists to post about the program.
+##### 3.1. Create a list of social media and email lists to post about the program.
 
 This is an example of Slack work spaces were we share about the Champions Program 2022-2023 cohort:
 
@@ -117,15 +118,21 @@ This is an example of Slack work spaces were we share about the Champions Progra
 * useR! 2022 Conf
 * Women+ in Geospatial
 
+##### 3.2. Draft the messages and schedulle for publication in each platform
+
+
+
 > List and draft text for the 2022-23 program for [Communications channels](https://docs.google.com/document/d/1tqtvKjCIsiDixVdxRU2GEI9hIdiRXc_ocZhptJYZ9Ws/edit). (For internal use by the rOpenSci Champions Program Team. Preserved for archival reasons. All information is available with open licence and up to date on the Champions Program web site and this playbook) 
 
--   Update the rOpenSci Champions Program outreach slide deck.
+##### 3.2. Update the rOpenSci Champions Program outreach slide deck.
+
+This are examples of promotional material for talks with local groups.
 
   - [*Champions Program Presentation at Abuja RUG - English](https://docs.google.com/presentation/d/1Bah05iiIFM4lgOmqSAFNP8dZAfn3LXgoTjlIBxQg5nw/edit?usp=sharing)
 
   - Post recordings on the rOpenSci event webpage: [*https://ropensci.org/events/abuja-2022/*](https://ropensci.org/events/abuja-2022/)
 
-    -   Presentation recording for the 2022-23 program: [*rOpenSci, a community for R developers and scientists, Yanina Bellini Saibene*](https://www.youtube.com/watch?v=AAotbYDQVdM)
+  - Presentation recording for the 2022-23 program: [*rOpenSci, a community for R developers and scientists, Yanina Bellini Saibene*](https://www.youtube.com/watch?v=AAotbYDQVdM)
 
 #### Step 4: Host application support activities
 
