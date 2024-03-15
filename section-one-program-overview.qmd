@@ -1,0 +1,174 @@
+# Program overview
+
+## Program background and rationale
+
+In 2022, rOpenSci was awarded \$400K in funding as part of the Chan Zuckerberg Initiative (CZI) Open Science program’s education and capacity building strategy. The funding supports a new champions program to enable more members of historically excluded groups to participate in, benefit from, and become leaders in the R, research software engineering, and open source and open science communities.
+
+Developers in the R and open source communities are overwhelmingly white, male, from a handful of countries, able, and primarily English-speaking. The rOpenSci Champions Program is for people from historically and systematically excluded groups who are interested in contributing to rOpenSci and the broader open-source and open-science communities.
+
+The 12-month-long program includes cohort-based training, project development support, and personal mentorship. Each cohort has ten champions and ten mentors. Champions participate in the following activities:
+
+-   **Training:** this is the first stage. Champions will learn about open-source scientific software development good practices, R package development, code peer-open-review, contribute to open-source software initiatives and communities, and organize outreach activities.
+
+::: callout-note
+One of the goals of this program was to ensure that all participants gained new skills and understanding. We wanted to support Champions and Mentors, as well as those who applied to the program but were not selected. Therefore, we ensured that all groups had access to different training opportunities.
+:::
+
+-   **Individual** **Project development:** Champions must develop the project they propose in their application. They have three options: develop a new R package or become part of the software peer review process as an author or as a reviewer.
+
+-   **Outreach activity:** the third stage involves an outreach activity for their home institution or local community. Examples of activities are: writing a blog post, teaching a workshop, talking at an event or organizing a meetup.
+
+-   **Mentoring and cohort:** During each stage of the program, there is 1:1 mentoring and quarterly cohort meetings.
+
+-   **Stipend:** we also pay a stipend to champions for participating.  This has been important for champions to be able to dedicate time to the activity.
+
+    \
+    ![Champions Program elements](images/cp-elements.jpg){fig-alt="Scheme with the elements of the Champions Program. A vertical box on the left has a calendar image up, below the text 12 months, 10 champions, 10 mentors, and below a $ image. In the middle are three horizontal boxes. The first says training with an image of a teacher signing in to a board, the second has a computer image and Project, and the last one has a presentation screen image and says Outreach. Each one lists the activities for the three stages. Training: Dev. good practices, package development, code review, and contribution to OSS and outreach. Project: New package, Peer-review their package, Become a reviewer. Outreach: Write a blog post, Teach a workshop, Talk at an event, and Organize a meetup. On the right, another vertical box with two chat bubbles, one with a question mark and the other with a check mark with the word Mentoring. Below is an image of three people with a boar in the background and the word Cohort below."}
+
+## Program goals
+
+The rOpenSci Champions Program aims to support R developers from around the world who identify as members of a group that is systematically excluded from the open software community. Participants will:
+
+-   Gain the skills to develop their own R package or gain confidence in submitting an R package for peer review or become a reviewer.
+
+-   Learn how to lead a workshop or other event about package development or software peer review - or another rOpenSci activity - in their local community or host institution.
+
+-   Connect with a supportive network of peers and mentors within the R ecosystem.
+
+-   Provide feedback to help rOpenSci to continue to host relevant, welcoming activities for R developers.
+
+-   Gain transferable skills and experiences that are sought after for careers in open-source software.
+
+Success will look like:
+
+-   Over 80% of selected champions complete training and cohort meetings
+
+-   Mentors and mentees build rapport during the program and a strong working relationship. This looks like:
+
+    -   Schedule and attend regular check-ins
+
+    -   Timely feedback on projects
+
+-   Over 80% of selected champions will either:
+
+    -   Build a new package
+
+    -   Complete the peer review process as an author
+
+    -   Complete the peer review process as a reviewer
+
+-   All selected champions will conduct at least one outreach and/or recruitment activity to promote participation in peer review and contribution to rOpenSci open source software, infrastructure, and documentation. Examples include:
+
+    -   Giving a presentation about rOpenSci at their home institution
+
+    -   Writing a blog post
+
+    -   Organizing a peer groups in their communities
+
+-   All champions and mentors will gather and share feedback on where rOpenSci’s current programming might be improved to meet the needs of all who wish to participate. Feedback may be shared in the following ways:
+
+    -   Via email to the rOpenSci community manager
+
+    -   Verbally, during training
+
+    -   Via questionnaires / surveys
+
+## Team working on the program
+
+Below is a table describing the team working on the Champions program.
+
++------------------------+----------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------+
+| **Name**               | **Title**                                                                                    | **Role in the Program**                                                                                              |
++------------------------+----------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------+
+| Karthik Ram            | rOpenSci Executive Director, Project PI                                                      | Program oversight, Selection of champions and mentors                                                                |
++------------------------+----------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------+
+| Maëlle Salmon          | Research Software Engineer, Project co-PI, Associate editor of rOpenSci Software Peer Review | Selection of champions and mentors, training, develop infrastructure for the program.                                |
++------------------------+----------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------+
+| Yanina Bellini Saibene | rOpenSci Community Manager                                                                   | Program manager - including program design, develop insfrastructure, communications, project management and outreach |
+|                        |                                                                                              |                                                                                                                      |
+|                        |                                                                                              | Selection of champions and mementors                                                                                 |
+|                        |                                                                                              |                                                                                                                      |
+|                        |                                                                                              | Training                                                                                                             |
++------------------------+----------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------+
+| Noam Ross              | Software Review Lead                                                                         | Selection of champions and mentors                                                                                   |
+|                        |                                                                                              |                                                                                                                      |
+|                        |                                                                                              | Organization of the project related to review process                                                                |
++------------------------+----------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------+
+| Mark Padgham           | Software Research Scientist                                                                  | Selection of champions and mentors                                                                                   |
++------------------------+----------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------+
+| Steffi LaZerte         | Community Assistant                                                                          | Communications                                                                                                       |
++------------------------+----------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------+
+| Lou Woodley            | CSCCE Founder and Director                                                                   | Consultation on program design                                                                                       |
+|                        |                                                                                              |                                                                                                                      |
+|                        |                                                                                              | Training                                                                                                             |
++------------------------+----------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------+
+| Camille Santistevan    | CSCCE Director of Learning                                                                   | Consultation on program design \| \| Training and assessment. \|                                                     |
++------------------------+----------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------+
+| Maya Sanghvi           | CSCCE Junior Trainer and Curriculum Assistant                                                | Training and assessment.                                                                                             |
++------------------------+----------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------+
+
+### Instructors
+
+In addition to the team mentioned above, there are two guest instructors: Mauro Lepore developed the material and gave the workshop on *peer-review software*, and Heather Turner gave the workshop on *How to contribute to base R*. Paola Corrales, one of the champions, volunteered to teach an introductory workshop on *Git and GitHub*.
+
+## Program timeline
+
+The edideal program timeline is listed below. An external-facing timeline for the current cohort was communicated on the rOpenSci website.
+
+### 2022-2023 tentative timeline
+
++------------------------+-------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------+
+| Date                   | Event                                                                         | Detail                                                                                                                                                                                                                      | Duration |
++========================+===============================================================================+=============================================================================================================================================================================================================================+==========+
+| January 2023           | Kick-off event                                                                | Learn about the program, review the program expectations, and address questions. Meet mentors.                                                                                                                              | 1.5 h    |
++------------------------+-------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------+
+| February 2023          | Training                                                                      | How to plan and facilitate engaging and inclusive workshops to support participants’ success (by CSCCE)                                                                                                                     | 1.5 h    |
++------------------------+-------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------+
+| February 2023          | Training                                                                      | Knowledge of various channels through which new members can engage in and contribute to rOpenSci and R projects (by rOpenSci)                                                                                               | 1.5 h    |
++------------------------+-------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------+
+| February 2023          | Training                                                                      | One of two:Technical skills in software development, or, Technical skills in software review. (by rOpenSci)                                                                                                                 | 1.5 h    |
++------------------------+-------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------+
+| March 2023             | Cohort meeting: Presentation of projects                                      | Champions' 5 minutes presentations of their project (package review or development) and get feedback.                                                                                                                       | 1.5 h    |
++------------------------+-------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------+
+| March-July 2023        | Develop project. Meeting with mentors                                         | Go through the review process as an author, or as a reviewer, or build the package of their choice                                                                                                                          |          |
++------------------------+-------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------+
+| Jun 2023               | Cohort meeting: Reflections on projects                                       | Champions will be invited to share takeaways from their projects with the cohort.                                                                                                                                           | 1.5 h    |
++------------------------+-------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------+
+| August - November 2023 | Champions outreach: host events, deliver talk, write about their experiences. | Champion's host: a workshop on good practices to build packages or good practices in software peer review or deliver a talk on a conference/event and one community event to gather feedback to improve rOpenSci’s projects | 1 to 3 h |
++------------------------+-------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------+
+| September 2023         | Cohort meeting: Reflections on events                                         | Champions will be invited to share takeaways from their events with the cohort.                                                                                                                                             | 1.5 h    |
++------------------------+-------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------+
+| December 2023          | Cohort meeting: Reflections on program                                        | Champions will be invited to share takeaways from the program with the cohort and start to define future roles for Champions.                                                                                               | 1.5 h    |
++------------------------+-------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------+
+| January-February 2024  | Assessment and End of term                                                    | Close cohort and define new roles for Champions. Anonymous survey, Champions interview and mentors focus group                                                                                                              | 1 h      |
++------------------------+-------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------+
+
+### 2023-2024 tentative timeline
+
++-----------------------+-------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------+
+| Date                  | Event                                                                         | Detail                                                                                                                                                                                                                      | Duration |
++=======================+===============================================================================+=============================================================================================================================================================================================================================+==========+
+| November 2023         | Kick-off event                                                                | Learn about the program, review the program expectations, and address questions. Meet mentors.                                                                                                                              | 1.5 h    |
++-----------------------+-------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------+
+| January - April 2024  | Training                                                                      | How to plan and facilitate engaging and inclusive workshops to support participants’ success (by CSCCE)                                                                                                                     | 2 h      |
++-----------------------+-------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------+
+| January - April 2024  | Training                                                                      | Knowledge of various channels through which new members can engage in and contribute to rOpenSci and R projects (by rOpenSci)                                                                                               | 2 h      |
++-----------------------+-------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------+
+| January - April 2024  | Training                                                                      | Technical skills in software development (by rOpenSci)                                                                                                                                                                      | 2 h      |
++-----------------------+-------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------+
+| January - April 2024  | Training                                                                      | Technical skills in software review. (by rOpenSci)                                                                                                                                                                          | 2 h      |
++-----------------------+-------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------+
+| March-July 2024       | Develop project. Meeting with mentors                                         | Go through the review process as an author, or as a reviewer, or build the package of their choice                                                                                                                          |          |
++-----------------------+-------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------+
+| May 2024              | Cohort meeting: Presentation of projects                                      | Champions' 5 minutes presentations of their project (package review or development) and get feedback.                                                                                                                       | 1.5 h    |
++-----------------------+-------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------+
+| August - October 2024 | Champions outreach: host events, deliver talk, write about their experiences. | Champion's host: a workshop on good practices to build packages or good practices in software peer review or deliver a talk on a conference/event and one community event to gather feedback to improve rOpenSci’s projects | 1 to 3 h |
++-----------------------+-------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------+
+| July 2024             | Cohort meeting: Reflections on projects                                       | Champions will be invited to share takeaways from their projects with the cohort.                                                                                                                                           | 1.5 h    |
++-----------------------+-------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------+
+| September 2024        | Cohort meeting: Reflections on events                                         | Champions will be invited to share takeaways from their events with the cohort.                                                                                                                                             | 1.5 h    |
++-----------------------+-------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------+
+| October 2024          | Cohort meeting: Reflections on program                                        | Champions will be invited to share takeaways from the program with the cohort and start to define future roles for Champions.                                                                                               | 1.5 h    |
++-----------------------+-------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------+
+| November 2024         | Assessment and End of Term                                                    | Surveys, interviews and focus groups. Close cohort and define new roles for Champions.                                                                                                                                      | 1 h      |
++-----------------------+-------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------+
