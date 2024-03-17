@@ -60,16 +60,16 @@ Before beginning promotion, review the program webpage text and update as approp
 
 The [main Champions program webpage](https://ropensci.org/champions/): present the information about:
 
--   Program general information like goals, format, and timeline.
+-   Program general information like goals, format, and training.
 
--   Champions and mentors information including eligibility criteria, benefits of taking part, expectations, [timeline for the program](https://ropensci.org/champions/#program-2023-2024-timeline), [FAQs for champions](https://ropensci.org/champions/programdetails_2023/#frequently-asked-questions) and [for Mentors](https://ropensci.org/champions/programdetailsmentors_2023/#frequently-asked-questions), and templates.
+-   [Champions](https://ropensci.org/champions/programdetails_2023/) and [mentors](https://ropensci.org/champions/programdetailsmentors_2023/) information including eligibility criteria, benefits of taking part, expectations, timeline for the program, FAQs, and templates.
 
--   Timeline for the application
+-   Application timeline template (example data for 2023-2024 call)
 
     **2023-2024 Application timeline**
 
     | Date        | Event                                                                                                                                                        |
-    |---------------|---------------------------------------------------------|
+    |-----------------|-------------------------------------------------------|
     | Jul 14      | Call for Champions and Mentor Applications opens 🎉                                                                                                          |
     | Jul 25      | \[OPTIONAL\] Community Call - Learn from other Mentors and Champions and get tips for submitting your application                                            |
     | Aug 17 & 23 | \[OPTIONAL\] Coworking Champions Application Clinics in different timezones (Aug 17 and Aug 23): receive help with your application to the Champions Program |
@@ -103,11 +103,21 @@ Once the webpage and blog posts are ready, you are ready to begin promotion. The
 
 -   Social media post examples:
 
-![Announcement of the Champions Program and Reminder of the last day for send the application](images/social-media-examples-1.jpg) ![Post with important dates and a community partner post sharing the second cohort call](images/social-media-examples-2.jpg)
+![Announcement of the Champions Program and Reminder of the last day for send the application](images/social-media-examples-1.jpg)
 
 Then, promotion on other mailing lists and/or Slack workspaces can begin. To ensure a broad range of applicants, it may be helpful to give short presentations about the program at events or meetings hosted by other organisations or communities.
 
+![Post with important dates and a community partner post sharing the second cohort call](images/social-media-examples-2.jpg)
+
 The community manager may wish to conduct individual outreach to prospective mentors and champions.
+
+::: callout-tip
+## Communication platform
+
+Email messages were the best media for individual outreach. In the message, it is important to include when and where the program manager knows the person and why they think they are a good fit for the Champions program.
+
+Remember to provide a way for individuals to be removed from future communications about the Champions program.
+:::
 
 ##### 3.1. Create a list of social media and email lists to post about the program.
 
@@ -151,7 +161,7 @@ Here are examples of the message used to communicate about the program:
 
 -   Slack message:
 
-> Hi Community !! :wave: :mega:At rOpenSci we are thrilled to launch our Champions program!
+> Hi Community !! :wave: :mega: At rOpenSci we are thrilled to launch our Champions program!
 >
 > The rOpenSci Champions Program is part of a series of activities and projects we are carrying out to ensure our research software serves everyone in our communities. That is why this program focuses on people who belong to groups that are historically and systematically excluded from the open software and research software communities and who are interested in contributing to rOpenSci and the broader open source and research software communities.
 >
@@ -163,17 +173,105 @@ Here are examples of the message used to communicate about the program:
 >
 > Please share widely with people who may be interested. Thank you! :pray:
 
-> List and draft text for the 2022-23 program for [Communications channels](https://docs.google.com/document/d/1tqtvKjCIsiDixVdxRU2GEI9hIdiRXc_ocZhptJYZ9Ws/edit). (For internal use by the rOpenSci Champions Program Team. Preserved for archival reasons. All information is available with open licence and up to date on the Champions Program web site and this playbook)
+-   Mastodon:
+
+    -   First post on Monday:
+
+        > 📢 We are thrilled to launch the rOpenSci Champions Program pilot!
+        >
+        > Champions programs aim to identify, recognize & reward emerging leaders within a community.
+        >
+        > Info on eligibility, timeline, curriculum, application process, etc. is on <https://ropensci.org/blog/2022/09/22/launch-champions-program/> 
+        >
+        > Apply by Nov 7!
+
+        > 📢 Estamos felices de lanzar el programa piloto rOpenSci Champions.
+        >
+        > Tenemos como objetivo identificar, reconocer y premiar a líderes emergentes dentro de la comunidad.
+        >
+        > Info sobre elegibilidad, agenda, curriculum, aplicación en https://ropensci.org/blog/2022/09/22/launch-champions-program-es/
+        >
+        > Aplica antes de Nov, 7!
+
+    -   Second Post, Tuesday (morning)
+
+    > rOpenSci Champions Program is for people from systematically excluded groups interested in contributing to rOpenSci and the broader open source and open science communities.
+    >
+    > \+ Info (eligibility, timeline, curriculum, application) https://ropensci.org/champions/
+
+    > El Programa de Campeonas/es de rOpenSci está dirigido a personas de grupos sistemáticamente excluidos interesadas en contribuir a rOpenSci y a las comunidades de código y ciencia abierta.
+    >
+    > \+ Info (elegibilidad, calendario, cursos, como aplicar) https://ropensci.org/champions/
+
+    -   Third Post, Tuesday (afternoon)
+
+    > Champions Program Eligibility
+    >
+    > \* Identify as a member of a systematically excluded groups
+    >
+    > \* Anywhere in the world
+    >
+    > \* Know how to develop using R
+    >
+    > \* Solid idea for developing an R package or
+    >
+    > \* Have your pkg peer-reviewed or
+    >
+    > \* Become a reviewer for us
+    >
+    > Apply now!
+    >
+    > https://ropensci.org/champions/
+
+    > -   Fourth post, Wednesday (morning)
+    >
+    > We have developed a 12-month-long program, including cohort-based training, project development, and personal mentorship.
+    >
+    > After training, Champions will develop their project:
+    >
+    > \* create a new pkg, or
+    >
+    > \* peer-review their pkg, or
+    >
+    > \* be a reviewer
+    >
+    > +info: https://ropensci.org/blog/2022/09/22/launch-champions-program/
+
+    -   Fifth post, Wednesday (afternoon)
+
+> Champions will be trained in:\
+>
+> -   Plan & facilitate engaging & inclusive workshops to support participants’ success,
+>
+> -   Channels for contributing to rOpenSci and R projects, and
+>
+> -   Technical skills in software development & review.
+>
+> \+ info: https://ropensci.org/champions/
+
+::: callout-note
+List and draft text for the 2022-23 program for [Communications channels](https://docs.google.com/document/d/1tqtvKjCIsiDixVdxRU2GEI9hIdiRXc_ocZhptJYZ9Ws/edit). (Document Preserved for archival reasons and internal use by the rOpenSci Champions Program Team. All information is available with an open license and up to date on the Champions Program website and this playbook)
+:::
 
 ##### 3.2. Update the rOpenSci Champions Program outreach slide deck.
 
-This are examples of promotional material for talks with local groups.
+Update the timeline for the application, but also add material on the outcomes for the previews cohort, like the type of project and the training topics.
 
--   [\*Champions Program Presentation at Abuja RUG - English](https://docs.google.com/presentation/d/1Bah05iiIFM4lgOmqSAFNP8dZAfn3LXgoTjlIBxQg5nw/edit?usp=sharing)
+Material used to promote the Champions program:
 
--   Post recordings on the rOpenSci event webpage: [*https://ropensci.org/events/abuja-2022/*](https://ropensci.org/events/abuja-2022/)
+-   [Champions Program Presentation slides at Abuja RUG 2022-2023 - English](https://docs.google.com/presentation/d/1Bah05iiIFM4lgOmqSAFNP8dZAfn3LXgoTjlIBxQg5nw/edit?usp=sharing)
 
--   Presentation recording for the 2022-23 program: [*rOpenSci, a community for R developers and scientists, Yanina Bellini Saibene*](https://www.youtube.com/watch?v=AAotbYDQVdM)
+    -   [Post recordings on the rOpenSci event webpage.](https://ropensci.org/events/abuja-2022/)
+
+-   [Champions Program Presentation slides at RenBaires RUG 2022-2023 - Spanish](https://docs.google.com/presentation/d/1amYxhEIUTUsulOsrJezqjwW4On6ftw-S9Ozbxv-NFaI/edit?usp=sharing)
+
+    -   [Post recording on the rOpenSci event webpage](https://ropensci.org/events/renbaires-2022/).
+
+-   [Champions Program Presentation slides at R-Ladies Buenos Aires and R-Ladies Santa Rosa - 2023-2024 - Spanish](https://rocp2324.netlify.app)
+
+    -   
+
+-   
 
 #### Step 4: Host application support activities
 
