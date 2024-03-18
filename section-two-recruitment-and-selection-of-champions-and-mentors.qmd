@@ -287,19 +287,13 @@ The community manager should plan two live sessions to support potential applica
 For the first community call, you can invite people from other champions and ambassador programs to share how these programs benefit participants and their communities.
 :::
 
--   **Co-working hours:** rOpenSci has monthly 2-hour co-working and social meetings.
+-   **Co-working hours:** rOpenSci has monthly 2-hour co-working and social meetings organized in different time zones each time. We organize this space for people to come and work on their applications, have the chance to review their proposals and to make questions about the program.
 
-    -   August 23, 2023
+    -   [Champions Program Application Clinic](https://docs.google.com/document/u/0/d/1axO9nP4uFBY1GH5AZU-BTmINl3_V4m9RKCHmHy5aYyo/edit) - 2022-2023.
 
-        [Champions Program Application Clinic](https://ropensci.org/events/coworking-2023-08-23/)
+    -   [Champions Program Application Clinic](https://ropensci.org/events/coworking-2023-08-23/) - 2023-2024.
 
-        With Yanina Bellini Saibene, Steffi LaZerte
-
-        August 17, 2023
-
-        [Champions Program Application Clinic](https://ropensci.org/events/coworking-2023-08-17/)
-
-        With Yanina Bellini Saibene, Steffi LaZerte
+    -   [Champions Program Application Clinic](https://ropensci.org/events/coworking-2023-08-17/) - 2023-2024.
 
 ### Selection and matching process
 
