@@ -269,17 +269,37 @@ Material used to promote the Champions program:
 
 -   [Champions Program Presentation slides at R-Ladies Buenos Aires and R-Ladies Santa Rosa - 2023-2024 - Spanish](https://rocp2324.netlify.app)
 
-    -   
-
--   
+    -   [Video recording](https://vimeo.com/854320485)
 
 #### Step 4: Host application support activities
 
-The community manager should plan two live sessions to support potential applicants: 1) a community call where applicants can ask specific questions about the application process and 2) a coworking session where applicants can work on the application together in real-time.
+The community manager should plan two live sessions to support potential applicants: 1) a community call where applicants can ask specific questions about the application process and 2) a coworking session where applicants can work on the application together in real time.
 
--   Application community call
+-   **Application community call:** former champions and mentors share their experiences and provide advice on how to apply. They answer questions from attendees.
 
--   Co-working hours
+    -   [Mentoring & training program for Scientific Open Source Champions 2022-2023 Community Call.](https://ropensci.org/commcalls/oct2022-champions/)
+
+    -   [Mentoring & training program for Scientific Open Source Champions 2023-2024 Community Call.](https://ropensci.org/commcalls/july2023-championprogram/)
+
+::: callout-tip
+## First Community Call
+
+For the first community call, you can invite people from other champions and ambassador programs to share how these programs benefit participants and their communities.
+:::
+
+-   **Co-working hours:** rOpenSci has monthly 2-hour co-working and social meetings.
+
+    -   August 23, 2023
+
+        [Champions Program Application Clinic](https://ropensci.org/events/coworking-2023-08-23/)
+
+        With Yanina Bellini Saibene, Steffi LaZerte
+
+        August 17, 2023
+
+        [Champions Program Application Clinic](https://ropensci.org/events/coworking-2023-08-17/)
+
+        With Yanina Bellini Saibene, Steffi LaZerte
 
 ### Selection and matching process
 
