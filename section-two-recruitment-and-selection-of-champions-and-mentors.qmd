@@ -223,7 +223,8 @@ Here are examples of the message used to communicate about the program:
     >
     > https://ropensci.org/champions/
 
-    > -   Fourth post, Wednesday (morning)
+    -   Fourth post, Wednesday (morning)
+    
     >
     > We have developed a 12-month-long program, including cohort-based training, project development, and personal mentorship.
     >
@@ -239,21 +240,21 @@ Here are examples of the message used to communicate about the program:
 
     -   Fifth post, Wednesday (afternoon)
 
-> Champions will be trained in:\
->
-> -   Plan & facilitate engaging & inclusive workshops to support participants’ success,
->
-> -   Channels for contributing to rOpenSci and R projects, and
->
-> -   Technical skills in software development & review.
->
-> \+ info: https://ropensci.org/champions/
+    > Champions will be trained in:\
+    >
+    > -   Plan & facilitate engaging & inclusive workshops to support participants’ success,
+    >
+    > -   Channels for contributing to rOpenSci and R projects, and
+    >
+    > -   Technical skills in software development & review.
+    >
+    > \+ info: https://ropensci.org/champions/
 
 ::: callout-note
 List and draft text for the 2022-23 program for [Communications channels](https://docs.google.com/document/d/1tqtvKjCIsiDixVdxRU2GEI9hIdiRXc_ocZhptJYZ9Ws/edit). (Document Preserved for archival reasons and internal use by the rOpenSci Champions Program Team. All information is available with an open license and up to date on the Champions Program website and this playbook)
 :::
 
-##### 3.2. Update the rOpenSci Champions Program outreach slide deck.
+##### 3.3. Update the rOpenSci Champions Program outreach slide deck.
 
 Update the timeline for the application, but also add material on the outcomes for the previews cohort, like the type of project and the training topics.
 
@@ -295,15 +296,15 @@ For the first community call, you can invite people from other champions and amb
 
     -   [Champions Program Application Clinic](https://ropensci.org/events/coworking-2023-08-17/) - 2023-2024.
 
-### Selection and matching process
+## Selection and matching process
 
 The rOpenSci team is responsible for selecting both champions and mentors using screening rubrics. Below are details about each step of the selection and matching process, including suggested timelines.
 
-#### Step 1: Community manager assigns applications to reviewers (1 week)
+### Step 1: Community manager assigns applications to reviewers (1 week)
 
 After the application deadline, the community manager can evenly assign applications to each reviewer, taking into account any conflicts of interest.
 
-#### Step 2: Selection team reviews their assigned applicants (2 weeks)
+### Step 2: Selection team reviews their assigned applicants (2 weeks)
 
 The reviewers should consider all their assigned applications using the screening rubric and set aside any candidates that don’t meet the basic criteria. The team should take care to write substantive feedback as we attempt to provide each applicant with feedback that may be helpful to them in the future.
 
@@ -313,7 +314,7 @@ In a slack private direct message group, the team discusses any doubts during th
 
 -   [*rOpenSci Champions Mentors rubric template*](https://docs.google.com/spreadsheets/d/1b3fm6yRcZP7ZzOaXr8jtW_rLMBqHOytMlDuCcEAEkoo/edit#gid=3253069)
 
-#### Step 3: Meeting to discuss applicants and potential mentor matches
+### Step 3: Meeting to discuss applicants and potential mentor matches
 
 The selection committee should meet to discuss the top applicants and consider potential mentor matches. The goal of this meeting is to settle on a final list.
 
@@ -325,7 +326,7 @@ We also consider the champion's proposed project alongside the mentor pool to en
 
 The champion/mentor assignments are created by the CM with input from the team during the meeting, and then the team reviews that final mix. It is discussed asynchronously in the Slack group set up for the review.
 
-#### Step 4: Inform applicants (3 weeks)
+### Step 4: Inform applicants (3 weeks)
 
 Once you have selected the top applicants, prepare individual messages to each person to inform them and request them to confirm their participation by a certain date. If for some reason a successful applicant can no longer participate, you can invite the next best applicant to take their place.
 
