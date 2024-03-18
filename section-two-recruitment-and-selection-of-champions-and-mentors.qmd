@@ -326,17 +326,13 @@ Before the meeting the community manager reviews all the applications with their
 
 The reviewers initially consider the definite and possible yeses which may be up to twice as many candidates who can be selected. Reviewers should take into account not only the ranking but also the country/region they come from, type of project they want to mentor, languages spoken, and gender.
 
-We also consider the champion's proposed project alongside the mentor pool to ensure the type and topic is within the scope and that they can be well supported. We also take into account that the champions and mentors are in compatible time zones and speak a common language. Finally, the region and gender of the mentors are variables taken into account in the final selection.
-
-The champion/mentor assignments are created by the CM with input from the team during the meeting, and then the team reviews that final mix. It is discussed asynchronously in the Slack group set up for the review.
-
 ### Step 4: Inform applicants (3 weeks)
 
 Once you have selected the top applicants, prepare individual messages to each person to inform them and request them to confirm their participation by a certain date. If for some reason a successful applicant can no longer participate, you can invite the next best applicant to take their place.
 
-After all selected champions and mentors have confirmed their participation, prepare messages to inform applicants who were unsuccessful. Whenever possible, we try to include specific feedback to each applicant, so they can make improvements for next time. We also strive to direct them to other rOpenSci activities or opportunities that may be of interest to them.
+After all selected mentors have confirmed their participation, prepare messages to inform applicants who were no selected. 
 
--   Draft text to applicants: [*Feedback for* *champions*](https://docs.google.com/document/d/1mB6_Fdn16XMkh4ORN7bZMSRtiGnvl_iZWNeEzQIZ6Iw/edit#heading=h.wskca8x07uq9)
+
 
 
 ## Champions
@@ -344,6 +340,14 @@ After all selected champions and mentors have confirmed their participation, pre
 The team should take care to write substantive feedback as we attempt to provide each applicant with feedback that may be helpful to them in the future.
 
 -   [*rOpenSci Champions screening rubric template*](https://docs.google.com/spreadsheets/d/1Ox2ELEAUsJAwWAl8cSONjIpGGij304aHUCwPM8EJSlU/edit#gid=0)
+
+We also consider the champion's proposed project alongside the mentor pool to ensure the type and topic is within the scope and that they can be well supported. We also take into account that the champions and mentors are in compatible time zones and speak a common language. Finally, the region and gender of the mentors are variables taken into account in the final selection.
+
+The champion/mentor assignments are created by the CM with input from the team during the meeting, and then the team reviews that final mix. It is discussed asynchronously in the Slack group set up for the review.
+
+Whenever possible, we try to include specific feedback to each applicant, so they can make improvements for next time. We also strive to direct them to other rOpenSci activities or opportunities that may be of interest to them.
+
+-   Draft text to applicants: [Feedback for champions](https://docs.google.com/document/d/1mB6_Fdn16XMkh4ORN7bZMSRtiGnvl_iZWNeEzQIZ6Iw/edit#heading=h.wskca8x07uq9)
 
 ### First Cohort 2022-2023. Champions and Mentors
 
