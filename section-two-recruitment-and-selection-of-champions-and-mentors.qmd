@@ -305,11 +305,15 @@ For the second cohort the rOpenSci staff team was responsible for selecting ment
 Below are details about each step of the selection and matching process, including suggested timelines.
 
 
-### Step 1: Community manager assigns **mentors** applications to reviewers (1 week)
+### Step 1: Two rOpenSci Team members review application to confirm completion
 
-After the application deadline, the community manager can evenly assign applications to each reviewer, taking into account any conflicts of interest. Each application has two reviews. 
+After the application deadline, the community manager with other team member review *champions* and *mentors* applications to check for completion and elegibility.  Those application that are not complete or the project is not on the scope of the champions program are remove from the list. 
 
-### Step 2: Selection team reviews their assigned applicants (2 weeks)
+### Step 2: Community manager assigns **mentors** applications to reviewers (1 week)
+
+The community manager can evenly assign applications to each reviewer, taking into account any conflicts of interest. Each application has two reviews. 
+
+### Step 3: Selection team reviews their assigned mentors applicants (2 weeks)
 
 The reviewers should consider all their assigned applications using the screening rubric and set aside any candidates that don’t meet the basic criteria. 
 
@@ -318,7 +322,7 @@ In a slack private direct message group, the team discusses any doubts during th
 -   [rOpenSci Champions Mentors rubric template](https://docs.google.com/spreadsheets/d/10nEclohvEKZNyma7tz1ztvkJOz4gERZGfuahGWNp1mE/edit?usp=sharing). 
 
 
-### Step 3: Meeting to discuss applicants and final selection
+### Step 4: Meeting to discuss mentors applicants and final selection
 
 The selection committee should meet to discuss the top applicants. The goal of this meeting is to settle on a final list.
 
@@ -326,16 +330,20 @@ Before the meeting the community manager reviews all the applications with their
 
 The reviewers initially consider the definite and possible yeses which may be up to twice as many candidates who can be selected. Reviewers should take into account not only the ranking but also the country/region they come from, type of project they want to mentor, languages spoken, and gender.
 
-### Step 4: Inform applicants (3 weeks)
+### Step 5: Inform mentors applicants (3 weeks)
 
 Once you have selected the top applicants, prepare individual messages to each person to inform them and request them to confirm their participation by a certain date. If for some reason a successful applicant can no longer participate, you can invite the next best applicant to take their place.
 
 After all selected mentors have confirmed their participation, prepare messages to inform applicants who were no selected. 
 
 
+### Step 6: Community manager assigns **champions** applications to reviewers (1 week)
 
+The community manager can evenly assign applications to each reviewer, taking into account any conflicts of interest. Each application has two reviews. 
 
-## Champions
+Mentors for the current cohort are reviewers. Because of the high number of application we also invite mentor from previews cohort to review.  We aim to assign between 10 to 20 applications to each reviewer. 
+
+### Step 7: 
 
 The team should take care to write substantive feedback as we attempt to provide each applicant with feedback that may be helpful to them in the future.
 
@@ -364,7 +372,7 @@ Whenever possible, we try to include specific feedback to each applicant, so the
 | Paola Belén Corrales     | package peer-review   | Adam Sparks              |
 | Victor Ordu              | package peer-review   | Laura DeCicco            |
 
-#### Second Cohort 2023-2024. Champions and Mentors
+### Second Cohort 2023-2024. Champions and Mentors
 
 | Champion Name                  | Project type          | Mentor Name                      |
 |---------------------------|------------------|---------------------------|
