@@ -343,7 +343,12 @@ The community manager can evenly assign applications to each reviewer, taking in
 
 Mentors for the current cohort are reviewers. Because of the high number of application we also invite mentor from previews cohort to review.  We aim to assign between 10 to 20 applications to each reviewer. 
 
-### Step 7: 
+### Step 7: Selection team reviews their assigned mentors applicants (2 weeks)
+
+The reviewers should consider all their assigned applications using the screening rubric and set aside any candidates that don’t meet the basic criteria. 
+
+In a slack private direct message group, the team discusses any doubts during the review. The doubts may be related to the rubric, to details in the application, etc
+
 
 The team should take care to write substantive feedback as we attempt to provide each applicant with feedback that may be helpful to them in the future.
 
