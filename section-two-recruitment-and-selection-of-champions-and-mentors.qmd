@@ -69,7 +69,7 @@ The [main Champions program webpage](https://ropensci.org/champions/): present t
     **2023-2024 Application timeline**
 
     | Date        | Event                                                                                                                                                        |
-    |------------------|------------------------------------------------------|
+    |-------------------|-----------------------------------------------------|
     | Jul 14      | Call for Champions and Mentor Applications opens 🎉                                                                                                          |
     | Jul 25      | \[OPTIONAL\] Community Call - Learn from other Mentors and Champions and get tips for submitting your application                                            |
     | Aug 17 & 23 | \[OPTIONAL\] Coworking Champions Application Clinics in different timezones (Aug 17 and Aug 23): receive help with your application to the Champions Program |
@@ -112,8 +112,6 @@ Then, promotion on other mailing lists and/or Slack workspaces can begin. To ens
 The community manager may wish to conduct individual outreach to prospective mentors and champions.
 
 ::: callout-tip
-## Communication platform
-
 Email messages were the best media for individual outreach. In the message, it is important to include when and where the program manager knows the person and why they think they are a good fit for the Champions program.
 
 Remember to provide a way for individuals to be removed from future communications about the Champions program.
@@ -305,7 +303,7 @@ Below are details about each step of the selection and matching process, includi
 
 ### Step 1: Two rOpenSci Team members review application to confirm completion
 
-After the application deadline, the community manager with other team member review *champions* and *mentors* applicationsand set aside any candidates that don’t meet the basic criteria.Those application that are not complete or the project is not on the scope of the champions program are remove from the list.
+After the application deadline, the community manager with other team member review *champions* and *mentors* applicationsand set aside any candidates that don’t meet the basic criteria. Those application that are not complete or the project is not on the scope of the champions program are remove from the list.
 
 ### Step 2: Community manager assigns **mentors** applications to reviewers (1 week)
 
@@ -319,7 +317,7 @@ In a slack private direct message group, the team discusses any doubts during th
 
 -   [rOpenSci Champions Mentors rubric template](https://docs.google.com/spreadsheets/d/10nEclohvEKZNyma7tz1ztvkJOz4gERZGfuahGWNp1mE/edit?usp=sharing).
 
-### Step 4: Meeting to discuss mentors applicants and final selection
+### Step 4: Meeting to discuss mentors applicants and final selection (1 week)
 
 The selection committee should meet to discuss the top applicants. The goal of this meeting is to settle on a final list.
 
@@ -327,7 +325,7 @@ Before the meeting the community manager reviews all the applications with their
 
 The reviewers initially consider the definite and possible yeses which may be up to twice as many candidates who can be selected. Reviewers should take into account not only the ranking but also the country/region they come from, type of project they want to mentor, languages spoken, and gender.
 
-### Step 5: Inform mentors applicants (3 weeks)
+### Step 5: Inform mentors applicants (2 weeks)
 
 Once you have selected the top applicants, prepare individual messages to each person to inform them and request them to confirm their participation by a certain date. If for some reason a successful applicant can no longer participate, you can invite the next best applicant to take their place.
 
@@ -349,15 +347,13 @@ The team should take care to write substantive feedback as we attempt to provide
 
 -   [*rOpenSci Champions screening rubric template*](https://docs.google.com/spreadsheets/d/1ZySOzrMSYq6OlMgWpYOBZedO9FVkOsPe_e-lqcUYQyQ/edit?usp=sharing)
 
-### Step 8: Consistency Analysis (2 weeks).
+### Step 8: Consistency Analysis, and Diversity and Representation Review (1 week)
 
 A quantitative analysis is conducted to examine the consensus among reviewers. This step ensures that revisions are aligned, promoting fairness and minimizing bias in the selection process.
 
-### Step 9: Diversity and Representation Review.
-
 With a focus on diversity and representation, the list of candidates with higher scores is then carefully reviewed to ensure it reflects a broad spectrum of backgrounds and regions. This may involve adding promising candidates to the pool to achieve a truly representative group of potential champions. The program manager create a top candidate list that double the number of spots.
 
-### Step 10: Final Selection by Mentors.
+### Step 9: Final Selection by Mentors (1 week).
 
 The culmination of the process consists of mentors reviewing the top candidates to select their mentees. Mentors tag every candidate with these options:
 
@@ -369,16 +365,25 @@ The culmination of the process consists of mentors reviewing the top candidates 
 Involving mentors in the selection process significantly enhances the mentor-mentee relationship, as mentors' insights into the selection process ensure a more effective and synergistic pairing. This involvement is crucial for identifying which projects resonate most with mentors, thereby facilitating a more informed and meaningful final match.
 :::
 
-### Step 11: Final match mentor-mentee.
+### Step 10: Final match mentor-mentee (1 week).
+
+The program manager create the final match, taking into account the preference for the project, that the champions and mentors are in compatible time zones and speak a common language.
+
+### Step 11: Inform applicants (3 weeks)
+
+Once you have selected the top applicants, prepare individual messages to each person to inform them and request them to confirm their participation by a certain date. If for some reason a successful applicant can no longer participate, you can invite the next best applicant to take their place (already matched in the previews step).
+
+After all selected champions have confirmed their participation, prepare messages to inform applicants who were no selected. Whenever possible, we try to include specific feedback to each applicant, so they can make improvements for next time. We also strive to direct them to other rOpenSci activities or opportunities that may be of interest to them.
+
+::: callout-note
+When the review takes longer than planned, we inform the applicants the status of the process by email. 
+:::
 
 
-We also take into account that the champions and mentors are in compatible time zones and speak a common language. Finally, the region and gender of the mentors are variables taken into account in the final selection.
+::: callout-note
+[Google doc with templates for acceptance - rejection for champions and mentors](https://docs.google.com/document/d/1mB6_Fdn16XMkh4ORN7bZMSRtiGnvl_iZWNeEzQIZ6Iw/edit#heading=h.wskca8x07uq9). Preserved for archival reasons. Access only by the rOpenSci Champions Program Team. All information is available with open license and up to date on the Champions Program web site and this playbook.
+:::
 
-The champion/mentor assignments are created by the CM with input from the team during the meeting, and then the team reviews that final mix. It is discussed asynchronously in the Slack group set up for the review.
-
-Whenever possible, we try to include specific feedback to each applicant, so they can make improvements for next time. We also strive to direct them to other rOpenSci activities or opportunities that may be of interest to them.
-
--   Draft text to applicants: [Feedback for champions](https://docs.google.com/document/d/1mB6_Fdn16XMkh4ORN7bZMSRtiGnvl_iZWNeEzQIZ6Iw/edit#heading=h.wskca8x07uq9)
 
 ### First Cohort 2022-2023. Champions and Mentors
 
@@ -394,6 +399,7 @@ Whenever possible, we try to include specific feedback to each applicant, so the
 | Marcos Miguel Prunello   | package peer-review   | Lukas Walrick            |
 | Paola Belén Corrales     | package peer-review   | Adam Sparks              |
 | Victor Ordu              | package peer-review   | Laura DeCicco            |
+
 
 ### Second Cohort 2023-2024. Champions and Mentors
 
