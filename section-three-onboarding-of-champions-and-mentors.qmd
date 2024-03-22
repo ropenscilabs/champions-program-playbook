@@ -22,7 +22,7 @@ share expectations and tools needed for the program.
 
 #### Letter of acceptance 
 
-Selected mentors recibe a email with the notification and a series of steps on how to get started. Here is a template of the message.
+Selected mentors get a email with the notification and a series of steps on how to get started. Here is a template of the message.
 
 > Dear [Name],
 >
@@ -50,6 +50,18 @@ Selected mentors recibe a email with the notification and a series of steps on h
 
 > [Name] 
 > rOpenSci Community Manager
+
+#### Kick-off meeting
+
+The community manager hosts a kick-off meeting to introduce the mentors to each other, provide an overview of the program,
+review the tentative training schedule and expectations for the program.
+
+The community manager also shares information about tools and
+infrastructure that will be used to communicate and collaborate during
+the program, such as Slack, Google Drive, template docs, and shared
+calendar.
+
+
 
 
 ### Champions
