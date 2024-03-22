@@ -5,12 +5,56 @@
 This section describes the onboarding process for both champions and
 mentors. Prior to onboarding meetings, a number of scaffolding pieces
 are put into place, including a Google Drive, Slack, and templates for
-meetings between mentors and champions. Once participants are selected,
-mentors and champions meet each other during the program kick-off
-meeting. Next, mentors attend a training and orientation meeting to
+meetings between mentors and champions. 
+
+For the first cohort mentors and champions meet each other during the program kick-off
+meeting. For the second cohort the first one-on-one meeting is organizer for the mentor. 
+
+For the second cohort we celebrate kick-off meeting for mentors and champions separately. 
+Mentors were invited to the champions kick-off meeting.
+
+Mentors attend a training and orientation meeting to
 share expectations and tools needed for the program.
 
 ## Onboarding process
+
+### Mentors
+
+#### Letter of acceptance 
+
+Selected mentors recibe a email with the notification and a series of steps on how to get started. Here is a template of the message.
+
+> Dear [Name],
+>
+>Thank you for your application to be a mentor for the rOpenSci Champions Program. We have completed our application review, and I am delighted to be able to invite you to join us for our second cohort starting in [year]!
+>
+>Here is some information on how to get started!
+>
+>We will ask you to review the applications of the potential champions to help us in the final selection. We will send you information on the rubric and the list of applications during the week of [week].
+>
+>Please complete these polls for the kick-off meeting by [date]. Our first meeting will most likely fall by the last week of [month, year] or the first week of [month, year]. These links present a pool for each week. Please be sure to put all possible times to help us find time that will include everyone. Be sure to check and select your time zone at the top of the poll before filling your times. [links to the pools]
+>
+>Please complete this form with information about you by [date] that we will use for a blog post (full name, degrees, country of origin and country of residency, your current activities, what is your project and what do you expect on the champion program). [link to the form]
+>
+>We will invite you to our Slack, please reply to this email with the email account you want to be invited to Slack.
+>
+>Please check out our tentative program schedule. [link to the schedulle]
+>
+>Please note that acceptance is contingent upon your ability to fully participate in the program. If you are unable to commit to participating at this time,please let me know by [date].
+>
+>Welcome to the rOpenSci Champions Program!
+>
+>Please get in touch with questions – we really appreciate your interest. This program wouldn’t run without you.
+>
+>Sincerely,
+
+> [Name] 
+> rOpenSci Community Manager
+
+
+### Champions
+
+#### Letter of acceptance 
 
 #### Step 1: Kick-off meeting / initial mentor/mentee introductions
 
