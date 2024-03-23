@@ -157,16 +157,16 @@ and consider their readiness for being a mentor.
 
 - [Slides](https://docs.google.com/presentation/d/1Jp5pwAHZJDiJ84AXywbMP0l8DnPaw3XK5Shta_QrnHQ/)
 
-- Meeting Templates: https://docs.google.com/document/d/1vjmfbjv9ABJ6fkbtQRMFPydJZ3ypKOIpZ-xf7_iBhvo/edit?usp=sharing
+- [Meeting Templates - Google Doc Format](https://docs.google.com/document/d/1vjmfbjv9ABJ6fkbtQRMFPydJZ3ypKOIpZ-xf7_iBhvo/edit?usp=sharing)
 
-- Mentors Charter: https://docs.google.com/document/d/1-HZRNp4lc7s0NJhKPfGRe8I9dxohBkDyjUC35KINHCQ/edit?usp=sharing
+- [Mentors Monthly Charter Template - Google Doc Format](https://docs.google.com/document/d/1-HZRNp4lc7s0NJhKPfGRe8I9dxohBkDyjUC35KINHCQ/edit?usp=sharing)
 
-- Meeting Report: https://airtable.com/appF6OXmxkk8VmR8a/shrDOBHa2aHBWUBKP 
+- [Meeting Report Template - Google Doc Format](https://docs.google.com/document/d/1PXYXF5wmrzSiNFylvfGgAvLDh87OZOd7B0qJzeO8VBQ/edit?usp=sharing)
 
 ::: callout-note
 - [rOpenSci Champions Program Mentor Guidelines v1.0](https://docs.google.com/document/d/1oEN_6anF2hlUJcHOqL78kVDK9W1pl4zW3BUtgozI0AE/edit#). Google Doc used with the first cohort.
 
-- Slide deck 2022-2023 cohort: [rOpenSci - Champion Program - Mentorship Training and Orientation](https://docs.google.com/presentation/d/1qAv8IfSMRRGbQlwOkyM7QvnYQSEvL-cUFPj72ixNgN4/). 
+- [rOpenSci - Champion Program - Mentorship Training and Orientation Slide deck 2022-2023 cohort](https://docs.google.com/presentation/d/1qAv8IfSMRRGbQlwOkyM7QvnYQSEvL-cUFPj72ixNgN4/). 
 :::
 
 
