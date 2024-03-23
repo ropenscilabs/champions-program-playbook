@@ -111,11 +111,20 @@ Mentors' information use for create this content was share by mentors using an A
 
 #### Letter of acceptance 
 
-#### Step 1: Kick-off meeting / initial mentor/mentee introductions
+Selected champions get a email with the notification and a series of steps on how to get started. Here is a template of the message.
+
+
+
+
+#### Pledge for champions
+
+
+#### Kick-off meeting and initial mentor/mentee introductions
 
 The community manager hosts a kick-off meeting to introduce the
-champions and mentors to each other, provide an overview of the program,
+champions to each other, provide an overview of the program,
 review the tentative training schedule and expectations for the program.
+
 The community manager also shares information about tool and
 infrastructure that will be used to communicate and collaborate during
 the program, such as Slack, Google Drive, template docs, and shared
@@ -123,11 +132,19 @@ calendar.
 
 Kick-off meeting materials:
 
-- [*rOpenSci - Champion Program -
-  KickOff*](https://docs.google.com/presentation/d/1K4HDAvxk3MkKN2DCr_oYSx1lE73fDI8Ri1Bxo8z83ow/edit#slide=id.g1db4e36fb1d_1_0)
+- [Slides Champion Program KickOff 2022-2023](https://docs.google.com/presentation/d/1K4HDAvxk3MkKN2DCr_oYSx1lE73fDI8Ri1Bxo8z83ow/edit#slide=id.g1db4e36fb1d_1_0)
 
-- [*Notes - Kick-off Meeting Champions
-  Program*](https://docs.google.com/document/d/1qH6FyBo-ZJ-KM5FTR-XNauAMPGRbW7csc7I02eRaNYQ/edit)
+- [Template Shared Notes - KickOff 2022-2023](https://docs.google.com/document/d/1acPV78WCFB8norEOHVVY9PCGEWshJMYtt5_nsBlGk58/edit?usp=sharing)
+
+::: callout-tip
+For accessibility reason google docs are not always the best option to share notes. We use ,https://pad.riseup.net> as an alternative to share document and collaborative note taking. 
+:::
+
+
+::: callout-note
+[Notes - Kick-off Meeting Champions Program 2022-2023](https://docs.google.com/document/d/1qH6FyBo-ZJ-KM5FTR-XNauAMPGRbW7csc7I02eRaNYQ/edit). Preserved for archival reasons. Access only by the rOpenSci Champions Program Team and meeting participant. All information is available with open license and up to date on the Champions Program web site and this playbook.
+:::
+
 
 #### Step 2: Mentor training and orientation meeting
 
