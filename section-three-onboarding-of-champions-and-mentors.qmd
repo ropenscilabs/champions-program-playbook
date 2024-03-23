@@ -8,13 +8,41 @@ are put into place, including a Google Drive, Slack, and templates for
 meetings between mentors and champions. 
 
 For the first cohort mentors and champions meet each other during the program kick-off
-meeting. For the second cohort the first one-on-one meeting is organizer for the mentor. 
+meeting. For the second cohort the first one-on-one meeting is organized for the mentor. 
 
 For the second cohort we celebrate kick-off meeting for mentors and champions separately. 
 Mentors were invited to the champions kick-off meeting.
 
 Mentors attend a training and orientation meeting to
 share expectations and tools needed for the program.
+
+## Infrastructure
+
+* **Slack**: we have four private channels for your communication with participants in the program:
+
+  * **#mentors-year**: only mentors of the _year_ cohort in this channel. For example, #mentors-2024 is the channel for the mentor of the second cohort. Mentors can ask questions, share resources, ask for advice from their peers. 
+
+  * **#champions-year**: only champions of the _year_ cohort in this channel. Champions can ask questions about the training or their projects, share resources, ask for advice, etc. 
+  
+  * **#champions-and-mentors-year**: a channel with all the participants of the _year_ cohort. Training materials and outreach activities are shared in this channels. 
+
+  * **#champions-program**: a channel with all the participants of the program in all the cohort.
+
+  rOpenSci staff members are in all the channels to provide support and share information.
+
+* **Google Drive**: the google drive contain:
+
+  * a folder for each champion with their application and other material the champion will generate as part of their work on the program.
+  
+  * **training-resource** folder: contain one folder for each training session with all the material (slides, video, documents, etc).
+  
+* **Templates:** for mentoring meetings.
+
+* **Branding:** rOpenSci branding material for use on outreach activities.
+
+* **Airtable forms and databases**: reporting of mentoring meeting, feedback for meeting and training, champions pledge, information for champions and mentors for blog post.
+
+* **Web page**: the Champions Program web page have a section to list all champions and mentor of each cohort.
 
 ## Onboarding process
 
@@ -61,7 +89,13 @@ infrastructure that will be used to communicate and collaborate during
 the program, such as Slack, Google Drive, template docs, and shared
 calendar.
 
+The kick-off meeting was offered in 3 different time zones. It is important that all mentors can attend this meeting. 
 
+* [Kickoff mentor meeting 2023-2024 Slides](https://docs.google.com/presentation/d/1E9SAS_uYOyz9dm6bDsPB6b3pgtQTHCONbLi1WRB1ClE/)
+
+* [Kickoff mentor and champions meeting 2022-2023](https://docs.google.com/presentation/d/1K4HDAvxk3MkKN2DCr_oYSx1lE73fDI8Ri1Bxo8z83ow/)
+
+#### Slack channels
 
 
 ### Champions
