@@ -36,11 +36,13 @@ share expectations and tools needed for the program.
   
   * **training-resource** folder: contain one folder for each training session with all the material (slides, video, documents, etc).
   
-* **Templates:** for mentoring meetings.
+* **Templates and monthly charter:** templates for mentoring meetings and monthly charter with task and activity by month.
 
 * **Branding:** rOpenSci branding material for use on outreach activities.
 
 * **Airtable forms and databases**: reporting of mentoring meeting, feedback for meeting and training, champions pledge, information for champions and mentors for blog post.
+
+* **Review process**: a series of spreadsheets with the review task and rubric.
 
 * **Web page**: the Champions Program web page have a section to list all champions and mentor of each cohort.
 
@@ -58,17 +60,17 @@ Selected mentors get a email with the notification and a series of steps on how 
 >
 >Here is some information on how to get started!
 >
->We will ask you to review the applications of the potential champions to help us in the final selection. We will send you information on the rubric and the list of applications during the week of [week].
+> * We will ask you to review the applications of the potential champions to help us in the final selection. We will send you information on the rubric and the list of applications during the week of [week].
 >
->Please complete these polls for the kick-off meeting by [date]. Our first meeting will most likely fall by the last week of [month, year] or the first week of [month, year]. These links present a pool for each week. Please be sure to put all possible times to help us find time that will include everyone. Be sure to check and select your time zone at the top of the poll before filling your times. [links to the pools]
+> * Please complete these polls for the kick-off meeting by [date]. Our first meeting will most likely fall by the last week of [month, year] or the first week of [month, year]. These links present a pool for each week. Please be sure to put all possible times to help us find time that will include everyone. Be sure to check and select your time zone at the top of the poll before filling your times. [links to the pools]
 >
->Please complete this form with information about you by [date] that we will use for a blog post (full name, degrees, country of origin and country of residency, your current activities, what is your project and what do you expect on the champion program). [link to the form]
+> * Please complete this form with information about you by [date] that we will use for a blog post (full name, degrees, country of origin and country of residency, your current activities, what is your project and what do you expect on the champion program). [link to the form]
 >
->We will invite you to our Slack, please reply to this email with the email account you want to be invited to Slack.
+>* We will invite you to our Slack, please reply to this email with the email account you want to be invited to Slack.
 >
->Please check out our tentative program schedule. [link to the schedulle]
+>* Please check out our tentative program schedule. [link to the schedulle]
 >
->Please note that acceptance is contingent upon your ability to fully participate in the program. If you are unable to commit to participating at this time,please let me know by [date].
+>Please note that acceptance is contingent upon your ability to fully participate in the program. If you are unable to commit to participating at this time, please let me know by [date].
 >
 >Welcome to the rOpenSci Champions Program!
 >
@@ -79,7 +81,7 @@ Selected mentors get a email with the notification and a series of steps on how 
 > [Name] 
 > rOpenSci Community Manager
 
-#### Kick-off meeting
+#### Kick-off meeting & Infrastructure Access
 
 The community manager hosts a kick-off meeting to introduce the mentors to each other, provide an overview of the program,
 review the tentative training schedule and expectations for the program.
@@ -95,8 +97,15 @@ The kick-off meeting was offered in 3 different time zones. It is important that
 
 * [Kickoff mentor and champions meeting 2022-2023](https://docs.google.com/presentation/d/1K4HDAvxk3MkKN2DCr_oYSx1lE73fDI8Ri1Bxo8z83ow/)
 
-#### Slack channels
+At this point mentors are granted access to all the infrastructure, like Slack channels, Google drive, review tools and templates.  
 
+#### Webpage and Blog post
+
+As last step on the onboarding process of mentors, the community manager update the Champions Program webpage with the picture, affiliation and contact information of all the mentors. 
+
+The CM create a draft of the author profile of each mentor and the [blog post introducing them](https://ropensci.org/blog/2023/11/29/champions-program-mentors-2023/).  Mentors are invited to review this information before publication.   
+
+Mentors' information use for create this content was share by mentors using an Airtable form. 
 
 ### Champions
 
