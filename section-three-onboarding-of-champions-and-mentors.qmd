@@ -5,34 +5,113 @@
 This section describes the onboarding process for both champions and
 mentors. Prior to onboarding meetings, a number of scaffolding pieces
 are put into place, including a Google Drive, Slack, and templates for
-meetings between mentors and champions. Once participants are selected,
-mentors and champions meet each other during the program kick-off
-meeting. Next, mentors attend a training and orientation meeting to
+meetings between mentors and champions. 
+
+For the first cohort mentors and champions meet each other during the program kick-off
+meeting. For the second cohort the first one-on-one meeting is organized for the mentor. 
+
+For the second cohort we celebrate kick-off meeting for mentors and champions separately. 
+Mentors were invited to the champions kick-off meeting.
+
+Mentors attend a training and orientation meeting to
 share expectations and tools needed for the program.
+
+## Infrastructure
+
+* **Slack**: we have four private channels for your communication with participants in the program:
+
+  * **#mentors-year**: only mentors of the _year_ cohort in this channel. For example, #mentors-2024 is the channel for the mentor of the second cohort. Mentors can ask questions, share resources, ask for advice from their peers. 
+
+  * **#champions-year**: only champions of the _year_ cohort in this channel. Champions can ask questions about the training or their projects, share resources, ask for advice, etc. 
+  
+  * **#champions-and-mentors-year**: a channel with all the participants of the _year_ cohort. Training materials and outreach activities are shared in this channels. 
+
+  * **#champions-program**: a channel with all the participants of the program in all the cohort.
+
+  rOpenSci staff members are in all the channels to provide support and share information.
+
+* **Google Drive**: the google drive contain:
+
+  * a folder for each champion with their application and other material the champion will generate as part of their work on the program.
+  
+  * **training-resource** folder: contain one folder for each training session with all the material (slides, video, documents, etc).
+  
+* **Templates and monthly charter:** templates for mentoring meetings and monthly charter with task and activity by month.
+
+* **Branding:** rOpenSci branding material for use on outreach activities.
+
+* **Airtable forms and databases**: reporting of mentoring meeting, feedback for meeting and training, champions pledge, information for champions and mentors for blog post.
+
+* **Review process**: a series of spreadsheets with the review task and rubric.
+
+* **Web page**: the Champions Program web page have a section to list all champions and mentor of each cohort.
+
+* **Code of Conduct**: all the Champions Program activities and spaces are under the rOpenSci Code of Conduct.
 
 ## Onboarding process
 
-#### Step 1: Kick-off meeting / initial mentor/mentee introductions
+### Mentors
 
-The community manager hosts a kick-off meeting to introduce the
-champions and mentors to each other, provide an overview of the program,
+#### Letter of acceptance 
+
+Selected mentors get a email with the notification and a series of steps on how to get started. Here is a template of the message.
+
+> Dear [Name],
+>
+>Thank you for your application to be a mentor for the rOpenSci Champions Program. We have completed our application review, and I am delighted to be able to invite you to join us for our second cohort starting in [year]!
+>
+>Here is some information on how to get started!
+>
+> * We will ask you to review the applications of the potential champions to help us in the final selection. We will send you information on the rubric and the list of applications during the week of [week].
+>
+> * Please complete these polls for the kick-off meeting by [date]. Our first meeting will most likely fall by the last week of [month, year] or the first week of [month, year]. These links present a pool for each week. Please be sure to put all possible times to help us find time that will include everyone. Be sure to check and select your time zone at the top of the poll before filling your times. [links to the pools]
+>
+> * Please complete this form with information about you by [date] that we will use for a blog post (full name, degrees, country of origin and country of residency, your current activities, what is your project and what do you expect on the champion program). [link to the form]
+>
+>* We will invite you to our Slack, please reply to this email with the email account you want to be invited to Slack.
+>
+>* Please check out our tentative program schedule. [link to the schedulle]
+>
+>Please note that acceptance is contingent upon your ability to fully participate in the program. If you are unable to commit to participating at this time, please let me know by [date].
+>
+>Welcome to the rOpenSci Champions Program!
+>
+>Please get in touch with questions – we really appreciate your interest. This program wouldn’t run without you.
+>
+>Sincerely,
+
+> [Name] 
+> rOpenSci Community Manager
+
+#### Kick-off meeting & Infrastructure Access
+
+The community manager hosts a kick-off meeting to introduce the mentors to each other, provide an overview of the program,
 review the tentative training schedule and expectations for the program.
-The community manager also shares information about tool and
+
+The community manager also shares information about tools and
 infrastructure that will be used to communicate and collaborate during
 the program, such as Slack, Google Drive, template docs, and shared
 calendar.
 
-Kick-off meeting materials:
+The kick-off meeting was offered in 3 different time zones. It is important that all mentors can attend this meeting. 
 
-- [*rOpenSci - Champion Program -
-  KickOff*](https://docs.google.com/presentation/d/1K4HDAvxk3MkKN2DCr_oYSx1lE73fDI8Ri1Bxo8z83ow/edit#slide=id.g1db4e36fb1d_1_0)
+* [Kickoff mentor meeting 2023-2024 Slides](https://docs.google.com/presentation/d/1E9SAS_uYOyz9dm6bDsPB6b3pgtQTHCONbLi1WRB1ClE/)
 
-- [*Notes - Kick-off Meeting Champions
-  Program*](https://docs.google.com/document/d/1qH6FyBo-ZJ-KM5FTR-XNauAMPGRbW7csc7I02eRaNYQ/edit)
+* [Kickoff mentor and champions meeting 2022-2023](https://docs.google.com/presentation/d/1K4HDAvxk3MkKN2DCr_oYSx1lE73fDI8Ri1Bxo8z83ow/)
 
-#### Step 2: Mentor training and orientation meeting
+At this point mentors are granted access to all the infrastructure, like Slack channels, Google drive, review tools and templates.  
 
-After the initial kickoff, the mentors have a 75 minute meeting with the
+#### Webpage and Blog post
+
+The community manager update the Champions Program webpage with the picture, affiliation and contact information of all the mentors. 
+
+The CM create a draft of the author profile of each mentor and the [blog post introducing them](https://ropensci.org/blog/2023/11/29/champions-program-mentors-2023/).  Mentors are invited to review this information before publication.   
+
+Mentors' information use for create this content was share by mentors using an Airtable form. 
+
+#### Mentor training and orientation meeting
+
+After the initial kickoff, the mentors have a 90 minute meeting with the
 rOpenSci Community Manager with the purpose of giving them tools,
 skills, and guidance to provide good mentorship to the champions.
 
@@ -72,38 +151,137 @@ and consider their readiness for being a mentor.
 
 ##### Mentor training and orientation materials
 
-- [*rOpenSci Champions Program Mentor Guidelines
-  v1.0*](https://docs.google.com/document/d/1oEN_6anF2hlUJcHOqL78kVDK9W1pl4zW3BUtgozI0AE/edit#)
+- [Web page with mentors' training and instructors notes](https://ropensci-training.github.io/ropensci-mentors/)
 
-- Slide deck: [*rOpenSci - Champion Program - Mentorship Training and
-  Orientation*](https://docs.google.com/presentation/d/1qAv8IfSMRRGbQlwOkyM7QvnYQSEvL-cUFPj72ixNgN4/edit)
+- [rOpenSci Champions Program Mentor Guidelines v2.0](https://ropensci-org.github.io/champions-mentor-guidelines/)
 
-- [*Mentor materials and
-  resources*](https://drive.google.com/drive/folders/1IAMCn01yh_YeAngkcb1rcvCgnp5OT0t8)
+- [Slides](https://docs.google.com/presentation/d/1Jp5pwAHZJDiJ84AXywbMP0l8DnPaw3XK5Shta_QrnHQ/)
 
-- Web page with instructors notes:
-  [*https://ropensci-training.github.io/ropensci-mentors/*](https://ropensci-training.github.io/ropensci-mentors/)
+- [Meeting Templates - Google Doc Format](https://docs.google.com/document/d/1vjmfbjv9ABJ6fkbtQRMFPydJZ3ypKOIpZ-xf7_iBhvo/edit?usp=sharing)
 
-#### Step 3: Champion and mentor 1-on-1 meetings
+- [Mentors Monthly Charter Template - Google Doc Format](https://docs.google.com/document/d/1-HZRNp4lc7s0NJhKPfGRe8I9dxohBkDyjUC35KINHCQ/edit?usp=sharing)
+
+- [Meeting Report Template - Google Doc Format](https://docs.google.com/document/d/1PXYXF5wmrzSiNFylvfGgAvLDh87OZOd7B0qJzeO8VBQ/edit?usp=sharing)
+
+::: callout-note
+- [rOpenSci Champions Program Mentor Guidelines v1.0](https://docs.google.com/document/d/1oEN_6anF2hlUJcHOqL78kVDK9W1pl4zW3BUtgozI0AE/edit#). Google Doc used with the first cohort.
+
+- [rOpenSci - Champion Program - Mentorship Training and Orientation Slide deck 2022-2023 cohort](https://docs.google.com/presentation/d/1qAv8IfSMRRGbQlwOkyM7QvnYQSEvL-cUFPj72ixNgN4/). 
+:::
+
+
+### Champions
+
+#### Letter of acceptance 
+
+Selected champions get a email with the notification and a series of steps on how to get started. Here is a template of the message.
+
+> Dear [applicant name],
+>
+> Thank you for applying to become an rOpenSci Champion. We have completed our application review, and I am delighted to invite you to join us for our second cohort, starting in [year]!
+>
+> Please note that acceptance is contingent upon your ability to fully participate in the program. If you are unable to commit to participating at this time, please let me know by [date].
+>
+> Please complete these 4 onboarding tasks to enroll (~25 minutes) by [date].
+>
+>
+> 1. **Please tell us some days/times that work best for your schedule**. We will conduct a kickoff meeting, training, cohort meetings, and coworking sessions. Our first meeting will most likely fall the last week of January or the first week of February 2024.  Please be sure to put *all* possible times to help us find a time that will include everyone! [link to pool]
+>
+> 2. **Please complete this form with information about you** that we will use for a blog post. We are asking for full name, a brief bio what is your project for the champions, and your expectations of the program, and a photo. Please write the text in first person. [link to form]  
+>
+> 3. **Please sign the pledge** in this form [link to form].
+>
+> 4. We will invite you to our Slack, please **reply to this email with the email account you would like to use for Slack.**
+>
+>
+> Welcome to the rOpenSci Champions Program! 
+>
+> If you encounter any problems accessing the forms, please let me know so I can send you the information in another way.
+> 
+> Please get in touch with questions – We are excited to learn more about you and support your project in the coming months!
+> 
+> Best regards,
+>
+> [Name]
+>
+> rOpenSci Community Manager
+
+
+#### Pledge for Champions
+
+For the second cohort we add a pledge to be sign for the Champions. This agreement helps to set and clarify expectation for the program. 
+
+> **rOpenSci Champions Program - Champions Pledge 2024**
+>
+> *Attendance*
+>
+> You’re expected to attend each of the different meetings and activities for the champions program.  You are also expected to attend all the meetings you will agree with your mentor.  
+>
+> The rOpenSci Champions Program is a peer-based mentoring program, meaning a significant part of your experience will take place with your cohort. Your attendance at the kickoff, training, and cohort meetings is crucial to your group’s mutual success.
+>
+> We will ask you to let us know beforehand If you’re unable to attend an activity. It is important to organize it and find a way for you to complete the activities. We want you to succeed in the program, so we will contact you If you miss four or more meetings or you are not engaged with the program to discuss your participation. We want to ensure you and your group have an impactful and worthwhile experience. 
+>
+> *Participation*
+>
+> We want you and your peers to grow enormously, and your engagement is key to that. Make intentional time to read the resources, provide feedback, and, when asked, complete the activities ahead of your meetings to get the most out of the training and other activities.
+>
+> The Slack channels with other champions and mentors and the Slack workspace with the general rOpenSci community are vital spaces for communication and engagement.
+>
+> We will ask you for anonymous feedback on the program activities. This feedback will inform our decision on the program improvement.
+>
+> *Sound good?*
+>
+> Please sign below (by checking the box and sending the form) to indicate that you have read this agreement, consent to us collecting these data, and that you understand and agree to the terms described in this agreement.
+
+#### Kick-off meeting and initial mentor/mentee introductions
+
+The community manager hosts a kick-off meeting to introduce the
+champions to each other, provide an overview of the program,
+review the tentative training schedule and expectations for the program.
+
+The community manager also shares information about tool and
+infrastructure that will be used to communicate and collaborate during
+the program, such as Slack, Google Drive, template docs, and shared
+calendar.
+
+Kick-off meeting materials:
+
+- [Slides Champion Program KickOff 2022-2023](https://docs.google.com/presentation/d/1K4HDAvxk3MkKN2DCr_oYSx1lE73fDI8Ri1Bxo8z83ow/edit#slide=id.g1db4e36fb1d_1_0)
+
+- [Template Shared Notes - KickOff 2022-2023](https://docs.google.com/document/d/1acPV78WCFB8norEOHVVY9PCGEWshJMYtt5_nsBlGk58/edit?usp=sharing)
+
+::: callout-tip
+For accessibility reason google docs are not always the best option to share notes. We use ,https://pad.riseup.net> as an alternative to share document and collaborative note taking. 
+:::
+
+::: callout-note
+[Notes - Kick-off Meeting Champions Program 2022-2023](https://docs.google.com/document/d/1qH6FyBo-ZJ-KM5FTR-XNauAMPGRbW7csc7I02eRaNYQ/edit). Preserved for archival reasons. Access only by the rOpenSci Champions Program Team and meeting participant. All information is available with open license and up to date on the Champions Program web site and this playbook.
+:::
+
+
+### Champion and mentor 1-on-1 meetings
 
 Mentors are positioned to help champions progress their projects, answer
 questions, and provide motivation and support. One way for the pair to
 keep up to date with each other is by monthly 1-on-1 meetings, of which
-they are expected to have around 11 and can have more. The meetings
+they are expected to have around 10 and can have more. The meetings
 should be about 30 minutes, but can be shorter or longer depending on
 both people’s needs and availability.
 
+::: callout-note
+The program expectation is that mentors will contact their mentee and organize the firts meeting.  
+One of the topic to discuss during that meeting is how they will work together during the program.
+:::
+
 Mentor and champion pairs are expected to decide on meeting times and
 platforms with each other and are provided with a
-[*list*](https://docs.google.com/document/d/1oEN_6anF2hlUJcHOqL78kVDK9W1pl4zW3BUtgozI0AE/edit#heading=h.ierqx96guq2c)
-of potential collaboration platforms including Zoom, Slack, WhatsApp,
+[*list*](https://ropensci-org.github.io/champions-mentor-guidelines/mentors-tools.html#meeting-tools) of potential collaboration platforms including Zoom, Slack, WhatsApp,
 Google Docs, and When2Meet. They are also expected to read, implement,
-and abide by rOpenSci’s [*Code of
-Conduct*](https://ropensci.org/code-of-conduct/) in their meetings and
-interactions.
+and abide by rOpenSci’s [*Code of Conduct*](https://ropensci.org/code-of-conduct/) 
+in their meetings and interactions.
 
 After the mentor orientation, the mentors are given a
-[*template*](https://docs.google.com/document/d/1vjmfbjv9ABJ6fkbtQRMFPydJZ3ypKOIpZ-xf7_iBhvo/edit)
+[*template*](https://docs.google.com/document/d/1vjmfbjv9ABJ6fkbtQRMFPydJZ3ypKOIpZ-xf7_iBhvo/)
 for their first meeting with their mentees and asked to set an agenda
 with goals, possible areas they can investigate, and expectations for
 each other. Mentors are expected to complete a form to confirm with the
@@ -111,8 +289,7 @@ community manager that these monthly meetings are taking place.
 
 Subsequent meetings between the two will be structured as a check-in to
 ensure that the champion is keeping up with their goals and to answer
-any questions they may have. The final meeting will offer an opportunity
+any questions they may have. The meeting template document also provide agenda suggestion for these meetings. The final meeting will offer an opportunity
 for both to celebrate their accomplishments and offer feedback. More
 details about the meetings can be found in the [*Mentorship
-Meetings*](https://docs.google.com/document/d/1oEN_6anF2hlUJcHOqL78kVDK9W1pl4zW3BUtgozI0AE/edit#heading=h.k5vsm0igh6zd)
-section of the Mentor Guidebook.
+Meetings*](https://ropensci-org.github.io/champions-mentor-guidelines/mentorship-meetings.html) section of the Mentor Guidelines book.

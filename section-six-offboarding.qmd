@@ -41,9 +41,8 @@ The program manager emails the Instructions for receiving payment for your fello
 
     -   The information on the name holder in the bank account must be the same as in the payment request form.
 
-    ```{=html}
     <!-- -->
-    ```
+
     -   PayPal can apply fees to the payment.
 
     -   Countries have different regulations and processes about payments in a foreign currency. Each champion must know their country's details in order to get pay.
@@ -69,7 +68,7 @@ The meeting is mandatory for champions but optional for mentors. The agenda for 
 
 -   Activity: rOpenSci: Final Reflections - 30 minutes.
 
-####  Final Reflections Activity
+#### Final Reflections Activity
 
 In the shared documents. Find your name under each title and add your reflections. 
 
@@ -82,3 +81,15 @@ After you've added your own reflections, review each other's posts and add comme
 -   Title 3: General notes of gratitude
 
 The program manager also have 1 to 1 meeting with the champions that required to discuss with more detail future engagement with the community.
+
+### Next Steps - Assesment
+
+We also explain the process for the assessment of the Champions Program by the cohort during the offboarding.
+
+-   Anonymous survey: what it is and when we will send the link to the form.
+
+<!-- -->
+
+-   1:1 interview with Champions: when it will happen and how.
+
+-   Focus Group with Mentors: when it will happen and how.
