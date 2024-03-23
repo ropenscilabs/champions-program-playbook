@@ -347,6 +347,10 @@ The team should take care to write substantive feedback as we attempt to provide
 
 -   [*rOpenSci Champions screening rubric template*](https://docs.google.com/spreadsheets/d/1ZySOzrMSYq6OlMgWpYOBZedO9FVkOsPe_e-lqcUYQyQ/edit?usp=sharing)
 
+::: callout-tip
+The full application is provide in the spreadsheet, but that format can be hard to read. We also provide a document in PDF format of each application when reviewers requested. 
+:::
+
 ### Step 8: Consistency Analysis, and Diversity and Representation Review (1 week)
 
 A quantitative analysis is conducted to examine the consensus among reviewers. This step ensures that revisions are aligned, promoting fairness and minimizing bias in the selection process.
@@ -369,7 +373,7 @@ Involving mentors in the selection process significantly enhances the mentor-men
 
 The program manager create the final match, taking into account the preference for the project, that the champions and mentors are in compatible time zones and speak a common language.
 
-### Step 11: Inform applicants (3 weeks)
+### Step 11: Inform applicants (2 weeks)
 
 Once you have selected the top applicants, prepare individual messages to each person to inform them and request them to confirm their participation by a certain date. If for some reason a successful applicant can no longer participate, you can invite the next best applicant to take their place (already matched in the previews step).
 
