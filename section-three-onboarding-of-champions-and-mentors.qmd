@@ -254,32 +254,34 @@ Kick-off meeting materials:
 For accessibility reason google docs are not always the best option to share notes. We use ,https://pad.riseup.net> as an alternative to share document and collaborative note taking. 
 :::
 
-
 ::: callout-note
 [Notes - Kick-off Meeting Champions Program 2022-2023](https://docs.google.com/document/d/1qH6FyBo-ZJ-KM5FTR-XNauAMPGRbW7csc7I02eRaNYQ/edit). Preserved for archival reasons. Access only by the rOpenSci Champions Program Team and meeting participant. All information is available with open license and up to date on the Champions Program web site and this playbook.
 :::
 
 
-#### Step 3: Champion and mentor 1-on-1 meetings
+### Champion and mentor 1-on-1 meetings
 
 Mentors are positioned to help champions progress their projects, answer
 questions, and provide motivation and support. One way for the pair to
 keep up to date with each other is by monthly 1-on-1 meetings, of which
-they are expected to have around 11 and can have more. The meetings
+they are expected to have around 10 and can have more. The meetings
 should be about 30 minutes, but can be shorter or longer depending on
 both people’s needs and availability.
 
+::: callout-note
+The program expectation is that mentors will contact their mentee and organize the firts meeting.  
+One of the topic to discuss during that meeting is how they will work together during the program.
+:::
+
 Mentor and champion pairs are expected to decide on meeting times and
 platforms with each other and are provided with a
-[*list*](https://docs.google.com/document/d/1oEN_6anF2hlUJcHOqL78kVDK9W1pl4zW3BUtgozI0AE/edit#heading=h.ierqx96guq2c)
-of potential collaboration platforms including Zoom, Slack, WhatsApp,
+[*list*](https://ropensci-org.github.io/champions-mentor-guidelines/mentors-tools.html#meeting-tools) of potential collaboration platforms including Zoom, Slack, WhatsApp,
 Google Docs, and When2Meet. They are also expected to read, implement,
-and abide by rOpenSci’s [*Code of
-Conduct*](https://ropensci.org/code-of-conduct/) in their meetings and
-interactions.
+and abide by rOpenSci’s [*Code of Conduct*](https://ropensci.org/code-of-conduct/) 
+in their meetings and interactions.
 
 After the mentor orientation, the mentors are given a
-[*template*](https://docs.google.com/document/d/1vjmfbjv9ABJ6fkbtQRMFPydJZ3ypKOIpZ-xf7_iBhvo/edit)
+[*template*](https://docs.google.com/document/d/1vjmfbjv9ABJ6fkbtQRMFPydJZ3ypKOIpZ-xf7_iBhvo/)
 for their first meeting with their mentees and asked to set an agenda
 with goals, possible areas they can investigate, and expectations for
 each other. Mentors are expected to complete a form to confirm with the
@@ -287,8 +289,7 @@ community manager that these monthly meetings are taking place.
 
 Subsequent meetings between the two will be structured as a check-in to
 ensure that the champion is keeping up with their goals and to answer
-any questions they may have. The final meeting will offer an opportunity
+any questions they may have. The meeting template document also provide agenda suggestion for these meetings. The final meeting will offer an opportunity
 for both to celebrate their accomplishments and offer feedback. More
 details about the meetings can be found in the [*Mentorship
-Meetings*](https://docs.google.com/document/d/1oEN_6anF2hlUJcHOqL78kVDK9W1pl4zW3BUtgozI0AE/edit#heading=h.k5vsm0igh6zd)
-section of the Mentor Guidebook.
+Meetings*](https://ropensci-org.github.io/champions-mentor-guidelines/mentorship-meetings.html) section of the Mentor Guidelines book.
