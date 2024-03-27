@@ -80,13 +80,30 @@ There is a check list of task to fo for each training session.
 
 3.  One hour before the training session send and email and post a message on the Slack channel tagging to the channel with a reminder of the training.  Include the link to the zoom meeting and the session material.
 
-4. Start the meeting 15 minutes before the time.
+4. Start the meeting 15 minutes early.
 
 5. When the instructor join, give co-host permission. Check audio, video and screen sharing. Check access to the document and link to the materials. 
 
 6. Remove the waiting room and allow all participants to join.
 
+7. Welcome the attendees and mention we will record the session.  All the material is only shared with the cohort. 
 
+8. Mention the CoC, share the collaborative note taking doc, introduce the instructor and pass the lead of the session to them.
+
+* **After the training**
+
+9. When the vide recording is ready, create the folder for the session in the google drive for the cohort and upload all the necessary files.  Edit the video and summary with timestamp if neccesary.
+
+10. Then send the email and post the message in Slack sharing the following materials:
+
+  - Slides.
+  - Video.
+  - Video summary with timestamp (this is generated with Zoom tools).  This was a request from champions to check the material without the need to watch all the video.  
+  - Automatic Subtitles. 
+  - Chat.
+  - Transcript.
+  - Shared notes.
+  - Link to Feedback Survey
 
 #### Invitation mail template
 
