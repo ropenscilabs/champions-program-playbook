@@ -50,7 +50,22 @@ While the Community Manager has led and helped organize many of the training ses
 
 -   **Path for contributing to rOpenSci.** Added for the second cohort. One 2-hour session to present paths for collaboration and engagement beyond the champions program.
 
--   **Teaching and Learning Tech Together.** This was added for the second cohort. It is a 3-hour session with evidence-based pedagogical concepts to apply in teaching, events, talks, mentoring, documentation, and other spaces where we need to share content and knowledge. 
+-   **Teaching and Learning Tech Together.** This was added for the second cohort. It is a 3-hour session with evidence-based pedagogical concepts to apply in teaching, events, talks, mentoring, documentation, and other spaces where we need to share content and knowledge.
+
+## Training Session Organization
+
+Champions share their availability in a pool and the Community Manager select with the instructor availability the best day of the week and time during the day for maximizing attendance.
+
+Half of the weekly session are schedule and the invitation are sent with a detail of the topic of each workshop with the material we will use in advance. When half of the session were completed the time of the session changes to accommodate better those champions that can't attend the first option synchronously.
+
+This configuration is a good mix between flexibility in the timing of training and knowing the schedule in advance.  
+
+
+:::call
+For the first cohort we made a pool to chosse the day and time of each training. We offer two session for each workshop in different timezones and record the training. The fee
+
+
+
 
 #### Invitation mail template
 
