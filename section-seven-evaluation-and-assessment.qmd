@@ -1,0 +1,46 @@
+---
+title: "Evaluation and assessment"
+editor: visual
+---
+
+As the program comes to an end, there are a few ways to assess whether it has met its goals. In the inaugural program run-through, the Program Manager sent out assessment surveys to the Champions and mentors, and also ran 1-1 interviews with Champions and a focus group with the mentors. There are example documents and templates below to send out to champions and mentors, and to run the interviews and focus groups. 
+
+::: callout-important
+The following documents are accessible only for the rOpenSci Champions Program Team to safeguard the information shared by champions and mentors.
+:::
+
+-   2022-2023 Examples:	
+
+    -   [Shared Google Drive assessment folder](https://drive.google.com/drive/folders/1pW8Vv5bWAO5TKLQnxPNOLNRrNdvbIwKb)
+
+        -   [rOpenSci 2022-23 champions assessment - project plan and logistics](https://docs.google.com/document/d/1EilQNcLesCLCippUq6_9cLGTpgLZX9dqu-a-Xh8a8RU/edit#heading=h.f7e3wltwsl9j)
+
+        -   [rOpenSci Champion assessment interview notes](https://docs.google.com/document/d/1CvOOKaPjLJ5OgVTYRikyc7Puj4zxWAUSD6P2g8MrdLs/edit#heading=h.iurup2fe9lsj)
+
+        -   [rOpenSci mentors assessment interview notes](https://docs.google.com/document/d/17X7kpitNUWJ-6JXlyR1FhHJNGx0ReYJXGipdxGPMQkc/edit?usp=drive_link) 
+
+        -   [rOpenSci Champions program 2023: Champion Survey](https://docs.google.com/forms/d/1ya_UPUu1edtPODp7eenvQIuQJAbqDs4KFSD8U5apr1I/edit)
+
+        -   [rOpenSci Champions Program 2023: Mentor Survey](https://docs.google.com/forms/d/1jqO5NwkDSjJeRyut39E-kk7nyTPVouPWI5uSgOFB21g/edit)
+
+-   Templates for future use:
+
+::: callout-note
+These are copies of the materials used in the inaugural year, and will need specific dates and cohort details added. 
+:::
+
+-   [Assessment templates folder](https://drive.google.com/drive/folders/1ujZX4TEePiSLapDCohwhcT8SHKD1mtBk?usp=drive_link) 
+
+    -   [TEMPLATE rOpenSci Champion assessment interview notes](https://drive.google.com/open?id=1RNBoAOEbqwPFubmJXhY_4eVTtmEhoF44dV8fa9gNF9o&usp=drive_copy)
+
+    -   [TEMPLATE rOpenSci mentors assessment focus group notes](https://drive.google.com/open?id=1qGNdLqleRnnJPBlHke_WT2v0EqJ2JOlluYK7EzR4kG0&usp=drive_copy)
+
+    -   [TEMPLATE rOpenSci YEAR - YEAR champions assessment - project plan and logistics](https://drive.google.com/open?id=1UJGaS0pucPrmjudI_0A7Klgjj6ZdYCt1sH5VFngK5-o&usp=drive_copy)
+
+    -   [TEMPLATE rOpenSci Champions program YEAR: Champion Survey](https://docs.google.com/forms/d/1pjh2hN-2UCzqeqZFlBg4UFZ2p9Zj08fFsfCCjVrOPNQ/edit)
+
+    -   [TEMPLATE rOpenSci Champions Program YEAR: Mentor Survey](https://docs.google.com/forms/d/1OWDN82HCuDQ7wZ6MArvGVjMSkcL6JbZR6VCMmQoWrT0/edit) 
+
+The Program Manager also wrote a grant report for CZI, which details the motivations and outcomes of the program. 
+
+-   [CZI Champions Program Completed grant final report](https://docs.google.com/document/d/1yxwsOa4-E7qinkxQjsB9uTBaedHZ4aC4CB8niwxrnUA/edit?usp=drive_link) 

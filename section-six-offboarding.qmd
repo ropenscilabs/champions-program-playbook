@@ -41,9 +41,8 @@ The program manager emails the Instructions for receiving payment for your fello
 
     -   The information on the name holder in the bank account must be the same as in the payment request form.
 
-    ```{=html}
     <!-- -->
-    ```
+
     -   PayPal can apply fees to the payment.
 
     -   Countries have different regulations and processes about payments in a foreign currency. Each champion must know their country's details in order to get pay.
@@ -69,7 +68,7 @@ The meeting is mandatory for champions but optional for mentors. The agenda for 
 
 -   Activity: rOpenSci: Final Reflections - 30 minutes.
 
-####  Final Reflections Activity
+#### Final Reflections Activity
 
 In the shared documents. Find your name under each title and add your reflections. 
 

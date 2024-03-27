@@ -61,9 +61,9 @@ Half of the weekly session are schedule and the invitation are sent with a detai
 This configuration is a good mix between flexibility in the timing of training and knowing the schedule in advance.  
 
 
-:::call
-For the first cohort we made a pool to chosse the day and time of each training. We offer two session for each workshop in different timezones and record the training. The fee
-
+:::callout-note
+For the first cohort we made a pool to chosse the day and time of each training. We offer two session for each workshop in different timezones and record the training. The feedback was very good on the flexibility aspect but many champions request to know in advance when the session will happen.
+:::
 
 
 
