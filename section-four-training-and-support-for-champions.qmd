@@ -54,16 +54,37 @@ While the Community Manager has led and helped organize many of the training ses
 
 ## Training Session Organization
 
+### Schedule
+
 Champions share their availability in a pool and the Community Manager select with the instructor availability the best day of the week and time during the day for maximizing attendance.
 
 Half of the weekly session are schedule and the invitation are sent with a detail of the topic of each workshop with the material we will use in advance. When half of the session were completed the time of the session changes to accommodate better those champions that can't attend the first option synchronously.
 
-This configuration is a good mix between flexibility in the timing of training and knowing the schedule in advance.  
+This configuration is a good mix between flexibility in the timing of training and knowing the schedule in advance.
 
-
-:::callout-note
+::: callout-note
 For the first cohort we made a pool to chosse the day and time of each training. We offer two session for each workshop in different timezones and record the training. The feedback was very good on the flexibility aspect but many champions request to know in advance when the session will happen.
 :::
+
+### Workshop Session
+
+There is a check list of task to fo for each training session.
+
+* **One day before the training session**: 
+
+1. [Use the template]() to create the collaborative note taking document. Remember to check with champions if the tool is accessible for them. 
+
+2. Send and email and post a message on the Slack channel with a reminder of the training.  Include the link to the zoom meeting and the session material.
+
+* **Before the start of the training session**:
+
+3.  One hour before the training session send and email and post a message on the Slack channel tagging to the channel with a reminder of the training.  Include the link to the zoom meeting and the session material.
+
+4. Start the meeting 15 minutes before the time.
+
+5. When the instructor join, give co-host permission. Check audio, video and screen sharing. Check access to the document and link to the materials. 
+
+6. Remove the waiting room and allow all participants to join.
 
 
 
