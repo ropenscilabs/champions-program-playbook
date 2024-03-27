@@ -2,198 +2,128 @@
 
 ## Overview
 
-Champions will receive training on (1) how to plan and facilitate
-engaging and inclusive workshops to support participants’ success (by
-CSCCE), (2) channels through which new members can engage in and
-contribute to rOpenSci and R projects, and (3) technical skills in
-software development and review. This series of 60 to 180-minute
-sessions will be supplemented by ongoing peer connection in a private
-Slack channel so that champions expand their own professional support
-networks while gaining new skills.
+Champions will receive training on (1) how to plan and facilitate engaging and inclusive workshops to support participants’ success (by CSCCE), (2) channels through which new members can engage in and contribute to Open Source projects, and (3) technical skills in software development and review. This series of 60 to 180-minute sessions will be supplemented by ongoing peer connection in a private Slack channel so that champions expand their own professional support networks while gaining new skills.
 
-After training, champions will organize peer groups in communities in
-which they are embedded. They will promote participation in peer review
-and contribution to rOpenSci open source software, infrastructure, and
-documentation and gather feedback on where rOpenSci’s current
-programming might be improved to meet the needs of all who wish to
-participate. The tenure and responsibilities of each cohort will have
-clear start and end dates and champions will receive an honorarium.
-
-We will develop peer mentorship groups to support participants from
-historically excluded groups in their first technical contributions.
-Peer-mentorship groups will be facilitated by rOpenSci technical and
-community management staff, and also by community champions after Year
-One. Facilitators will provide training for technical activities
-(preparing a pull request, reviewing a package, preparing a package for
-submission or publication on rOpenSci infrastructure). Training will be
-followed by group “office hours”, 1-on-1 support, and closed group chats
-to support first-time participants in making their first open-source
-contributions through rOpenSci.
+After training, champions will organize peer groups in communities in which they are embedded. They will promote participation in peer review and contribution to rOpenSci open source software, infrastructure, and documentation and gather feedback on where rOpenSci’s current programming might be improved to meet the needs of all who wish to participate. The tenure and responsibilities of each cohort will have clear start and end dates and champions will receive an honorarium.
 
 ## Trainers
 
-While the Community Manager has led and helped organize many of the
-training sessions, trainers have come from outside of the Champions
-program. Having a diversity of trainers helps support the mission of the
-Champion Program to increase access to the R ecosystem.
+While the Community Manager has led and helped organize many of the training sessions, trainers have come from outside of the Champions program. Having a diversity of trainers helps support the mission of the Champion Program to increase access to the R ecosystem.
 
-| **Trainer Name**                                  | **Trainer Email** | **Connection to rOpenSci** | **Training Led** |
-|---------------------------------------------------|-------------------|----------------------------|------------------|
-| Camille Santistevan                               |                   | CSCCE Staff                |                  |
-| Maya Sanghvi                                      |                   | CSCCE Staff                |                  |
-| Maëlle Salmon                                     |                   | Staff                      |                  |
-| Mauro Lepore                                      |                   | Reviewer/Editor            |                  |
-| Heather Turner                                    |                   | R Foundation               |                  |
-| Yanina Bellini Saibene                            |                   | Staff                      |                  |
-| [*Paola Corrales*](mailto:paobcorrales@gmail.com) |                   | Champion                   |                  |
+| **Trainer Name**       | **Connection to rOpenSci** | **Training Led** |
+|------------------------|----------------------------|------------------|
+| Camille Santistevan    | CSCCE Staff                |                  |
+| Maya Sanghvi           | CSCCE Staff                |                  |
+| Maëlle Salmon          | Staff                      |                  |
+| Mauro Lepore           | Reviewer/Editor            |                  |
+| Heather Turner         | R Foundation               |                  |
+| Yanina Bellini Saibene | Staff                      |                  |
+| *Paola Corrales*       | Champion                   |                  |
 
-## Training details
+## Workshops
 
-Details of courses / who delivering them / what they consist of / how
-long they are
+### Technical Track
 
-### Making a PACT for engaging virtual meetings and events
+-   [**Beautiful Code, Because We’re Worth It!.**](https://stylish-code.netlify.app/#/) Added for the second cohort is a one-hour session to present [good practices on writing code](https://ropensci.org/blog/2024/02/22/beautiful-code/). It is the first session of the technical training.
 
-In this 90-minute mini-workshop hosted by the Center for Scientific
-Collaboration and Community Engagement, participants explore how to
-design and facilitate engaging and productive virtual meetings and
-events. Participants discuss the opportunities and challenges of working
-together online and outline the “Making a PACT” framework for effective
-meeting design. In addition to examples of the framework in action,
-attendees have an opportunity to apply it directly to some example
-scenarios so that participants leave feeling empowered to use the
-framework in their own work.
+-   [**Package Development: The Mechanics**](https://rpkgdev-mechanics.netlify.app/)**.** two-hour hands-on session with a live demo on creating R packages hosted by rOpenSci staff Maëlle Salmon and Yanina Bellini Saibene. For the second cohort, we split this training into [three 2-hour sessions](https://rpkgdev-mechanics-2024.netlify.app/) with more content and more time for the hands-on exercises. It is training for beginners to demystify the creation of an R package.
 
-Participants are welcome to review the CSCCE’s free guidebook on Zenodo
-ahead of the session: [*A guide to using virtual events to facilitation
-community building: Making a PACT for more engaging virtual meetings and
-events*](https://zenodo.org/record/4987666#.Y-1Y4nbMK5c)
+-   [**Package Development: Not Rocket Science**](https://rpkgdev-rocket.netlify.app/)**.** two-hour hands-on workshop for advanced R package development with several tips and tricks on package development hosted by rOpenSci staff Maëlle Salmon and Yanina Bellini Saibene. 
 
-All champions must complete this training.
+-   [**How rOpenSci Performs Peer Review**](https://github.com/maurolepore/ropensci-review)**.** one-hour workshop to showcase and discuss how rOpenSci communicates, builds, and reviews software with selected examples and resources hosted by rOpenSci community member and mentor Mauro Lepore. We add one more session with case analysis and practices, for the second cohort.
 
-### Package Development: The Mechanics
+-   [**Developing Software Together**](https://paocorrales.github.io/git-developing-software-together/). 3-hour course on using Git and GitHub to collaboratively develop open-source software with the R language. Hosted by the champion Paola Corrales and rOpenSci staff Yanina Bellini Saibene.
 
-In this two-hour session with a live demo, an rOpenSci trainer
-demystifies the creation of an R package. R packages are mostly
-well-organized folders, and there are automatic tools to help such as
-usethis. This workshop is for R users who have not previously developed
-or contributed to packages.
+    ::: callout-tip
+    Developing Software together was offered to all the non-selected applicants
 
-Training materials:
-[*https://rpkgdev-mechanics.netlify.app/*](https://rpkgdev-mechanics.netlify.app/)
+    One of the goals of this program was to ensure that all participants gained new skills and understanding. We also wanted to support those who applied to the program but were not selected. Therefore we ensured that all groups had access to different training opportunities.
+    :::
 
-It is intended for champions who are planning to develop a package and
-have no experience in this task.
+    ::: callout-note
+    [**How to contribute to base R**](https://ropensci.org/events/2023-05-18-how-to-contribute-base-r/) 1-hour workshop with a walk-through of how to contribute to base R. It included how to contribute to a bug, confirm a bug, diagnose a bug, and propose a fix to code/documentation hosted by R Foundation member Heather Turner for the first cohort.
+    :::
 
-### Package Development: Not Rocket Science
+### Community Track
 
-This two-hour workshop is for R users who’ve already developed or
-contributed to packages. Ideally, participants attend with a package of
-their own to use as a playground.
+-   **Making a PACT for engaging virtual meetings and events.** 1.5-hour workshop hosted by CSCCE. Participants explored designing and facilitating engaging and productive virtual meetings and events. Participants discuss the opportunities and challenges of working together online and outline the “Making a PACT” framework for effective meeting design. In addition to examples of the framework in action, attendees can apply it directly to some example scenarios so that participants leave feeling empowered to use the framework in their work. Participants are welcome to review the CSCCE’s free guidebook on Zenodo ahead of the session: [*A guide to using virtual events to facilitation community building: Making a PACT for more engaging virtual meetings and events*](https://zenodo.org/record/4987666#.Y-1Y4nbMK5c)
 
-It is intended for champions who are planning to develop a package or
-send a package to review and want to learn several tips and tricks on
-package development.
+-   **Path for contributing to rOpenSci.** Added for the second cohort. One 2-hour session to present paths for collaboration and engagement beyond the champions program.
 
-Training materials:
-[*https://rpkgdev-rocket.netlify.app/*](https://rpkgdev-rocket.netlify.app/)
+-   **Teaching and Learning Tech Together.** This was added for the second cohort. It is a 3-hour session with evidence-based pedagogical concepts to apply in teaching, events, talks, mentoring, documentation, and other spaces where we need to share content and knowledge.
 
-### How rOpenSci Performs Peer Review
+## Training Session Organization
 
-This one-hour workshop is for people who might want to try rOpenSci
-review process. We will go through
+### Schedule
 
-The way we communicate, The way we build and review software. We will
-check selected examples, resources
+Champions share their availability in a pool and the Community Manager select with the instructor availability the best day of the week and time during the day for maximizing attendance.
 
-and then some time for Questions and comments.
+Half of the weekly session are schedule and the invitation are sent with a detail of the topic of each workshop with the material we will use in advance. When half of the session were completed the time of the session changes to accommodate better those champions that can't attend the first option synchronously.
 
-Materials:
-[*https://github.com/maurolepore/ropensci-review*](https://github.com/maurolepore/ropensci-review)
+This configuration is a good mix between flexibility in the timing of training and knowing the schedule in advance.
 
-This training is for champions that will send a package to review or
-will become reviewers.
+::: callout-note
+For the first cohort we made a pool to chosse the day and time of each training. We offer two session for each workshop in different timezones and record the training. The feedback was very good on the flexibility aspect but many champions request to know in advance when the session will happen.
+:::
+
+### Workshop Session
+
+There is a check list of task to fo for each training session.
+
+* **One day before the training session**: 
+
+1. [Use the template]() to create the collaborative note taking document. Remember to check with champions if the tool is accessible for them. 
+
+2. Send and email and post a message on the Slack channel with a reminder of the training.  Include the link to the zoom meeting and the session material.
+
+* **Before the start of the training session**:
+
+3.  One hour before the training session send and email and post a message on the Slack channel tagging to the channel with a reminder of the training.  Include the link to the zoom meeting and the session material.
+
+4. Start the meeting 15 minutes before the time.
+
+5. When the instructor join, give co-host permission. Check audio, video and screen sharing. Check access to the document and link to the materials. 
+
+6. Remove the waiting room and allow all participants to join.
+
+
 
 #### Invitation mail template
 
-“Dear Champions and Mentors. This is the invitation to our next training
-session on how rOpenSci performs peer-review.
+“Dear Champions and Mentors. This is the invitation to our next training session on how rOpenSci performs peer-review.
 
-Mauro Lepore will be our speaker. Mauro is part of the rOpenSci review
-process and has served in different roles: reviewer, editor, and
-editor-in-chief. And he is also one of our mentors!!
+Mauro Lepore will be our speaker. Mauro is part of the rOpenSci review process and has served in different roles: reviewer, editor, and editor-in-chief. And he is also one of our mentors!!
 
-This training is open to all. It is especially important for champions
-who are going to send a package for review or are going to become a
-reviewer. It is optional for mentors.”
+This training is open to all. It is especially important for champions who are going to send a package for review or are going to become a reviewer. It is optional for mentors.”
 
-### How to contribute to base R
-
-This workshop is a 60-minute walkthrough of how to contribute to base R.
-The outline includes How we can contribute to a bug, confirm a bug,
-diagnose a bug, and propose a fix to code/documentation.
-
-The workshop shows tools and strategies to find a bug to work on and
-what features make it good for first-timer to work on. It has examples
-and exercises on how to triage bugs. Then show how to debug
-code/documentation with collaborative hand on. Next, show how to fix a
-bug by commenting on Bugzilla and a demo on creating a patch with git
-workflow. Finally, share pointers to further help and resources.
-
-This training was developed for the Champion Program, taught by \[Hether
-Turner\](/author/heather-turner/), and is open to all champions and
-mentors.
-
-Training material:
-[*https://ropensci.org/events/2023-05-18-how-to-contribute-base-r/*](https://ropensci.org/events/2023-05-18-how-to-contribute-base-r/)
-
-## Training for non-selected applicants
-
-*[Developing Software
-Together](https://paocorrales.github.io/git-developing-software-together/)*
-
-## Training for mentors
+## 
 
 ## Sharing materials from the trainings and program (revisit at the end of 2022-2023 Champions tenure):
 
-The rOpenSci Community Manager shares [*the
-materials*](https://rpkgdev-mechanics.netlify.app/) from each training
-session online after it’s completed. When the first year is over, the
-Community Manager should reflect on how to make the project open source
-in its entirety, including information on how to organize a champions
-program. After the first year, the goal is to make the project primarily
-open.
+The rOpenSci Community Manager shares [*the materials*](https://rpkgdev-mechanics.netlify.app/) from each training session online after it’s completed. When the first year is over, the Community Manager should reflect on how to make the project open source in its entirety, including information on how to organize a champions program. After the first year, the goal is to make the project primarily open.
 
-Much of the content and training for this program has been developed by
-the Community Manager, Yani, and one of the main trainers, Maelle. They
-are interested in sharing this knowledge with the rest of the R
-community.
+Much of the content and training for this program has been developed by the Community Manager, Yani, and one of the main trainers, Maelle. They are interested in sharing this knowledge with the rest of the R community.
 
 ## Post-training programming
 
 ### Office hours and co-working sessions
 
-After training sessions, the champions may benefit from office hours and
-/ or co-working sessions to ask questions about what they’ve learned and
-apply it to their own package development projects.
+After training sessions, the champions may benefit from office hours and / or co-working sessions to ask questions about what they’ve learned and apply it to their own package development projects.
 
-Maelle, one of the main trainers, has a wealth of knowledge and would be
-a very useful resource to pull into office hours.
+Maelle, one of the main trainers, has a wealth of knowledge and would be a very useful resource to pull into office hours.
 
 ### Resources and support for Champions’ outreach activities
 
-- List of potential events to participate
+-   List of potential events to participate
 
-  - Apply for scholarships to present at conferences
+    -   Apply for scholarships to present at conferences
 
-- Yani has been redirecting invitations to talk or teach to the
-  champions
+-   Yani has been redirecting invitations to talk or teach to the champions
 
-  - Share in Slack
+    -   Share in Slack
 
-  - Targeted invites to champions and mentors - tends to work better
+    -   Targeted invites to champions and mentors - tends to work better
 
-  - Champions have been paid to participate
+    -   Champions have been paid to participate
 
-- Start a resources folder with logos, slides, etc. so the champions can
-  use it in their events)
+-   Start a resources folder with logos, slides, etc. so the champions can use it in their events)

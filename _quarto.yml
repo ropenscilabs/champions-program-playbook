@@ -5,7 +5,7 @@ project:
 book:
   title: "rOpenSci Champions Program Internal Playbook [DRAFT]"
   author: "Yanina Bellini Saibene, Camille Santistevan, Lou Woodley, Maya Sanghvi, Maëlle Salmon"
-  date: "2024-01-08"
+  date: "2024-05-02"
   chapters:
     - index.qmd
     - introduction.qmd
@@ -15,3 +15,4 @@ book:
     - section-four-training-and-support-for-champions.qmd
     - section-five-communications.qmd
     - section-six-offboarding.qmd
+    - section-seven-evaluation-and-assessment.qmd
