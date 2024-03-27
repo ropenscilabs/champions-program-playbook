@@ -18,7 +18,7 @@ The program manager emails the Instructions for receiving payment for your fello
 
     -   The current date
 
-    -   Unique invoice number
+    -   Invoice number
 
     -   Description: *"rOpenSci Champions Program stipend"* 
 
@@ -30,9 +30,15 @@ The program manager emails the Instructions for receiving payment for your fello
 
     -   In *Project Name* choose *rOpenSci*.
 
+    -   In specific grant write *CZI Champions*
+
     -   In *Item/Work Description* write *rOpenSci Champions Program Fellowship*
 
     -   Upload your invoice in PDF format.
+
+        ::: callout-note
+        Each Champion will need to fill out a W form for US taxes. There are different forms to fill out according to Champion's status as a US Citizen.
+        :::
 
 3.  Payment is issued within 30 days after approval by project leaders.
 
@@ -40,17 +46,13 @@ The program manager emails the Instructions for receiving payment for your fello
     ## Know issues
 
     -   The information on the name holder in the bank account must be the same as in the payment request form.
-
-    <!-- -->
-
     -   PayPal can apply fees to the payment.
-
     -   Countries have different regulations and processes about payments in a foreign currency. Each champion must know their country's details in order to get pay.
     :::
 
 ### Final meeting 
 
-The very last full cohort and mentor meeting provides an opportunity for Champions to reflect on their projects and progress, offer thanks to each other and their mentors, and talk about next steps.
+The very lidst full cohort and mentor meeting provides an opportunity for Champions to reflect on their projects and progress, offer thanks to each other and their mentors, and talk about next steps.
 
 ::: callout-note
 ## Virtual Notes
