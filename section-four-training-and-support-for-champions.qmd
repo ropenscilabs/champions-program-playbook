@@ -20,7 +20,7 @@ While the Community Manager has led and helped organize many of the training ses
 | Yanina Bellini Saibene | Staff                      |                  |
 | *Paola Corrales*       | Champion                   |                  |
 
-## Training details
+## Workshops
 
 ### Technical Track
 
@@ -59,10 +59,6 @@ While the Community Manager has led and helped organize many of the training ses
 Mauro Lepore will be our speaker. Mauro is part of the rOpenSci review process and has served in different roles: reviewer, editor, and editor-in-chief. And he is also one of our mentors!!
 
 This training is open to all. It is especially important for champions who are going to send a package for review or are going to become a reviewer. It is optional for mentors.”
-
-## Training for non-selected applicants
-
-[*Developing Software Together*](https://paocorrales.github.io/git-developing-software-together/)
 
 ## 
 
