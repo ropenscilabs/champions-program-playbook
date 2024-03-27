@@ -22,7 +22,7 @@ While the Community Manager has led and helped organize many of the training ses
 
 ## Training details
 
-### Technical Skills Track
+### Technical Track
 
 -   [**Beautiful Code, Because We’re Worth It!.**](https://stylish-code.netlify.app/#/) Added for the second cohort is a one-hour session to present [good practices on writing code](https://ropensci.org/blog/2024/02/22/beautiful-code/). It is the first session of the technical training.
 
@@ -34,35 +34,23 @@ While the Community Manager has led and helped organize many of the training ses
 
 -   [**Developing Software Together**](https://paocorrales.github.io/git-developing-software-together/). 3-hour course on using Git and GitHub to collaboratively develop open-source software with the R language. Hosted by the champion Paola Corrales and rOpenSci staff Yanina Bellini Saibene.
 
--   [**How to contribute to base R**](https://ropensci.org/events/2023-05-18-how-to-contribute-base-r/) 1-hour workshop with a walk-through of how to contribute to base R. It included how to contribute to a bug, confirm a bug, diagnose a bug, and propose a fix to code/documentation hosted by R Foundation member Heather Turner.
+    ::: callout-tip
+    Developing Software together was offered to all the non-selected applicants
 
-### Organizational Skills
+    One of the goals of this program was to ensure that all participants gained new skills and understanding. We also wanted to support those who applied to the program but were not selected. Therefore we ensured that all groups had access to different training opportunities.
+    :::
 
--   **Making a PACT for engaging virtual meetings and events.** 1.5-hour workshop hosted by CSCCE. Participants explored designing and facilitating engaging and productive virtual meetings and events.
+    ::: callout-note
+    [**How to contribute to base R**](https://ropensci.org/events/2023-05-18-how-to-contribute-base-r/) 1-hour workshop with a walk-through of how to contribute to base R. It included how to contribute to a bug, confirm a bug, diagnose a bug, and propose a fix to code/documentation hosted by R Foundation member Heather Turner for the first cohort.
+    :::
+
+### Community Track
+
+-   **Making a PACT for engaging virtual meetings and events.** 1.5-hour workshop hosted by CSCCE. Participants explored designing and facilitating engaging and productive virtual meetings and events. Participants discuss the opportunities and challenges of working together online and outline the “Making a PACT” framework for effective meeting design. In addition to examples of the framework in action, attendees can apply it directly to some example scenarios so that participants leave feeling empowered to use the framework in their work. Participants are welcome to review the CSCCE’s free guidebook on Zenodo ahead of the session: [*A guide to using virtual events to facilitation community building: Making a PACT for more engaging virtual meetings and events*](https://zenodo.org/record/4987666#.Y-1Y4nbMK5c)
 
 -   **Path for contributing to rOpenSci.** Added for the second cohort. One 2-hour session to present paths for collaboration and engagement beyond the champions program.
 
 -   **Teaching and Learning Tech Together.** This was added for the second cohort. It is a 3-hour session with evidence-based pedagogical concepts to apply in teaching, events, talks, mentoring, documentation, and other spaces where we need to share content and knowledge. 
-
-### Making a PACT for engaging virtual meetings and events
-
-In this 90-minute mini-workshop hosted by the Center for Scientific Collaboration and Community Engagement, participants explore how to design and facilitate engaging and productive virtual meetings and events. Participants discuss the opportunities and challenges of working together online and outline the “Making a PACT” framework for effective meeting design. In addition to examples of the framework in action, attendees have an opportunity to apply it directly to some example scenarios so that participants leave feeling empowered to use the framework in their own work.
-
-Participants are welcome to review the CSCCE’s free guidebook on Zenodo ahead of the session: [*A guide to using virtual events to facilitation community building: Making a PACT for more engaging virtual meetings and events*](https://zenodo.org/record/4987666#.Y-1Y4nbMK5c)
-
-All champions must complete this training.
-
-### How rOpenSci Performs Peer Review
-
-This one-hour workshop is for people who might want to try rOpenSci review process. We will go through
-
-The way we communicate, The way we build and review software. We will check selected examples, resources
-
-and then some time for Questions and comments.
-
-Materials: [*https://github.com/maurolepore/ropensci-review*](https://github.com/maurolepore/ropensci-review)
-
-This training is for champions that will send a package to review or will become reviewers.
 
 #### Invitation mail template
 
@@ -72,21 +60,11 @@ Mauro Lepore will be our speaker. Mauro is part of the rOpenSci review process a
 
 This training is open to all. It is especially important for champions who are going to send a package for review or are going to become a reviewer. It is optional for mentors.”
 
-### How to contribute to base R
-
-This workshop is a 60-minute walkthrough of how to contribute to base R. The outline includes How we can contribute to a bug, confirm a bug, diagnose a bug, and propose a fix to code/documentation.
-
-The workshop shows tools and strategies to find a bug to work on and what features make it good for first-timer to work on. It has examples and exercises on how to triage bugs. Then show how to debug code/documentation with collaborative hand on. Next, show how to fix a bug by commenting on Bugzilla and a demo on creating a patch with git workflow. Finally, share pointers to further help and resources.
-
-This training was developed for the Champion Program, taught by \[Hether Turner\](/author/heather-turner/), and is open to all champions and mentors.
-
-Training material: [*https://ropensci.org/events/2023-05-18-how-to-contribute-base-r/*](https://ropensci.org/events/2023-05-18-how-to-contribute-base-r/)
-
 ## Training for non-selected applicants
 
 [*Developing Software Together*](https://paocorrales.github.io/git-developing-software-together/)
 
-## Training for mentors
+## 
 
 ## Sharing materials from the trainings and program (revisit at the end of 2022-2023 Champions tenure):
 
