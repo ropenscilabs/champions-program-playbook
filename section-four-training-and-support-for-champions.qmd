@@ -84,34 +84,51 @@ There is a check list of task to fo for each training session.
 
 5. When the instructor join, give co-host permission. Check audio, video and screen sharing. Check access to the document and link to the materials. 
 
+* **During the training session**:
+
 6. Remove the waiting room and allow all participants to join.
 
-7. Welcome the attendees and mention we will record the session.  All the material is only shared with the cohort. 
+7. Welcome the attendees and mention we will record the session.  Start the recording. All the material is only shared with the cohort. 
 
 8. Mention the CoC, share the collaborative note taking doc, introduce the instructor and pass the lead of the session to them.
 
+9. Share on the chat the links to the collaborative note taking document.
+
+10. Manage the breakout rooms.
+
+11. Share the anonymous feedback survey (last 5 minutes) for people to fill before they leave.
+
 * **After the training**
 
-9. When the vide recording is ready, create the folder for the session in the google drive for the cohort and upload all the necessary files.  Edit the video and summary with timestamp if neccesary.
+12. Check the feedback survey and decide what can be improve for the next session.
 
-10. Then send the email and post the message in Slack sharing the following materials:
+13. When the video recording is ready, create the folder for the session in the google drive for the cohort and upload all the necessary files.  Edit the video if necessary, and summary the content with timestamp.
+
+14. Then send the email and post the message in Slack sharing the following materials:
 
   - Slides.
   - Video.
-  - Video summary with timestamp (this is generated with Zoom tools).  This was a request from champions to check the material without the need to watch all the video.  
+  - Video summary with timestamp (this is generated with Zoom tools).    
   - Automatic Subtitles. 
   - Chat.
   - Transcript.
   - Shared notes.
-  - Link to Feedback Survey
+  - Link to Feedback Survey.
+  
+
+::: callout-note
+Video summary with timestamp, automatic subtitles, transcript and chat are tools to increase the accesibility of the material. 
+
+The summary with timestamos was also a request from champions of the first cohort to check the material without the need to watch all the video.  
+:::
 
 #### Invitation mail template
 
-“Dear Champions and Mentors. This is the invitation to our next training session on how rOpenSci performs peer-review.
-
-Mauro Lepore will be our speaker. Mauro is part of the rOpenSci review process and has served in different roles: reviewer, editor, and editor-in-chief. And he is also one of our mentors!!
-
-This training is open to all. It is especially important for champions who are going to send a package for review or are going to become a reviewer. It is optional for mentors.”
+> “Dear Champions and Mentors. This is the invitation to our next training session on [topic]
+> 
+[Name of the instructor] will be our speaker. [Name of the instructor] is [short bio].
+>
+> This training is open to all. It is especially important for champions who are going to send a package for review or are going to become a reviewer. It is optional for mentors.”
 
 ## 
 
