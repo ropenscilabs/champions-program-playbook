@@ -145,20 +145,18 @@ The second year we are also opening the information on how to organize a champio
 
 After training sessions, the champions may benefit from office hours and / or co-working sessions to ask questions about what they’ve learned and apply it to their own package development projects.
 
-Maelle, one of the main trainers, has a wealth of knowledge and would be a very useful resource to pull into office hours.
-
 ### Resources and support for Champions’ outreach activities
 
 -   List of potential events to participate
 
-    -   Apply for scholarships to present at conferences
+    -   Apply for scholarships to present at conferences.
 
--   Yani has been redirecting invitations to talk or teach to the champions
+-   The Community Manager has been redirecting invitations to talk or teach to the champions
 
     -   Share in Slack
 
-    -   Targeted invites to champions and mentors - tends to work better
+    -   Targeted invites to champions and mentors - tends to work better that a general message on the private channel of the Champions Program.
 
-    -   Champions have been paid to participate
+    -   Champions have been paid to participate in some of these opportunities.
 
--   Start a resources folder with logos, slides, etc. so the champions can use it in their events)
+-   Part of the scalfolding is a folder with rOpenSci branding, slides templates, etc. so the Champions can use it in their events.
