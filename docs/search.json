@@ -173,8 +173,8 @@
     "objectID": "section-four-training-and-support-for-champions.html#sharing-materials-from-the-trainings-and-program-revisit-at-the-end-of-2022-2023-champions-tenure",
     "href": "section-four-training-and-support-for-champions.html#sharing-materials-from-the-trainings-and-program-revisit-at-the-end-of-2022-2023-champions-tenure",
     "title": "5  Training and support for champions",
-    "section": "5.6 Sharing materials from the trainings and program (revisit at the end of 2022-2023 Champions tenure):",
-    "text": "5.6 Sharing materials from the trainings and program (revisit at the end of 2022-2023 Champions tenure):\nThe rOpenSci Community Manager shares the materials from each training session online after it’s completed. When the first year is over, the Community Manager should reflect on how to make the project open source in its entirety, including information on how to organize a champions program. After the first year, the goal is to make the project primarily open.\nMuch of the content and training for this program has been developed by the Community Manager, Yani, and one of the main trainers, Maelle. They are interested in sharing this knowledge with the rest of the R community.",
+    "section": "5.5 Sharing materials from the trainings and program (revisit at the end of 2022-2023 Champions tenure):",
+    "text": "5.5 Sharing materials from the trainings and program (revisit at the end of 2022-2023 Champions tenure):\nFor the first cohort the Community Manager shared the training materials from each training session online after it’s completed.\nFor the second cohort we are updating the content and sharing it openly at the same time we are running the session. We also summarize some of the content on blog post or tech note for our webpage. This way we can share this knowledge with the rest of the R community.\nThe second year we are also opening the information on how to organize a champions program (this play books is an example of making the program open).",
     "crumbs": [
       "<span class='chapter-number'>5</span>  <span class='chapter-title'>Training and support for champions</span>"
     ]
@@ -183,8 +183,8 @@
     "objectID": "section-four-training-and-support-for-champions.html#post-training-programming",
     "href": "section-four-training-and-support-for-champions.html#post-training-programming",
     "title": "5  Training and support for champions",
-    "section": "5.7 Post-training programming",
-    "text": "5.7 Post-training programming\n\n5.7.1 Office hours and co-working sessions\nAfter training sessions, the champions may benefit from office hours and / or co-working sessions to ask questions about what they’ve learned and apply it to their own package development projects.\nMaelle, one of the main trainers, has a wealth of knowledge and would be a very useful resource to pull into office hours.\n\n\n5.7.2 Resources and support for Champions’ outreach activities\n\nList of potential events to participate\n\nApply for scholarships to present at conferences\n\nYani has been redirecting invitations to talk or teach to the champions\n\nShare in Slack\nTargeted invites to champions and mentors - tends to work better\nChampions have been paid to participate\n\nStart a resources folder with logos, slides, etc. so the champions can use it in their events)",
+    "section": "5.6 Post-training programming",
+    "text": "5.6 Post-training programming\n\n5.6.1 Office hours and co-working sessions\nAfter training sessions, the champions may benefit from office hours and / or co-working sessions to ask questions about what they’ve learned and apply it to their own package development projects.\nMaelle, one of the main trainers, has a wealth of knowledge and would be a very useful resource to pull into office hours.\n\n\n5.6.2 Resources and support for Champions’ outreach activities\n\nList of potential events to participate\n\nApply for scholarships to present at conferences\n\nYani has been redirecting invitations to talk or teach to the champions\n\nShare in Slack\nTargeted invites to champions and mentors - tends to work better\nChampions have been paid to participate\n\nStart a resources folder with logos, slides, etc. so the champions can use it in their events)",
     "crumbs": [
       "<span class='chapter-number'>5</span>  <span class='chapter-title'>Training and support for champions</span>"
     ]
@@ -317,6 +317,16 @@
     "text": "As the program comes to an end, there are a few ways to assess whether it has met its goals. In the inaugural program run-through, the Program Manager sent out assessment surveys to the Champions and mentors, and also ran 1-1 interviews with Champions and a focus group with the mentors. There are example documents and templates below to send out to champions and mentors, and to run the interviews and focus groups. \n\n\n\n\n\n\nImportant\n\n\n\nThe following documents are accessible only for the rOpenSci Champions Program Team to safeguard the information shared by champions and mentors.\n\n\n\n2022-2023 Examples:\n\nShared Google Drive assessment folder\n\nrOpenSci 2022-23 champions assessment - project plan and logistics\nrOpenSci Champion assessment interview notes\nrOpenSci mentors assessment interview notes \nrOpenSci Champions program 2023: Champion Survey\nrOpenSci Champions Program 2023: Mentor Survey\n\n\nTemplates for future use:\n\n\n\n\n\n\n\nNote\n\n\n\nThese are copies of the materials used in the inaugural year, and will need specific dates and cohort details added. \n\n\n\nAssessment templates folder \n\nTEMPLATE rOpenSci Champion assessment interview notes\nTEMPLATE rOpenSci mentors assessment focus group notes\nTEMPLATE rOpenSci YEAR - YEAR champions assessment - project plan and logistics\nTEMPLATE rOpenSci Champions program YEAR: Champion Survey\nTEMPLATE rOpenSci Champions Program YEAR: Mentor Survey \n\n\nThe Program Manager also wrote a grant report for CZI, which details the motivations and outcomes of the program. \n\nCZI Champions Program Completed grant final report",
     "crumbs": [
       "<span class='chapter-number'>8</span>  <span class='chapter-title'>Evaluation and assessment</span>"
+    ]
+  },
+  {
+    "objectID": "section-four-training-and-support-for-champions.html#open-and-sharing-traninig-and-program-materials",
+    "href": "section-four-training-and-support-for-champions.html#open-and-sharing-traninig-and-program-materials",
+    "title": "5  Training and support for champions",
+    "section": "5.5 Open and Sharing Traninig and Program Materials",
+    "text": "5.5 Open and Sharing Traninig and Program Materials\nFor the first cohort the Community Manager shared the training materials from each training session online after it’s completed.\nFor the second cohort we are updating the content and sharing it openly at the same time we are running the session. We also summarize some of the content on blog post or tech note for our webpage. This way we can share this knowledge with the rest of the R community.\nThe second year we are also opening the information on how to organize a champions program. We already share some insight on blog post and talks during the program pilot. This play book present detailed content on how we run our program.",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Training and support for champions</span>"
     ]
   }
 ]

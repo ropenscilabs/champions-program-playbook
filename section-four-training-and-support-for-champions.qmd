@@ -130,13 +130,14 @@ The summary with timestamos was also a request from champions of the first cohor
 >
 > This training is open to all. It is especially important for champions who are going to send a package for review or are going to become a reviewer. It is optional for mentors.”
 
-## 
 
-## Sharing materials from the trainings and program (revisit at the end of 2022-2023 Champions tenure):
+## Open and Sharing Traninig and Program Materials
 
-The rOpenSci Community Manager shares [*the materials*](https://rpkgdev-mechanics.netlify.app/) from each training session online after it’s completed. When the first year is over, the Community Manager should reflect on how to make the project open source in its entirety, including information on how to organize a champions program. After the first year, the goal is to make the project primarily open.
+For the first cohort the Community Manager shared [*the training materials*](https://github.com/ropensci-training) from each training session online after it’s completed. 
 
-Much of the content and training for this program has been developed by the Community Manager, Yani, and one of the main trainers, Maelle. They are interested in sharing this knowledge with the rest of the R community.
+For the second cohort we are updating the content and sharing it openly at the same time we are running the session. We also summarize some of the content on [blog post or tech note](https://ropensci.org/tags/champions-program/) for our webpage.  This way we can share this knowledge with the rest of the R community.
+
+The second year we are also opening the information on how to organize a champions program. We already share some insight on blog post and [talks](https://ropensci.org/talks-papers/) during the program pilot. This play book present detailed content on how we run our program.
 
 ## Post-training programming
 
