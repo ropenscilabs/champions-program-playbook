@@ -130,6 +130,52 @@ The summary with timestamos was also a request from champions of the first cohor
 >
 > This training is open to all. It is especially important for champions who are going to send a package for review or are going to become a reviewer. It is optional for mentors.”
 
+## Post-training programming
+
+### Co-hort meetings
+
+Four cohort meetings were planned, one for each quarter with a duration of 90 minutes. Mentors are invited to participate.
+
+* First Cohort meeting: Project Presentations. Champions give 5 min presentations of their projects (package review or development) and receive feedback.
+
+* Second Cohort meeting: Project Reflections. Champions will be invited to share takeaways from their projects with the cohort.	
+
+*	Third Cohort meeting: Reflections on events.	Champions will be invited to share their ideas for their outreach activity and takeaways from their events with the cohort.	
+
+* Fourth Cohort meeting: Reflections on program. Champions will be invited to share takeaways from the program with the cohort and start to define future roles for Champions.
+
+::: callout-note
+The last Cohort Meeting was also a good moment to present the results of each project and to celebrate what all champions accomplished.  
+:::
+
+### Office hours and co-working sessions
+
+After training sessions, the champions may benefit from office hours and / or co-working sessions to ask questions about what they’ve learned and apply it to their own package development projects.
+
+rOpenSci staff can hots this office and co-working hours.
+
+### Resources and support for Champions’ outreach activities
+
+- List of potential events to participate
+
+- Apply for scholarships to present at conferences.
+    
+::: callout-note
+For the second cohort we shared Posit Conf and useR! scholarship opportunities and request to mentors to support their champions on the applications.
+
+Several champions applied and were awarded with the scholarship.  One of them express they get to know about the opportunity because of the champions program.
+:::
+
+- The Community Manager has been redirecting invitations to talk or teach to the champions
+
+  - Share in Slack
+
+  - Targeted invites to champions and mentors - tends to work better that a general message on the private channel of the Champions Program.
+
+  - Champions have been paid to participate in some of these opportunities.
+
+  - Part of the scalfolding is a folder with rOpenSci branding, slides templates, etc. so the Champions can use it in their events.
+
 
 ## Open and Sharing Traninig and Program Materials
 
@@ -137,26 +183,4 @@ For the first cohort the Community Manager shared [*the training materials*](htt
 
 For the second cohort we are updating the content and sharing it openly at the same time we are running the session. We also summarize some of the content on [blog post or tech note](https://ropensci.org/tags/champions-program/) for our webpage.  This way we can share this knowledge with the rest of the R community.
 
-The second year we are also opening the information on how to organize a champions program. We already share some insight on blog post and [talks](https://ropensci.org/talks-papers/) during the program pilot. This play book present detailed content on how we run our program.
-
-## Post-training programming
-
-### Office hours and co-working sessions
-
-After training sessions, the champions may benefit from office hours and / or co-working sessions to ask questions about what they’ve learned and apply it to their own package development projects.
-
-### Resources and support for Champions’ outreach activities
-
--   List of potential events to participate
-
-    -   Apply for scholarships to present at conferences.
-
--   The Community Manager has been redirecting invitations to talk or teach to the champions
-
-    -   Share in Slack
-
-    -   Targeted invites to champions and mentors - tends to work better that a general message on the private channel of the Champions Program.
-
-    -   Champions have been paid to participate in some of these opportunities.
-
--   Part of the scalfolding is a folder with rOpenSci branding, slides templates, etc. so the Champions can use it in their events.
+The second year we are also opening the information on how to organize a champions program. We already share some insight on blog post and [talks](https://ropensci.org/talks-papers/) during the program pilot. This play book present detailed content and templates on how we run our program.
