@@ -1,21 +1,12 @@
 # Communications
 
-## Helpful technology for communications and documentation
+The communication of the program includes two aspects: the internal communication of the program, with its participants and the external communication, the one we do with the community in general. 
 
-A useful program called Cartero sends out personalized emails, and the
-Community Manager only has to give an email template and list of names.
+## Internal communication
 
-Another program called Quartificate creates quarto books automatically:
-[*rOpenSci Community Contributing
-Guide*](https://contributing.ropensci.org/) (Yani has one for mentors
-and champions)
+Communication with champions and mentors takes place in the following spaces: 
 
-- [*Transform Google Doc to Quarto
-  book*](https://docs.ropensci.org/quartificate/reference/quartificate.html)
-
-- The Community Manager needs to settle questions around how private or
-  public facing quarto books should be, and what personal content it
-  should include (e.g., contact info)
+- Slack channels 
 
 ## What to do when Champions are disengaged from the program
 
@@ -51,6 +42,25 @@ the R ecosystem, but will still benefit from the rOpenSci review process
 and therefore be fast-tracked to publishing in a journal. Meanwhile, the
 disengagement was handled by changing training schedules to be more
 accommodating.
+
+
+## Helpful technology for communications and documentation
+
+A useful program called Cartero sends out personalized emails, and the
+Community Manager only has to give an email template and list of names.
+
+Another program called Quartificate creates quarto books automatically:
+[*rOpenSci Community Contributing
+Guide*](https://contributing.ropensci.org/) (Yani has one for mentors
+and champions)
+
+- [*Transform Google Doc to Quarto
+  book*](https://docs.ropensci.org/quartificate/reference/quartificate.html)
+
+- The Community Manager needs to settle questions around how private or
+  public facing quarto books should be, and what personal content it
+  should include (e.g., contact info)
+
 
 ## Blog post series on champions and mentors
 

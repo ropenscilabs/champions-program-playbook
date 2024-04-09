@@ -193,8 +193,8 @@
     "objectID": "section-five-communications.html#helpful-technology-for-communications-and-documentation",
     "href": "section-five-communications.html#helpful-technology-for-communications-and-documentation",
     "title": "6  Communications",
-    "section": "6.1 Helpful technology for communications and documentation",
-    "text": "6.1 Helpful technology for communications and documentation\nA useful program called Cartero sends out personalized emails, and the Community Manager only has to give an email template and list of names.\nAnother program called Quartificate creates quarto books automatically: rOpenSci Community Contributing Guide (Yani has one for mentors and champions)\n\nTransform Google Doc to Quarto book\nThe Community Manager needs to settle questions around how private or public facing quarto books should be, and what personal content it should include (e.g., contact info)",
+    "section": "6.3 Helpful technology for communications and documentation",
+    "text": "6.3 Helpful technology for communications and documentation\nA useful program called Cartero sends out personalized emails, and the Community Manager only has to give an email template and list of names.\nAnother program called Quartificate creates quarto books automatically: rOpenSci Community Contributing Guide (Yani has one for mentors and champions)\n\nTransform Google Doc to Quarto book\nThe Community Manager needs to settle questions around how private or public facing quarto books should be, and what personal content it should include (e.g., contact info)",
     "crumbs": [
       "<span class='chapter-number'>6</span>  <span class='chapter-title'>Communications</span>"
     ]
@@ -213,8 +213,8 @@
     "objectID": "section-five-communications.html#blog-post-series-on-champions-and-mentors",
     "href": "section-five-communications.html#blog-post-series-on-champions-and-mentors",
     "title": "6  Communications",
-    "section": "6.3 Blog post series on champions and mentors",
-    "text": "6.3 Blog post series on champions and mentors\n\n6.3.1 Overview\nStarting in the second week of April 2023, there will be a series of blog posts thanking mentors and trainers, discussing the champion program, and documenting what has been learned so far.\n\n\n6.3.2 The rationale\nThe blog posts will be a way of codifying everything the champions are learning, and shows them how far they’ve come. It also offers visibility for all involved in the program, including mentors, champions, and trainers, as well as being useful content to share with funders.\nBlog posts are also a nice way to thank and acknowledge the contributions of all the folks involved in the champion program.\n\n\n6.3.3 The process\nThere will be ten blog posts, two each week. Each one will focus on a project team, which will typically consist of a champion and mentor, and the content will include who they are (biographical information) and what the project is about.\nThe champions and mentors have already filled out an airtable form with headshots and other biographical information that will be useful in these blog posts. The Community Manager will create the skeleton with the info she already has, and the champions / mentors can edit it.",
+    "section": "6.4 Blog post series on champions and mentors",
+    "text": "6.4 Blog post series on champions and mentors\n\n6.4.1 Overview\nStarting in the second week of April 2023, there will be a series of blog posts thanking mentors and trainers, discussing the champion program, and documenting what has been learned so far.\n\n\n6.4.2 The rationale\nThe blog posts will be a way of codifying everything the champions are learning, and shows them how far they’ve come. It also offers visibility for all involved in the program, including mentors, champions, and trainers, as well as being useful content to share with funders.\nBlog posts are also a nice way to thank and acknowledge the contributions of all the folks involved in the champion program.\n\n\n6.4.3 The process\nThere will be ten blog posts, two each week. Each one will focus on a project team, which will typically consist of a champion and mentor, and the content will include who they are (biographical information) and what the project is about.\nThe champions and mentors have already filled out an airtable form with headshots and other biographical information that will be useful in these blog posts. The Community Manager will create the skeleton with the info she already has, and the champions / mentors can edit it.",
     "crumbs": [
       "<span class='chapter-number'>6</span>  <span class='chapter-title'>Communications</span>"
     ]
@@ -223,8 +223,8 @@
     "objectID": "section-five-communications.html#time-zone-concerns",
     "href": "section-five-communications.html#time-zone-concerns",
     "title": "6  Communications",
-    "section": "6.4 Time Zone Concerns",
-    "text": "6.4 Time Zone Concerns\nGiven the explicit goal of including a diverse range of people in the champion program, the issue of time zones has emerged – champions have nine hour time differences. It is important to organize training sessions accommodating these time zones, and to take into account that the United States and the UK have Daylight Savings time in March and November which disrupt typical time differences.\nAn important solution is to ask for the applicant’s time zone in the application form for the champion program to ensure that all those accepted will have some working-hour overlap in which they are able to meet.\nA helpful resource for planning across time zones is this Time Zone Converter – Time Difference Calculator which allows you to compare times in several time zones at once and determine whether it is during waking hours or not.",
+    "section": "6.5 Time Zone Concerns",
+    "text": "6.5 Time Zone Concerns\nGiven the explicit goal of including a diverse range of people in the champion program, the issue of time zones has emerged – champions have nine hour time differences. It is important to organize training sessions accommodating these time zones, and to take into account that the United States and the UK have Daylight Savings time in March and November which disrupt typical time differences.\nAn important solution is to ask for the applicant’s time zone in the application form for the champion program to ensure that all those accepted will have some working-hour overlap in which they are able to meet.\nA helpful resource for planning across time zones is this Time Zone Converter – Time Difference Calculator which allows you to compare times in several time zones at once and determine whether it is during waking hours or not.",
     "crumbs": [
       "<span class='chapter-number'>6</span>  <span class='chapter-title'>Communications</span>"
     ]
@@ -233,8 +233,8 @@
     "objectID": "section-five-communications.html#coffee-chats",
     "href": "section-five-communications.html#coffee-chats",
     "title": "6  Communications",
-    "section": "6.5 Coffee Chats",
-    "text": "6.5 Coffee Chats\nThe Community Manager should set up coffee chats for the champions. This is a great way to give them permission to reach out to one another outside of facilitated chats, and allows them to connect outside of official meeting times. It will add to the sense of camaraderie and community if they have personal connections to one another; champions have already noted and interest in engaging with each other outside of training sessions.",
+    "section": "6.6 Coffee Chats",
+    "text": "6.6 Coffee Chats\nThe Community Manager should set up coffee chats for the champions. This is a great way to give them permission to reach out to one another outside of facilitated chats, and allows them to connect outside of official meeting times. It will add to the sense of camaraderie and community if they have personal connections to one another; champions have already noted and interest in engaging with each other outside of training sessions.",
     "crumbs": [
       "<span class='chapter-number'>6</span>  <span class='chapter-title'>Communications</span>"
     ]
@@ -327,6 +327,16 @@
     "text": "5.6 Open and Sharing Traninig and Program Materials\nFor the first cohort the Community Manager shared the training materials from each training session online after it’s completed.\nFor the second cohort we are updating the content and sharing it openly at the same time we are running the session. We also summarize some of the content on blog post or tech note for our webpage. This way we can share this knowledge with the rest of the R community.\nThe second year we are also opening the information on how to organize a champions program. We already share some insight on blog post and talks during the program pilot. This play book present detailed content and templates on how we run our program.",
     "crumbs": [
       "<span class='chapter-number'>5</span>  <span class='chapter-title'>Training and support for champions</span>"
+    ]
+  },
+  {
+    "objectID": "section-five-communications.html#internal-communication",
+    "href": "section-five-communications.html#internal-communication",
+    "title": "6  Communications",
+    "section": "6.1 Internal communication",
+    "text": "6.1 Internal communication\nCommunication with champions and mentors takes place in the following spaces:\n\nSlack channels",
+    "crumbs": [
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Communications</span>"
     ]
   }
 ]
