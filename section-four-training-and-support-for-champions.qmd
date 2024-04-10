@@ -12,13 +12,14 @@ While the Community Manager has led and helped organize many of the training ses
 
 | **Trainer Name**       | **Connection to rOpenSci** | **Training Led** |
 |------------------------|----------------------------|------------------|
-| Camille Santistevan    | CSCCE Staff                |                  |
-| Maya Sanghvi           | CSCCE Staff                |                  |
-| Maëlle Salmon          | Staff                      |                  |
-| Mauro Lepore           | Reviewer/Editor            |                  |
-| Heather Turner         | R Foundation               |                  |
-| Yanina Bellini Saibene | Staff                      |                  |
-| *Paola Corrales*       | Champion                   |                  |
+| Camille Santistevan    | CSCCE Staff                | First cohort PACT|
+| Maya Sanghvi           | CSCCE Staff                | First cohort PACT|
+| Maëlle Salmon          | Staff                      | Package Development |
+| Mauro Lepore           | Reviewer/Editor            | Peer-review                 |
+| Heather Turner         | R Foundation               | First cohort - How to contribute to base R                  |
+| Yanina Bellini Saibene | Staff                      | Mentoring - How to contribute to OSS                 |
+| *Paola Corrales*       | Champion                   | Git and GitHub        |
+| Noam Ross | Staff | Peer-review |
 
 ## Workshops
 

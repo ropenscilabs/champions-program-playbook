@@ -16,7 +16,7 @@ Mentors were invited to the champions kick-off meeting.
 Mentors attend a training and orientation meeting to
 share expectations and tools needed for the program.
 
-## Infrastructure
+## Infrastructure {#sec-infrastructure}
 
 * **Slack**: we have four private channels for your communication with participants in the program:
 

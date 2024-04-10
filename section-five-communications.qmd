@@ -6,7 +6,12 @@ The communication of the program includes two aspects: the internal communicatio
 
 Communication with champions and mentors takes place in the following spaces: 
 
-- Slack channels 
+- Slack (more detail in section @sec-infrastructure).
+- Email.
+- Champions Program meetings (training sessions, cohort meetings, etc.)
+
+The Program Manager share important information using always Slack and emails channels. 
+
 
 ## What to do when Champions are disengaged from the program
 
@@ -34,6 +39,8 @@ when champions are off track:
   - Make expectations for the program clear from the start in early
     communication, and disclose that lack of proper engagement may lead
     to removal from the champion program.
+
+
 
 In the three specific situations listed above, speaking with the mentors
 and champions allowed the Community Manager to co-create solutions that
