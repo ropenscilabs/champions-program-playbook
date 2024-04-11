@@ -42,7 +42,7 @@ Potential champions program applicants are encouraged to attend an optional comm
     [Application form template](https://docs.google.com/document/d/1HdyQW-xIbj21UxjEEKl9-XDyaDXjtNqbnu-MBhk1ejA/) in google doc format for the 2022-23 application call. Preserved for archival reasons. Access only by the rOpenSci Champions Program Team. All information is available with open license and up to date on the Champions Program web site and this playbook.
     :::
 
-### Communications plan
+### Communications plan {#sec-comm-plan-recruitment}
 
 rOpenSci’s standard communication channels are used to spread the news about the champions program. There is a dedicated [webpage](https://ropensci.org/champions/), and blog post announcing the program and accompanying communications plan to promote the opportunity on social media and various listservs. In addition, the community manager hosts a community call about the program, and posts a recording on the rOpenSci website afterwards. The community manager may also speak at events and meetings hosted by other organizations to ensure the broadest possible reach.
 
