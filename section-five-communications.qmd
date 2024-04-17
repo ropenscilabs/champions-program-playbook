@@ -10,15 +10,46 @@ The Champions Program have a communication strategy that contemplates the differ
 
 * *Training:* internal communication is key for the success of this phase, organizing the training session, sharing the resources, following the progress and providing support for champions and mentors. The external communication focus on sharing the training open materials and provide updates to the community about what champions are doing. 
 
-* *Project development and outreach activity:* both aspect are important in this phase. internal communications are to organize cohort meetings, support mentors and champions in their meetings and organize champion events.  External communications are to support champions in publicizing their outreach activities.   
+* *Project development and outreach activity:* both aspect are important in this phase. internal communications are to organize cohort meetings, support mentors and champions in their meetings and organize champion events.  External communications are to support champions in publicizing their outreach activities and programm progress.   
 
-* *Offboarding and evaluation:*
-
+* *Offboarding and evaluation:* internal communication is key for the success of this phase to organize the anonymous surveys, individual interviews and focus groups for evaluation. The external communication contemplates to write funder reports and summarizing activities and results for the wider community. 
 
 
 ## External communication
 
 
+
+
+### Blog post series on champions and mentors
+
+We tried two ideas to communicate about the selected Champions and Mentors. For the first cohort   
+
+### Overview
+
+Starting in the second week of April 2023, there will be a series of blog posts thanking mentors and trainers, discussing the champion
+program, and documenting what has been learned so far.
+
+### The rationale
+
+The blog posts will be a way of codifying everything the champions are
+learning, and shows them how far they’ve come. It also offers visibility
+for all involved in the program, including mentors, champions, and
+trainers, as well as being useful content to share with funders.
+
+Blog posts are also a nice way to thank and acknowledge the
+contributions of all the folks involved in the champion program.
+
+### The process
+
+There will be ten blog posts, two each week. Each one will focus on a
+project team, which will typically consist of a champion and mentor, and
+the content will include who they are (biographical information) and
+what the project is about.
+
+The champions and mentors have already filled out an airtable form with
+headshots and other biographical information that will be useful in
+these blog posts. The Community Manager will create the skeleton with
+the info she already has, and the champions / mentors can edit it.
 
 
 
@@ -33,6 +64,7 @@ Communication with champions and mentors takes place in the following spaces:
 - Champions Program meetings (training sessions, cohort meetings, etc.)
 
 The Program Manager share important information using always two channels: Slack and emails. Most of the time is the same message for both media.
+
 
 
 ## What to do when Champions are disengaged from the program
@@ -89,35 +121,7 @@ and champions)
   should include (e.g., contact info)
 
 
-## Blog post series on champions and mentors
 
-### Overview
-
-Starting in the second week of April 2023, there will be a series of
-blog posts thanking mentors and trainers, discussing the champion
-program, and documenting what has been learned so far.
-
-### The rationale
-
-The blog posts will be a way of codifying everything the champions are
-learning, and shows them how far they’ve come. It also offers visibility
-for all involved in the program, including mentors, champions, and
-trainers, as well as being useful content to share with funders.
-
-Blog posts are also a nice way to thank and acknowledge the
-contributions of all the folks involved in the champion program.
-
-### The process
-
-There will be ten blog posts, two each week. Each one will focus on a
-project team, which will typically consist of a champion and mentor, and
-the content will include who they are (biographical information) and
-what the project is about.
-
-The champions and mentors have already filled out an airtable form with
-headshots and other biographical information that will be useful in
-these blog posts. The Community Manager will create the skeleton with
-the info she already has, and the champions / mentors can edit it.
 
 ## Time Zone Concerns
 
