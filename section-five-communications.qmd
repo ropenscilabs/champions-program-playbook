@@ -4,7 +4,7 @@ The communication of the program includes two aspects: the internal communicatio
 
 The Champions Program have a communication strategy that contemplates the different stages of the program:  
 
-* *Recruiting champions and mentors:* external communication takes the most time and has the most activities in this phase. The @sec-comm-plan-recruitment details the communication plan. Internal communication is mostly with rOpenSci staff about the implementation of the plan.
+* *Recruiting champions and mentors:* external communication takes the most time and has the most activities in this phase. The @sec-comm-plan-recruitment details the communication plan for this phase. Internal communication is mostly with rOpenSci staff about the implementation of the plan.
 
 * *Selection and onboarding:* at this stage most of the communications are internal with the people involved in the review and selection processes. Here we also inform the results to all the people who applied to the program. The external plan focus on let our community know about the general numbers of the applications, and the mentors and champions selected. 
 
