@@ -2,9 +2,17 @@
 
 The communication of the program includes two aspects: the internal communication of the program, with its participants and the external communication, the one we do with the community in general. 
 
-The Champions Program have a communication strategy that contemplates the different stages of the program. 
+The Champions Program have a communication strategy that contemplates the different stages of the program:  
 
-The program has a first phase of recruiting champions and mentors. Then we have a selection and onboarding phase. Then a training phase, followed by project development and outreach activity and ending with offboarding and evaluation phase.
+* *Recruiting champions and mentors:* external communication takes the most time and has the most activities in this phase. The @sec-comm-plan-recruitment details the communication plan. Internal communication is mostly with rOpenSci staff about the implementation of the plan.
+
+* *Selection and onboarding:* at this stage most of the communications are internal with the people involved in the review and selection processes. Here we also inform the results to all the people who applied to the program. The external plan focus on let our community know about the general numbers of the applications, and the mentors and champions selected. 
+
+* *Training:* internal communication is key for the success of this phase, organizing the training session, sharing the resources, following the progress and providing support for champions and mentors. The external communication focus on sharing the training open materials and provide updates to the community about what champions are doing. 
+
+* *Project development and outreach activity:* both aspect are important in this phase. internal communications are to organize cohort meetings, support mentors and champions in their meetings and organize champion events.  External communications are to support champions in publicizing their outreach activities.   
+
+* *Offboarding and evaluation:*
 
 
 
@@ -13,7 +21,7 @@ The program has a first phase of recruiting champions and mentors. Then we have 
 
 
 
-The @sec-comm-plan-recruitment
+
 
 
 ## Internal communication
