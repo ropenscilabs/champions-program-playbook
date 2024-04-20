@@ -17,12 +17,36 @@ The Champions Program have a communication strategy that contemplates the differ
 
 ## External communication
 
+The external communication use the following media:
+
+* rOpenSci Blog Post and Newsletter.
+* rOpenSci Social Media.
+* rOpenSci Community Calls and Co-working sessions.
+* Events with other communities.
 
 
+### Blog post series on documenting the program
+
+After discussing the champion
+program, and documenting what has been learned so far.
+
+* [Fostering Equity and Leadership: the rOpenSci Champions Program Selection Process](https://ropensci.org/blog/2024/04/18/champions-program-2024/)
+
+
+* [Fostering Diversity and Sustainability in the Open Source Scientific Software Community. The rOpenSci Champions Program](https://ropensci.org/events/opdevroom-2024/)
+
+* 
 
 ### Blog post series on champions and mentors
 
-We tried two ideas to communicate about the selected Champions and Mentors. For the first cohort   
+
+
+
+We tried two ideas to communicate about the selected Champions and Mentors. For the first cohort  
+
+* [Introducing rOpenSci Champions - Cohort 2023-2024](https://ropensci.org/blog/2024/02/15/champions-program-champions-2024/)
+
+* [Introducing rOpenSci Mentors - Cohort 2023-2024](https://ropensci.org/blog/2023/11/29/champions-program-mentors-2023/)
 
 ### Overview
 
@@ -51,6 +75,25 @@ headshots and other biographical information that will be useful in
 these blog posts. The Community Manager will create the skeleton with
 the info she already has, and the champions / mentors can edit it.
 
+
+
+### Champions Project
+
+
+* [rOpenSci Champions Pilot Year: Projects Wrap-Up](https://ropensci.org/blog/2024/03/20/champions-program-projects-cohort1/)
+
+
+* [2023 rOpensci Champions Program: My Experience](https://ropensci.org/blog/2023/12/19/champions-program-2023-experience/)
+
+* [Paquete {eph}: Novedades e ideas para su uso](https://ropensci.org/events/2023-12-15-eph/)
+
+
+
+### Techical blog post
+
+* [An Example of the DRY/DAMP Principles for Package Tests](https://ropensci.org/blog/2024/03/18/dry-damp/)
+
+* [Beautiful Code, Because We’re Worth It!](https://ropensci.org/blog/2024/02/22/beautiful-code/)
 
 
 
