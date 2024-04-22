@@ -1,23 +1,187 @@
 # Communications
 
-## Helpful technology for communications and documentation
+The communication of the program includes two aspects: the _internal communication_, with its participants, and the _external communication_, to shared and inform the community in general. 
 
-A useful program called Cartero sends out personalized emails, and the
-Community Manager only has to give an email template and list of names.
+The Champions Program have a communication strategy that contemplates the different stages of the program:  
 
-Another program called Quartificate creates quarto books automatically:
-[*rOpenSci Community Contributing
-Guide*](https://contributing.ropensci.org/) (Yani has one for mentors
-and champions)
+* *Recruiting champions and mentors:* external communication takes the most time and has the most activities in this phase. The @sec-comm-plan-recruitment details the communication plan for this phase. Internal communication is mostly with rOpenSci staff about the implementation of the plan.
 
-- [*Transform Google Doc to Quarto
-  book*](https://docs.ropensci.org/quartificate/reference/quartificate.html)
+* *Selection and onboarding:* at this stage most of the communications are internal with the people involved in the review and selection processes. Here we also inform the results to all the people who applied to the program. The external plan focus on let our community know about the general numbers of the applications, and the mentors and champions selected. 
 
-- The Community Manager needs to settle questions around how private or
-  public facing quarto books should be, and what personal content it
-  should include (e.g., contact info)
+* *Training:* internal communication is key for the success of this phase, organizing the training session, sharing the resources, following the progress and providing support for champions and mentors. The external communication focus on sharing the training open materials and provide updates to the community about what champions are doing. 
 
-## What to do when Champions are disengaged from the program
+* *Project development and outreach activity:* both aspect are important in this phase. internal communications are to organize cohort meetings, support mentors and champions in their meetings and organize champion events.  External communications are to support champions in publicizing their outreach activities and programm progress.   
+
+* *Offboarding and evaluation:* internal communication is key for the success of this phase to organize the anonymous surveys, individual interviews and focus groups for evaluation. The external communication contemplates to write funder reports and summarizing activities and results for the wider community. 
+
+
+## External communication
+
+There will be a series of blog posts introducing participants, thanking mentors and trainers, discussing the champion program, and documenting what has been learned so far. Blog post would be shared on other media and can be complement with other kinds of communication artifacts.
+
+The blog posts will be a way of codifying everything the champions are learning, and shows them how far they’ve come. It also offers visibility for all involved in the program, including mentors, champions, and trainers, as well as being useful content to share with funders.
+
+Blog posts are also a nice way to thank and acknowledge the contributions of all the folks involved in the champion program.
+
+The external communication use the following media:
+
+* Champions Web Page.
+* rOpenSci Blog Post and Newsletter.
+* rOpenSci Social Media.
+* rOpenSci Community Calls and Co-working sessions.
+* Events with other communities.
+
+::: callout-note
+During the two years pilot of the program the social media landscape changed substantially due to the change of ownership of X (former Twitter), which implied a change in the way the program was communicated externally. 
+:::
+
+As the @sec-comm-plan-recruitment details the communication plan for the _Recruiting champions and mentors_ phase and how we use the differents media, in the following sessions we describe the communication plan and tools for the rest of the phase of the Champions Program.
+
+### Selection and onboarding
+
+* The first step is to **inform the results of the call**, e.g. the number of applications received, the type of project and from where are the applicants.  
+
+For example, this blog post for the first cohort [rOpenSci Champions Program Kick off](https://ropensci.org/blog/2023/02/21/champions-program-kick-off/) (also in [Spanish](https://ropensci.org/es/blog/2023/02/21/champions-program-kick-off-es/)) presents general stats for the applications and introduce the selected participants.  Also share information about the kick-off meetings and training activities. 
+
+This Mastodon post is about the second cohort:
+
+<iframe src="https://hachyderm.io/@rOpenSci/111018136730918068/embed" width="500" allowfullscreen="allowfullscreen" sandbox="allow-scripts allow-same-origin allow-popups allow-popups-to-escape-sandbox allow-forms"></iframe>
+
+All blog post are shared on the monthly newsletter and in some Slack related with the program.
+
+* The second step is to **update the Champions Program** webpage:
+
+- Create an author profile for each Champions and Mentor selected: this will allow Champions and Mentors to be author on different type of contributions to rOpenSci.
+
+- List them on the Champions Program's web page: this means upload their profile picture and add their affiliation and path for communication.
+
+- Remove from the main page all of the information about the open call.
+
+- Add the information about the program's timeline on the main webpage. 
+
+* The third step is **draft the blog post** introducing champions and mentors to the community. We tried two ideas to communicate about the selected champions and mentors. 
+
+#### Blog post series on champions and mentors
+
+For the first cohort we write a series of ten blog posts, two each week. Each one will focus on a
+project team, which will typically consist of a champion and mentor, and the content will include who they are (biographical information) and what the project is about.
+
+The Champions and Mentors have already filled out an AirTable form with headshots and other biographical information that will be useful in these blog posts. The Community Manager will create the skeleton with the info she already has, and the champions / mentors can edit it.
+
+This are the published blog post in the series:
+
+  * [rOpenSci Champions Program Teams: Meet Ghozayel Elotteebi and Zebulun Arendsee](https://ropensci.org/blog/2023/06/23/ropensci-champions-program-teams-meet-ghozayel-elotteebi-and-zebulun-arendsee/)
+
+  * [rOpenSci Champions Program Teams: Meet Alican Cagri Gokcek and Elio Campitelli](https://ropensci.org/blog/2023/06/19/ropensci-champions-program-teams-meet-alican-cagri-gokcek-and-elio-campitelli/)
+
+  * [rOpenSci Champions Program Teams: Meet Cheryl Isabella Lim and Mauro Lepore](https://ropensci.org/blog/2023/06/12/ropensci-champions-program-teams-meet-cheryl-isabella-lim-and-mauro-lepore/)
+
+  * [rOpenSci Champions Program Teams: Meet César and Marc](https://ropensci.org/blog/2023/05/18/ropensci-champions-program-teams-meet-césar-and-marc/)
+
+  * [rOpenSci Champions Program Teams: Meet Victor Ordu and Laura DeCicco](https://ropensci.org/blog/2023/05/11/intro-champion-program-team-victor-laura/)
+
+  * [rOpenSci Champions Program Teams: Meet Haydee Svab and Beatriz Milz](https://ropensci.org/blog/2023/05/09/ropensci-champions-program-teams-meet-haydee-svab-and-beatriz-milz/)
+
+  * [rOpenSci Champions Program Teams: Meet Carolina Pradier and Athanasia Monika Mowinckel](https://ropensci.org/blog/2023/05/05/ropensci-champions-program-teams-meet-carolina-pradier-and-athanasia-monika-mowinckel/)
+
+  * [rOpenSci Champions Program Teams: Meet Bilikisu Wunmi Olatunji and Christina Maimone](https://ropensci.org/blog/2023/04/25/ropensci-champions-program-teams-meet-bilikisu-wunmi-olatunji-and-christina-maimone/)
+
+  * [rOpenSci Champions Program Teams: Meet Marcos Prunello and Lukas Wallrich](https://ropensci.org/blog/2023/04/18/ropensci-champions-program-teams-meet-marcos-prunello-and-lukas-wallrich/)
+
+  * [rOpenSci Champions Program Teams: Meet Pao Corrales and Adam Sparks](https://ropensci.org/blog/2023/04/13/ropensci-champions-program-teams-meet-pao-corrales-and-adam-sparks/)
+
+For the second cohort, we selected Mentors first because they helped with the review and final selection of champions. We decide to do two blog post, the first one introducing mentors and after the Champions selection was finished one blog post introducing champions.
+
+The process was the same we use for the first cohort strategy regarding using the AirTable picture and information.  We provide better instruction on how to write the text, for example, write your bibliography in the first person.  The result was less time to edit the text for the blog post and less time to review the text by mentors and champions before post them. 
+
+These are the two second cohort's introduction blog post:
+
+  * [Introducing rOpenSci Champions - Cohort 2023-2024](https://ropensci.org/blog/2024/02/15/champions-program-champions-2024/)
+
+  * [Introducing rOpenSci Mentors - Cohort 2023-2024](https://ropensci.org/blog/2023/11/29/champions-program-mentors-2023/)
+
+
+### Training
+
+* [rOpenSci Champions Pilot Year: Training Wrap-Up](https://ropensci.org/blog/2023/08/04/champions-program-training/)
+
+
+* Social media post with wrap-up of training: https://hachyderm.io/@rOpenSci/110831508800573402
+
+### Techical blog post
+
+* [An Example of the DRY/DAMP Principles for Package Tests](https://ropensci.org/blog/2024/03/18/dry-damp/)
+
+* [Beautiful Code, Because We’re Worth It!](https://ropensci.org/blog/2024/02/22/beautiful-code/)
+
+
+### Champions Project and Outreach
+
+
+* [rOpenSci Champions Pilot Year: Projects Wrap-Up](https://ropensci.org/blog/2024/03/20/champions-program-projects-cohort1/)
+
+
+* [2023 rOpensci Champions Program: My Experience](https://ropensci.org/blog/2023/12/19/champions-program-2023-experience/)
+
+
+* Social media post about each of the projects:   
+
+* EPH: https://hachyderm.io/@rOpenSci/110967418654944210
+
+* naijR: https://hachyderm.io/@rOpenSci/110972893704549099
+
+* Agroclimatico: https://hachyderm.io/@rOpenSci/111030133176328601
+
+* Cagri's project: https://hachyderm.io/@rOpenSci/111063737136002081
+
+* Lextale Package: https://hachyderm.io/@rOpenSci/111057655654084693
+
+* chartkickR: https://hachyderm.io/@rOpenSci/111052400785146165
+
+* karel: https://hachyderm.io/@rOpenSci/111046359173545680
+
+* rgeeextra: https://hachyderm.io/@rOpenSci/110985914847076073
+
+* odbr: https://hachyderm.io/@rOpenSci/110978882839376351
+
+
+
+
+#### Events
+
+
+* [Paquete {eph}: Novedades e ideas para su uso](https://ropensci.org/events/2023-12-15-eph/)
+
+* mastodon post: https://hachyderm.io/@rOpenSci/111511495875929503
+
+### Offboarding and evaluation
+
+### Blog post series on documenting the program
+
+After discussing the champion program, and documenting what has been learned so far.
+
+* [Fostering Equity and Leadership: the rOpenSci Champions Program Selection Process](https://ropensci.org/blog/2024/04/18/champions-program-2024/)
+
+
+* [Fostering Diversity and Sustainability in the Open Source Scientific Software Community. The rOpenSci Champions Program](https://ropensci.org/events/opdevroom-2024/)
+
+* [How do you measure the impact of a champions program?](https://ropensci.org/blog/2023/06/15/ropensci-champions-impact-en/)
+
+
+
+## Internal communication
+
+Communication with champions and mentors takes place in the following spaces: 
+
+- Slack (more detail in @sec-infrastructure).
+- Email.
+- Champions Program meetings (training sessions, cohort meetings, etc.)
+
+The Program Manager share important information using always two channels: Slack and emails. Most of the time is the same message for both media.
+
+
+
+### What to do when Champions are disengaged from the program
 
 In the first year, the rOpenSci Community Manager noted that three of
 the ten champions were slightly off track from the goals of the program.
@@ -52,37 +216,7 @@ and therefore be fast-tracked to publishing in a journal. Meanwhile, the
 disengagement was handled by changing training schedules to be more
 accommodating.
 
-## Blog post series on champions and mentors
-
-### Overview
-
-Starting in the second week of April 2023, there will be a series of
-blog posts thanking mentors and trainers, discussing the champion
-program, and documenting what has been learned so far.
-
-### The rationale
-
-The blog posts will be a way of codifying everything the champions are
-learning, and shows them how far they’ve come. It also offers visibility
-for all involved in the program, including mentors, champions, and
-trainers, as well as being useful content to share with funders.
-
-Blog posts are also a nice way to thank and acknowledge the
-contributions of all the folks involved in the champion program.
-
-### The process
-
-There will be ten blog posts, two each week. Each one will focus on a
-project team, which will typically consist of a champion and mentor, and
-the content will include who they are (biographical information) and
-what the project is about.
-
-The champions and mentors have already filled out an airtable form with
-headshots and other biographical information that will be useful in
-these blog posts. The Community Manager will create the skeleton with
-the info she already has, and the champions / mentors can edit it.
-
-## Time Zone Concerns
+### Time Zone Concerns
 
 Given the explicit goal of including a diverse range of people in the
 champion program, the issue of time zones has emerged – champions have
@@ -102,7 +236,7 @@ Calculator*](https://www.timeanddate.com/worldclock/converter.html)
 which allows you to compare times in several time zones at once and
 determine whether it is during waking hours or not.
 
-## Coffee Chats
+### Coffee Chats
 
 The Community Manager should set up coffee chats for the champions. This
 is a great way to give them permission to reach out to one another
@@ -111,3 +245,25 @@ official meeting times. It will add to the sense of camaraderie and
 community if they have personal connections to one another; champions
 have already noted and interest in engaging with each other outside of
 training sessions.
+
+
+## Infrastructure for communications and documentation
+
+A useful program called Cartero sends out personalized emails, and the
+Community Manager only has to give an email template and list of names.
+
+Another program called Quartificate creates quarto books automatically:
+[*rOpenSci Community Contributing
+Guide*](https://contributing.ropensci.org/) (Yani has one for mentors
+and champions)
+
+- [*Transform Google Doc to Quarto
+  book*](https://docs.ropensci.org/quartificate/reference/quartificate.html)
+
+- The Community Manager needs to settle questions around how private or
+  public facing quarto books should be, and what personal content it
+  should include (e.g., contact info)
+
+
+
+
