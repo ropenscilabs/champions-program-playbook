@@ -24,10 +24,23 @@ The external communication use the following media:
 * rOpenSci Community Calls and Co-working sessions.
 * Events with other communities.
 
-The @sec-comm-plan-recruitment details the communication plan for the _Recruiting champions and mentors_ phase and how we use the differents media.
+::: callout-note
+During the two years pilot of the program the social media landscape changed substantially due to the change of ownership of X (former Twitter), which implied a change in the way the program was communicated externally. 
+:::
+
+The @sec-comm-plan-recruitment details the communication plan for the _Recruiting champions and mentors_ phase and how we use the differents media. The following sessions describe the communication plan and tools for the rest of the phase of the Champions Program.
 
 ### Selection and onboarding
 
+At this stage the external communication informs about the results of the call, e.g. the number of applications received.  It also shares the program schedule and the activities that are being carried out.
+
+For example, this blog post for the first cohort [rOpenSci Champions Program Kick off](https://ropensci.org/blog/2023/02/21/champions-program-kick-off/) (also in [Spanish](https://ropensci.org/es/blog/2023/02/21/champions-program-kick-off-es/)) presents general stats for the applications and introduce the selected participants.  Also share information about the kick-off meetings and training activities. 
+
+All blog post are shared on the monthly newsletter. 
+
+On social media we use a multipost strategy:
+
+* 
 
 
 
@@ -40,7 +53,9 @@ After discussing the champion program, and documenting what has been learned so 
 
 * [Fostering Diversity and Sustainability in the Open Source Scientific Software Community. The rOpenSci Champions Program](https://ropensci.org/events/opdevroom-2024/)
 
-* 
+* [How do you measure the impact of a champions program?](https://ropensci.org/blog/2023/06/15/ropensci-champions-impact-en/)
+
+* [rOpenSci Champions Pilot Year: Training Wrap-Up](https://ropensci.org/blog/2023/08/04/champions-program-training/)
 
 ### Blog post series on champions and mentors
 
@@ -102,7 +117,6 @@ the info she already has, and the champions / mentors can edit it.
 
 * [rOpenSci Champions Program Teams: Meet Pao Corrales and Adam Sparks](https://ropensci.org/blog/2023/04/13/ropensci-champions-program-teams-meet-pao-corrales-and-adam-sparks/)
 
-* []
 
 ### Champions Project
 
