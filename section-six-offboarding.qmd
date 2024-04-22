@@ -1,6 +1,6 @@
 # Offboarding
 
-## Overview 
+## Overview
 
 The offboarding is an opportunity to officially close the participation in the Champions Program. It mainly gives us a chance to **reflect on the road we have traveled and celebrate our achievements**. It also includes administrative tasks, such as the payment process for the champions and reporting. Champions and mentors are invited to express how they would like to continue engage with rOpenSci.
 
@@ -89,9 +89,5 @@ The program manager also have 1 to 1 meeting with the champions that required to
 We also explain the process for the assessment of the Champions Program by the cohort during the offboarding.
 
 -   Anonymous survey: what it is and when we will send the link to the form.
-
-<!-- -->
-
 -   1:1 interview with Champions: when it will happen and how.
-
 -   Focus Group with Mentors: when it will happen and how.
