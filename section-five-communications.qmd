@@ -1,6 +1,6 @@
 # Communications
 
-The communication of the program includes two aspects: the internal communication of the program, with its participants and the external communication, to shared and inform the community in general. 
+The communication of the program includes two aspects: the _internal communication_, with its participants, and the _external communication_, to shared and inform the community in general. 
 
 The Champions Program have a communication strategy that contemplates the different stages of the program:  
 
@@ -37,7 +37,7 @@ During the two years pilot of the program the social media landscape changed sub
 
 As the @sec-comm-plan-recruitment details the communication plan for the _Recruiting champions and mentors_ phase and how we use the differents media, in the following sessions we describe the communication plan and tools for the rest of the phase of the Champions Program.
 
-### Selection and onboarding
+## Selection and onboarding
 
 * The first step is to inform about the results of the call, e.g. the number of applications received, the type of project and from where are the applicants.  
 
@@ -69,12 +69,6 @@ For the first cohort we write a series of blog post
 * [Introducing rOpenSci Champions - Cohort 2023-2024](https://ropensci.org/blog/2024/02/15/champions-program-champions-2024/)
 
 * [Introducing rOpenSci Mentors - Cohort 2023-2024](https://ropensci.org/blog/2023/11/29/champions-program-mentors-2023/)
-
-
-### Overview
-
-
-### The rationale
 
 
 ### The process
@@ -112,7 +106,21 @@ the info she already has, and the champions / mentors can edit it.
 * [rOpenSci Champions Program Teams: Meet Pao Corrales and Adam Sparks](https://ropensci.org/blog/2023/04/13/ropensci-champions-program-teams-meet-pao-corrales-and-adam-sparks/)
 
 
-### Champions Project
+## Training
+
+* [rOpenSci Champions Pilot Year: Training Wrap-Up](https://ropensci.org/blog/2023/08/04/champions-program-training/)
+
+
+* Social media post with wrap-up of training: https://hachyderm.io/@rOpenSci/110831508800573402
+
+### Techical blog post
+
+* [An Example of the DRY/DAMP Principles for Package Tests](https://ropensci.org/blog/2024/03/18/dry-damp/)
+
+* [Beautiful Code, Because We’re Worth It!](https://ropensci.org/blog/2024/02/22/beautiful-code/)
+
+
+## Champions Project and Outreach
 
 
 * [rOpenSci Champions Pilot Year: Projects Wrap-Up](https://ropensci.org/blog/2024/03/20/champions-program-projects-cohort1/)
@@ -140,11 +148,6 @@ the info she already has, and the champions / mentors can edit it.
 * 
 
 
-### Techical blog post
-
-* [An Example of the DRY/DAMP Principles for Package Tests](https://ropensci.org/blog/2024/03/18/dry-damp/)
-
-* [Beautiful Code, Because We’re Worth It!](https://ropensci.org/blog/2024/02/22/beautiful-code/)
 
 
 ## Events
@@ -154,7 +157,9 @@ the info she already has, and the champions / mentors can edit it.
 
 * mastodon post: https://hachyderm.io/@rOpenSci/111511495875929503
 
-### Blog post series on documenting the program
+## Offboarding and evaluation
+
+## Blog post series on documenting the program
 
 After discussing the champion program, and documenting what has been learned so far.
 
@@ -164,11 +169,6 @@ After discussing the champion program, and documenting what has been learned so 
 * [Fostering Diversity and Sustainability in the Open Source Scientific Software Community. The rOpenSci Champions Program](https://ropensci.org/events/opdevroom-2024/)
 
 * [How do you measure the impact of a champions program?](https://ropensci.org/blog/2023/06/15/ropensci-champions-impact-en/)
-
-* [rOpenSci Champions Pilot Year: Training Wrap-Up](https://ropensci.org/blog/2023/08/04/champions-program-training/)
-
-
-* Social media post with wrap-up of training: https://hachyderm.io/@rOpenSci/110831508800573402
 
 
 
