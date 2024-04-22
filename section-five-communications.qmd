@@ -1,6 +1,6 @@
 # Communications
 
-The communication of the program includes two aspects: the internal communication of the program, with its participants and the external communication, the one we do with the community in general. 
+The communication of the program includes two aspects: the internal communication of the program, with its participants and the external communication, to shared and inform the community in general. 
 
 The Champions Program have a communication strategy that contemplates the different stages of the program:  
 
@@ -24,11 +24,16 @@ The external communication use the following media:
 * rOpenSci Community Calls and Co-working sessions.
 * Events with other communities.
 
+The @sec-comm-plan-recruitment details the communication plan for the _Recruiting champions and mentors_ phase and how we use the differents media.
+
+### Selection and onboarding
+
+
+
 
 ### Blog post series on documenting the program
 
-After discussing the champion
-program, and documenting what has been learned so far.
+After discussing the champion program, and documenting what has been learned so far.
 
 * [Fostering Equity and Leadership: the rOpenSci Champions Program Selection Process](https://ropensci.org/blog/2024/04/18/champions-program-2024/)
 
@@ -75,7 +80,29 @@ headshots and other biographical information that will be useful in
 these blog posts. The Community Manager will create the skeleton with
 the info she already has, and the champions / mentors can edit it.
 
+### The result
 
+* [rOpenSci Champions Program Teams: Meet Ghozayel Elotteebi and Zebulun Arendsee](https://ropensci.org/blog/2023/06/23/ropensci-champions-program-teams-meet-ghozayel-elotteebi-and-zebulun-arendsee/)
+
+* [rOpenSci Champions Program Teams: Meet Alican Cagri Gokcek and Elio Campitelli](https://ropensci.org/blog/2023/06/19/ropensci-champions-program-teams-meet-alican-cagri-gokcek-and-elio-campitelli/)
+
+* [rOpenSci Champions Program Teams: Meet Cheryl Isabella Lim and Mauro Lepore](https://ropensci.org/blog/2023/06/12/ropensci-champions-program-teams-meet-cheryl-isabella-lim-and-mauro-lepore/)
+
+* [rOpenSci Champions Program Teams: Meet César and Marc](https://ropensci.org/blog/2023/05/18/ropensci-champions-program-teams-meet-césar-and-marc/)
+
+* [rOpenSci Champions Program Teams: Meet Victor Ordu and Laura DeCicco](https://ropensci.org/blog/2023/05/11/intro-champion-program-team-victor-laura/)
+
+* [rOpenSci Champions Program Teams: Meet Haydee Svab and Beatriz Milz](https://ropensci.org/blog/2023/05/09/ropensci-champions-program-teams-meet-haydee-svab-and-beatriz-milz/)
+
+* [rOpenSci Champions Program Teams: Meet Carolina Pradier and Athanasia Monika Mowinckel](https://ropensci.org/blog/2023/05/05/ropensci-champions-program-teams-meet-carolina-pradier-and-athanasia-monika-mowinckel/)
+
+* [rOpenSci Champions Program Teams: Meet Bilikisu Wunmi Olatunji and Christina Maimone](https://ropensci.org/blog/2023/04/25/ropensci-champions-program-teams-meet-bilikisu-wunmi-olatunji-and-christina-maimone/)
+
+* [rOpenSci Champions Program Teams: Meet Marcos Prunello and Lukas Wallrich](https://ropensci.org/blog/2023/04/18/ropensci-champions-program-teams-meet-marcos-prunello-and-lukas-wallrich/)
+
+* [rOpenSci Champions Program Teams: Meet Pao Corrales and Adam Sparks](https://ropensci.org/blog/2023/04/13/ropensci-champions-program-teams-meet-pao-corrales-and-adam-sparks/)
+
+* []
 
 ### Champions Project
 
@@ -85,7 +112,7 @@ the info she already has, and the champions / mentors can edit it.
 
 * [2023 rOpensci Champions Program: My Experience](https://ropensci.org/blog/2023/12/19/champions-program-2023-experience/)
 
-* [Paquete {eph}: Novedades e ideas para su uso](https://ropensci.org/events/2023-12-15-eph/)
+
 
 
 
@@ -96,6 +123,10 @@ the info she already has, and the champions / mentors can edit it.
 * [Beautiful Code, Because We’re Worth It!](https://ropensci.org/blog/2024/02/22/beautiful-code/)
 
 
+## Events
+
+
+* [Paquete {eph}: Novedades e ideas para su uso](https://ropensci.org/events/2023-12-15-eph/)
 
 
 ## Internal communication
