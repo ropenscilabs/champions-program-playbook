@@ -140,7 +140,9 @@ These are the two second cohort's introduction blog post:
 
 * karel: https://hachyderm.io/@rOpenSci/111046359173545680
 
-* 
+* rgeeextra: https://hachyderm.io/@rOpenSci/110985914847076073
+
+* odbr: https://hachyderm.io/@rOpenSci/110978882839376351
 
 
 
