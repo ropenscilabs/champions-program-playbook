@@ -37,7 +37,7 @@ During the two years pilot of the program the social media landscape changed sub
 
 As the @sec-comm-plan-recruitment details the communication plan for the _Recruiting champions and mentors_ phase and how we use the differents media, in the following sessions we describe the communication plan and tools for the rest of the phase of the Champions Program.
 
-## Selection and onboarding
+### Selection and onboarding
 
 * The first step is to **inform the results of the call**, e.g. the number of applications received, the type of project and from where are the applicants.  
 
@@ -101,7 +101,7 @@ These are the two second cohort's introduction blog post:
   * [Introducing rOpenSci Mentors - Cohort 2023-2024](https://ropensci.org/blog/2023/11/29/champions-program-mentors-2023/)
 
 
-## Training
+### Training
 
 * [rOpenSci Champions Pilot Year: Training Wrap-Up](https://ropensci.org/blog/2023/08/04/champions-program-training/)
 
@@ -115,7 +115,7 @@ These are the two second cohort's introduction blog post:
 * [Beautiful Code, Because We’re Worth It!](https://ropensci.org/blog/2024/02/22/beautiful-code/)
 
 
-## Champions Project and Outreach
+### Champions Project and Outreach
 
 
 * [rOpenSci Champions Pilot Year: Projects Wrap-Up](https://ropensci.org/blog/2024/03/20/champions-program-projects-cohort1/)
@@ -145,16 +145,16 @@ These are the two second cohort's introduction blog post:
 
 
 
-## Events
+#### Events
 
 
 * [Paquete {eph}: Novedades e ideas para su uso](https://ropensci.org/events/2023-12-15-eph/)
 
 * mastodon post: https://hachyderm.io/@rOpenSci/111511495875929503
 
-## Offboarding and evaluation
+### Offboarding and evaluation
 
-## Blog post series on documenting the program
+### Blog post series on documenting the program
 
 After discussing the champion program, and documenting what has been learned so far.
 
@@ -179,7 +179,7 @@ The Program Manager share important information using always two channels: Slack
 
 
 
-## What to do when Champions are disengaged from the program
+### What to do when Champions are disengaged from the program
 
 In the first year, the rOpenSci Community Manager noted that three of
 the ten champions were slightly off track from the goals of the program.
@@ -214,28 +214,7 @@ and therefore be fast-tracked to publishing in a journal. Meanwhile, the
 disengagement was handled by changing training schedules to be more
 accommodating.
 
-
-## Helpful technology for communications and documentation
-
-A useful program called Cartero sends out personalized emails, and the
-Community Manager only has to give an email template and list of names.
-
-Another program called Quartificate creates quarto books automatically:
-[*rOpenSci Community Contributing
-Guide*](https://contributing.ropensci.org/) (Yani has one for mentors
-and champions)
-
-- [*Transform Google Doc to Quarto
-  book*](https://docs.ropensci.org/quartificate/reference/quartificate.html)
-
-- The Community Manager needs to settle questions around how private or
-  public facing quarto books should be, and what personal content it
-  should include (e.g., contact info)
-
-
-
-
-## Time Zone Concerns
+### Time Zone Concerns
 
 Given the explicit goal of including a diverse range of people in the
 champion program, the issue of time zones has emerged – champions have
@@ -255,7 +234,7 @@ Calculator*](https://www.timeanddate.com/worldclock/converter.html)
 which allows you to compare times in several time zones at once and
 determine whether it is during waking hours or not.
 
-## Coffee Chats
+### Coffee Chats
 
 The Community Manager should set up coffee chats for the champions. This
 is a great way to give them permission to reach out to one another
@@ -264,3 +243,25 @@ official meeting times. It will add to the sense of camaraderie and
 community if they have personal connections to one another; champions
 have already noted and interest in engaging with each other outside of
 training sessions.
+
+
+## Infrastructure for communications and documentation
+
+A useful program called Cartero sends out personalized emails, and the
+Community Manager only has to give an email template and list of names.
+
+Another program called Quartificate creates quarto books automatically:
+[*rOpenSci Community Contributing
+Guide*](https://contributing.ropensci.org/) (Yani has one for mentors
+and champions)
+
+- [*Transform Google Doc to Quarto
+  book*](https://docs.ropensci.org/quartificate/reference/quartificate.html)
+
+- The Community Manager needs to settle questions around how private or
+  public facing quarto books should be, and what personal content it
+  should include (e.g., contact info)
+
+
+
+
