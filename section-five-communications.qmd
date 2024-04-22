@@ -17,8 +17,15 @@ The Champions Program have a communication strategy that contemplates the differ
 
 ## External communication
 
+There will be a series of blog posts introducing participants, thanking mentors and trainers, discussing the champion program, and documenting what has been learned so far. Blog post would be shared on other media and can be complement with other kinds of communication artifacts.
+
+The blog posts will be a way of codifying everything the champions are learning, and shows them how far they’ve come. It also offers visibility for all involved in the program, including mentors, champions, and trainers, as well as being useful content to share with funders.
+
+Blog posts are also a nice way to thank and acknowledge the contributions of all the folks involved in the champion program.
+
 The external communication use the following media:
 
+* Champions Web Page.
 * rOpenSci Blog Post and Newsletter.
 * rOpenSci Social Media.
 * rOpenSci Community Calls and Co-working sessions.
@@ -28,60 +35,47 @@ The external communication use the following media:
 During the two years pilot of the program the social media landscape changed substantially due to the change of ownership of X (former Twitter), which implied a change in the way the program was communicated externally. 
 :::
 
-The @sec-comm-plan-recruitment details the communication plan for the _Recruiting champions and mentors_ phase and how we use the differents media. The following sessions describe the communication plan and tools for the rest of the phase of the Champions Program.
+As the @sec-comm-plan-recruitment details the communication plan for the _Recruiting champions and mentors_ phase and how we use the differents media, in the following sessions we describe the communication plan and tools for the rest of the phase of the Champions Program.
 
 ### Selection and onboarding
 
-At this stage the external communication informs about the results of the call, e.g. the number of applications received.  It also shares the program schedule and the activities that are being carried out.
+* The first step is to inform about the results of the call, e.g. the number of applications received, the type of project and from where are the applicants.  
 
 For example, this blog post for the first cohort [rOpenSci Champions Program Kick off](https://ropensci.org/blog/2023/02/21/champions-program-kick-off/) (also in [Spanish](https://ropensci.org/es/blog/2023/02/21/champions-program-kick-off-es/)) presents general stats for the applications and introduce the selected participants.  Also share information about the kick-off meetings and training activities. 
 
-All blog post are shared on the monthly newsletter. 
+This Mastodon post is about the second cohort:
 
-On social media we use a multipost strategy:
+<iframe src="https://hachyderm.io/@rOpenSci/111018136730918068/embed" width="400" allowfullscreen="allowfullscreen" sandbox="allow-scripts allow-same-origin allow-popups allow-popups-to-escape-sandbox allow-forms"></iframe>
 
-* 
+All blog post are shared on the monthly newsletter and in some Slack workspaces related with the program.
 
+* The second step is to update the Champions Program and rOpenSci Webpage:
 
+- Create an author profile for each Champions and Mentor selected: this will allow Champions and Mentors to be author on different type of contributions to rOpenSci.
 
-### Blog post series on documenting the program
+- List them on the Champions Program's web page: this means upload their profile picture and add their affiliation and path for communication.
 
-After discussing the champion program, and documenting what has been learned so far.
+- Remove from the main page all of the information about the open call.
 
-* [Fostering Equity and Leadership: the rOpenSci Champions Program Selection Process](https://ropensci.org/blog/2024/04/18/champions-program-2024/)
+- Add the information about the program's timeline on the main webpage. 
 
-
-* [Fostering Diversity and Sustainability in the Open Source Scientific Software Community. The rOpenSci Champions Program](https://ropensci.org/events/opdevroom-2024/)
-
-* [How do you measure the impact of a champions program?](https://ropensci.org/blog/2023/06/15/ropensci-champions-impact-en/)
-
-* [rOpenSci Champions Pilot Year: Training Wrap-Up](https://ropensci.org/blog/2023/08/04/champions-program-training/)
-
-### Blog post series on champions and mentors
+* The third step is draft the blog post introducing champions and mentors to the community. We tried two ideas to communicate about the selected champions and mentors. 
 
 
+#### Blog post series on champions and mentors
 
-
-We tried two ideas to communicate about the selected Champions and Mentors. For the first cohort  
+For the first cohort we write a series of blog post
 
 * [Introducing rOpenSci Champions - Cohort 2023-2024](https://ropensci.org/blog/2024/02/15/champions-program-champions-2024/)
 
 * [Introducing rOpenSci Mentors - Cohort 2023-2024](https://ropensci.org/blog/2023/11/29/champions-program-mentors-2023/)
 
+
 ### Overview
 
-Starting in the second week of April 2023, there will be a series of blog posts thanking mentors and trainers, discussing the champion
-program, and documenting what has been learned so far.
 
 ### The rationale
 
-The blog posts will be a way of codifying everything the champions are
-learning, and shows them how far they’ve come. It also offers visibility
-for all involved in the program, including mentors, champions, and
-trainers, as well as being useful content to share with funders.
-
-Blog posts are also a nice way to thank and acknowledge the
-contributions of all the folks involved in the champion program.
 
 ### The process
 
@@ -127,7 +121,23 @@ the info she already has, and the champions / mentors can edit it.
 * [2023 rOpensci Champions Program: My Experience](https://ropensci.org/blog/2023/12/19/champions-program-2023-experience/)
 
 
+* Social media post about each of the projects:   
 
+* EPH: https://hachyderm.io/@rOpenSci/110967418654944210
+
+* naijR: https://hachyderm.io/@rOpenSci/110972893704549099
+
+* Agroclimatico: https://hachyderm.io/@rOpenSci/111030133176328601
+
+* Cagri's project: https://hachyderm.io/@rOpenSci/111063737136002081
+
+* Lextale Package: https://hachyderm.io/@rOpenSci/111057655654084693
+
+* chartkickR: https://hachyderm.io/@rOpenSci/111052400785146165
+
+* karel: https://hachyderm.io/@rOpenSci/111046359173545680
+
+* 
 
 
 ### Techical blog post
@@ -141,6 +151,25 @@ the info she already has, and the champions / mentors can edit it.
 
 
 * [Paquete {eph}: Novedades e ideas para su uso](https://ropensci.org/events/2023-12-15-eph/)
+
+* mastodon post: https://hachyderm.io/@rOpenSci/111511495875929503
+
+### Blog post series on documenting the program
+
+After discussing the champion program, and documenting what has been learned so far.
+
+* [Fostering Equity and Leadership: the rOpenSci Champions Program Selection Process](https://ropensci.org/blog/2024/04/18/champions-program-2024/)
+
+
+* [Fostering Diversity and Sustainability in the Open Source Scientific Software Community. The rOpenSci Champions Program](https://ropensci.org/events/opdevroom-2024/)
+
+* [How do you measure the impact of a champions program?](https://ropensci.org/blog/2023/06/15/ropensci-champions-impact-en/)
+
+* [rOpenSci Champions Pilot Year: Training Wrap-Up](https://ropensci.org/blog/2023/08/04/champions-program-training/)
+
+
+* Social media post with wrap-up of training: https://hachyderm.io/@rOpenSci/110831508800573402
+
 
 
 ## Internal communication
