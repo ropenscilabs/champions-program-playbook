@@ -45,7 +45,7 @@ For example, this blog post for the first cohort [rOpenSci Champions Program Kic
 
 This Mastodon post is about the second cohort:
 
-<iframe src="https://hachyderm.io/@rOpenSci/111018136730918068/embed" width="400" allowfullscreen="allowfullscreen" sandbox="allow-scripts allow-same-origin allow-popups allow-popups-to-escape-sandbox allow-forms"></iframe>
+<iframe src="https://hachyderm.io/@rOpenSci/111018136730918068/embed" width="500" allowfullscreen="allowfullscreen" sandbox="allow-scripts allow-same-origin allow-popups allow-popups-to-escape-sandbox allow-forms"></iframe>
 
 All blog post are shared on the monthly newsletter and in some Slack related with the program.
 
