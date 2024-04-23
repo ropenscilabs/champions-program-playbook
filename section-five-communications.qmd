@@ -103,18 +103,31 @@ These are the two second cohort's introduction blog post:
 
 ### Training
 
-* [rOpenSci Champions Pilot Year: Training Wrap-Up](https://ropensci.org/blog/2023/08/04/champions-program-training/)
+During champion and mentor training we report at three points:
 
+1) Each meeting is mentioned on social networks, the topic, who the instructors are and the materials are shared.  You can also accompany the social media post with a screenshot of the workshop attendees.
 
-* Social media post with wrap-up of training: https://hachyderm.io/@rOpenSci/110831508800573402
+<iframe src="https://mastodon.social/@maelle/111935537671485326/embed" width="400" allowfullscreen="allowfullscreen" sandbox="allow-scripts allow-same-origin allow-popups allow-popups-to-escape-sandbox allow-forms"></iframe>
 
-<iframe src="https://hachyderm.io/@rOpenSci/110831490540399654/embed" width="400" allowfullscreen="allowfullscreen" sandbox="allow-scripts allow-same-origin allow-popups allow-popups-to-escape-sandbox allow-forms"></iframe>
+<iframe src="https://fosstodon.org/@yabellini/112014960765671248/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe><script src="https://fosstodon.org/embed.js" async="async"></script>
 
-### Techical blog post
+2) During the workshops we identify topics and advice that result in blog posts published on our website, or on the instructors' websites.  They are shared in the newsletter and on social media.
 
 * [An Example of the DRY/DAMP Principles for Package Tests](https://ropensci.org/blog/2024/03/18/dry-damp/)
 
 * [Beautiful Code, Because We’re Worth It!](https://ropensci.org/blog/2024/02/22/beautiful-code/)
+
+* [Marketing Ideas For Your Package](https://ropensci.org/blog/2024/03/07/package-marketing/)
+
+3) At the end of the training phase, a blog post is made closing this stage where we share how the training was structured, what topics were taught and the feedback from the attendees.  
+
+* Blog post for the first cohort: [rOpenSci Champions Pilot Year: Training Wrap-Up](https://ropensci.org/blog/2023/08/04/champions-program-training/)
+
+<iframe src="https://hachyderm.io/@rOpenSci/110831490540399654/embed" width="400" height="700" allowfullscreen="allowfullscreen" sandbox="allow-scripts allow-same-origin allow-popups allow-popups-to-escape-sandbox allow-forms"></iframe>
+
+This helps to share with the community what is happening in real time, what was learned during the whole process and makes the materials available for the community to benefit from. 
+
+Finally, the training details are include in the final report for our funders. 
 
 
 ### Champions Project and Outreach
@@ -160,7 +173,9 @@ Marcos event:
 
 * mastodon post: https://hachyderm.io/@rOpenSci/110958740065400664
 
+#### Publications
 
+<iframe src="https://hachyderm.io/@rOpenSci/111726609754320957/embed" width="400" allowfullscreen="allowfullscreen" sandbox="allow-scripts allow-same-origin allow-popups allow-popups-to-escape-sandbox allow-forms"></iframe>
 
 ### Offboarding and evaluation
 
