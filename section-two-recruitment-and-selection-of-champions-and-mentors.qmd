@@ -112,6 +112,15 @@ Then, promotion on other mailing lists and/or Slack workspaces can begin. To ens
 
 ![Post with important dates and a community partner post sharing the second cohort call](images/social-media-examples-2.jpg)
 
+Post in portuguese, spanish and english sharing the open call for the second cohort:
+
+<iframe src="https://hachyderm.io/@rOpenSci/110941222050340164/embed" width="400" allowfullscreen="allowfullscreen" sandbox="allow-scripts allow-same-origin allow-popups allow-popups-to-escape-sandbox allow-forms"></iframe>
+
+<iframe src="https://hachyderm.io/@rOpenSci/110889507639370269/embed" width="400" allowfullscreen="allowfullscreen" sandbox="allow-scripts allow-same-origin allow-popups allow-popups-to-escape-sandbox allow-forms"></iframe>
+
+<iframe src="https://hachyderm.io/@rOpenSci/110889472496549500/embed" width="400" allowfullscreen="allowfullscreen" sandbox="allow-scripts allow-same-origin allow-popups allow-popups-to-escape-sandbox allow-forms"></iframe>
+
+
 The community manager may wish to conduct individual outreach to prospective mentors and champions.
 
 ::: callout-tip
@@ -375,6 +384,10 @@ Involving mentors in the selection process significantly enhances the mentor-men
 ### Step 10: Final match mentor-mentee (1 week).
 
 The program manager create the final match, taking into account the preference for the project, that the champions and mentors are in compatible time zones and speak a common language.
+
+::: callout-tip
+the blog post [Fostering Equity and Leadership: the rOpenSci Champions Program Selection Process](https://ropensci.org/blog/2024/04/18/champions-program-2024/) explain the process in detail and shows the 2023-2024 cohort results. 
+:::
 
 ### Step 11: Inform applicants (2 weeks)
 
