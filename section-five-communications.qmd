@@ -279,10 +279,13 @@ community if they have personal connections to one another; champions
 have already noted and interest in engaging with each other outside of
 training sessions.
 
+### Offices hours and co-working session
+
+
 
 ## Infrastructure for communications and documentation
 
-A useful program called Cartero sends out personalized emails, and the
+A useful R package called rocartero sends out personalized emails, and the
 Community Manager only has to give an email template and list of names.
 
 Another program called Quartificate creates quarto books automatically:
@@ -293,9 +296,6 @@ and champions)
 - [*Transform Google Doc to Quarto
   book*](https://docs.ropensci.org/quartificate/reference/quartificate.html)
 
-- The Community Manager needs to settle questions around how private or
-  public facing quarto books should be, and what personal content it
-  should include (e.g., contact info)
 
 
 
