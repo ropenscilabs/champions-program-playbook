@@ -3,7 +3,7 @@
 This playbook is intended to help rOpenSci staff members with managing
 the [rOpenSci Champions Program](https://ropensci.org/champions/). Although the book has specific indications for the rOpenSci program, we hope that other organizations and communities running similar programs will find this information useful.
 
-Included is an overview of the typical timeline for running the program as well as details for the various phases: recruitment, onboarding, training and support, offboarding and evaluation. It also provide strategies and task for activities like communication and infrastructure. 
+Included is an overview of the typical timeline for running the program as well as details for the various phases: recruitment, onboarding, training and support, offboarding and evaluation. It also provide strategies and tasks for activities like communication and infrastructure. 
 
 It includes information about both the rOpenSci Champions as well as the Mentors and Instructors for the pilot (2022-2024).
 

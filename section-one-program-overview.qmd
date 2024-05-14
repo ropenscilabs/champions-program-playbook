@@ -2,11 +2,11 @@
 
 ## Program background and rationale
 
-In 2022, rOpenSci was awarded \$400K in funding as part of the Chan Zuckerberg Initiative (CZI) Open Science program’s education and capacity building strategy. The funding supports a new champions program to enable more members of historically excluded groups to participate in, benefit from, and become leaders in the R, research software engineering, and open source and open science communities.
+In 2022, rOpenSci was awarded \$400K in funding as part of the Chan Zuckerberg Initiative (CZI) Open Science program’s education and capacity building strategy. The funding supports a new Champions Program to enable more members of historically excluded groups to participate in, benefit from, and become leaders in the R, research software engineering, and open source and open science communities.
 
 Developers in the R and open source communities are overwhelmingly white, male, from a handful of countries, able, and primarily English-speaking. The rOpenSci Champions Program is for people from historically and systematically excluded groups who are interested in contributing to rOpenSci and the broader open-source and open-science communities.
 
-The 12-month-long program includes cohort-based training, project development support, and personal mentorship. Each cohort has ten champions and ten mentors. Champions participate in the following activities:
+The 12-month-long program includes cohort-based training, project development support, and personal mentorship. Each cohort has ten Champions and ten mentors. Champions participate in the following activities:
 
 -   **Training:** this is the first stage. Champions will learn about open-source scientific software development good practices, R package development, code peer-open-review, contribute to open-source software initiatives and communities, and organize outreach activities.
 
@@ -20,9 +20,9 @@ One of the goals of this program was to ensure that all participants gained new 
 
 -   **Mentoring and cohort:** During each stage of the program, there is 1:1 mentoring and quarterly cohort meetings.
 
--   **Stipend:** we also pay a stipend to champions for participating. This has been important for champions to be able to dedicate time to the activity.
+-   **Stipend:** we also pay a stipend to Champions for participating. This has been important for Champions to be able to dedicate time to the activity.
 
-    ![Champions Program elements](images/cp-elements.jpg){fig-alt="Scheme with the elements of the Champions Program. A vertical box on the left has a calendar image up, below the text 12 months, 10 champions, 10 mentors, and below a $ image. In the middle are three horizontal boxes. The first says training with an image of a teacher signing in to a board, the second has a computer image and Project, and the last one has a presentation screen image and says Outreach. Each one lists the activities for the three stages. Training: Dev. good practices, package development, code review, and contribution to OSS and outreach. Project: New package, Peer-review their package, Become a reviewer. Outreach: Write a blog post, Teach a workshop, Talk at an event, and Organize a meetup. On the right, another vertical box with two chat bubbles, one with a question mark and the other with a check mark with the word Mentoring. Below is an image of three people with a boar in the background and the word Cohort below."}
+    ![Champions Program elements](images/cp-elements.jpg){fig-alt="Scheme with the elements of the Champions Program. A vertical box on the left has a calendar image up, below the text 12 months, 10 Champions, 10 mentors, and below a $ image. In the middle are three horizontal boxes. The first says training with an image of a teacher signing in to a board, the second has a computer image and Project, and the last one has a presentation screen image and says Outreach. Each one lists the activities for the three stages. Training: Dev. good practices, package development, code review, and contribution to OSS and outreach. Project: New package, Peer-review their package, Become a reviewer. Outreach: Write a blog post, Teach a workshop, Talk at an event, and Organize a meetup. On the right, another vertical box with two chat bubbles, one with a question mark and the other with a check mark with the word Mentoring. Below is an image of three people with a boar in the background and the word Cohort below."}
 
 ## Program goals
 
@@ -40,7 +40,7 @@ The rOpenSci Champions Program aims to support R developers from around the worl
 
 Success will look like:
 
--   Over 80% of selected champions complete training and cohort meetings
+-   Over 80% of selected Champions complete training and cohort meetings
 
 -   Mentors and mentees build rapport during the program and a strong working relationship. This looks like:
 
@@ -48,7 +48,7 @@ Success will look like:
 
     -   Timely feedback on projects
 
--   Over 80% of selected champions will either:
+-   Over 80% of selected Champions will either:
 
     -   Build a new package
 
@@ -56,7 +56,7 @@ Success will look like:
 
     -   Complete the peer review process as a reviewer
 
--   All selected champions will conduct at least one outreach and/or recruitment activity to promote participation in peer review and contribution to rOpenSci open source software, infrastructure, and documentation. Examples include:
+-   All selected Champions will conduct at least one outreach and/or recruitment activity to promote participation in peer review and contribution to rOpenSci open source software, infrastructure, and documentation. Examples include:
 
     -   Giving a presentation about rOpenSci at their home institution
 
@@ -64,7 +64,7 @@ Success will look like:
 
     -   Organizing a peer groups in their communities
 
--   All champions and mentors will gather and share feedback on where rOpenSci’s current programming might be improved to meet the needs of all who wish to participate. Feedback may be shared in the following ways:
+-   All Champions and mentors will gather and share feedback on where rOpenSci’s current programming might be improved to meet the needs of all who wish to participate. Feedback may be shared in the following ways:
 
     -   Via email to the rOpenSci community manager
 
@@ -74,26 +74,26 @@ Success will look like:
 
 ## Team working on the program
 
-Below is a table describing the team working on the Champions program.
+Below is a table describing the team working on the Champions Program.
 
 +------------------------+----------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------+
 | **Name**               | **Title**                                                                                    | **Role in the Program**                                                                                              |
 +------------------------+----------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------+
-| Karthik Ram            | rOpenSci Executive Director, Project PI                                                      | Program oversight, Selection of champions and mentors                                                                |
+| Karthik Ram            | rOpenSci Executive Director, Project PI                                                      | Program oversight, Selection of Champions and mentors                                                                |
 +------------------------+----------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------+
-| Maëlle Salmon          | Research Software Engineer, Project co-PI, Associate editor of rOpenSci Software Peer Review | Selection of champions and mentors, training, develop infrastructure for the program.                                |
+| Maëlle Salmon          | Research Software Engineer, Project co-PI, Associate editor of rOpenSci Software Peer Review | Selection of Champions and mentors, training, develop infrastructure for the program.                                |
 +------------------------+----------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------+
-| Yanina Bellini Saibene | rOpenSci Community Manager                                                                   | Program manager - including program design, develop insfrastructure, communications, project management and outreach |
+| Yanina Bellini Saibene | rOpenSci Community Manager                                                                   | Program manager - including program design, develop infrastructure, communications, project management and outreach |
 |                        |                                                                                              |                                                                                                                      |
-|                        |                                                                                              | Selection of champions and mementors                                                                                 |
+|                        |                                                                                              | Selection of Champions and mentors                                                                                 |
 |                        |                                                                                              |                                                                                                                      |
 |                        |                                                                                              | Training                                                                                                             |
 +------------------------+----------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------+
-| Noam Ross              | Software Review Lead                                                                         | Selection of champions and mentors                                                                                   |
+| Noam Ross              | Software Review Lead                                                                         | Selection of Champions and mentors                                                                                   |
 |                        |                                                                                              |                                                                                                                      |
 |                        |                                                                                              | Organization of the project related to review process                                                                |
 +------------------------+----------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------+
-| Mark Padgham           | Software Research Scientist                                                                  | Selection of champions and mentors                                                                                   |
+| Mark Padgham           | Software Research Scientist                                                                  | Selection of Champions and mentors                                                                                   |
 +------------------------+----------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------+
 | Steffi LaZerte         | Community Assistant                                                                          | Communications                                                                                                       |
 +------------------------+----------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------+
@@ -108,11 +108,11 @@ Below is a table describing the team working on the Champions program.
 
 ### Instructors
 
-In addition to the team mentioned above, there are two guest instructors: Mauro Lepore developed the material and gave the workshop on *peer-review software*, and Heather Turner gave the workshop on *How to contribute to base R*. Paola Corrales, one of the champions, volunteered to teach an introductory workshop on *Git and GitHub*.
+In addition to the team mentioned above, there are two guest instructors: Mauro Lepore developed the material and gave the workshop on *peer-review software*, and Heather Turner gave the workshop on *How to contribute to base R*. Paola Corrales, one of the Champions, volunteered to teach an introductory workshop on *Git and GitHub*.
 
 ## Program timeline
 
-The edideal program timeline is listed below. An external-facing timeline for the current cohort was communicated on the rOpenSci website.
+The ideal program timeline is listed below. An external-facing timeline for the current cohort was communicated on the rOpenSci website.
 
 ### 2022-2023 tentative timeline
 
