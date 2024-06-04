@@ -1,7 +1,16 @@
 # Introduction
 
 This playbook is intended to help rOpenSci staff members with managing
-the [rOpenSci Champions Program](https://ropensci.org/champions/). Although the book makes specific references to the rOpenSci program, we hope that other organizations and communities running similar programs will find this information useful.
+the [rOpenSci Champions Program](https://ropensci.org/champions/). Although the book makes specific references to the rOpenSci program, we hope that other organizations and communities running similar programs will find this information useful. 
+
+Throughout this book are references to internal documents for the rOpenSci team, 
+but all information is also up-to-date and available through an open licence on the [Champions Program Page](https://ropensci.org/champions/) and this playbook. These internal links look like this:
+
+::: callout-note
+## Internal Documents
+[This is an internal link]()
+:::
+
 
 Included is an overview of the typical timeline for running the program as well as details for the various phases: recruitment, onboarding, training and support, offboarding and evaluation. It also provide strategies and tasks for activities like communication and infrastructure. 
 

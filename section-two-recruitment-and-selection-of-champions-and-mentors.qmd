@@ -29,7 +29,8 @@ Potential Champions Program applicants are encouraged to attend an optional comm
 [^1]: After the first year of applications, we created FAQs which helped people get responses to typical queries more quickly.
 
 ::: callout-note
-The first [Champions Application form template](https://docs.google.com/document/d/18V38IdipJXNL8w714Xdoj8XHd9j-mr8aDQl0TqOIAEg/edit#heading=h.d3uqayuakf9e) for the 2022-23 application call is preserved for archival reasons. Accessible only by the rOpenSci Champions Program Team.
+## Internal Documents
+The first [Champions Application form template](https://docs.google.com/document/d/18V38IdipJXNL8w714Xdoj8XHd9j-mr8aDQl0TqOIAEg/edit#heading=h.d3uqayuakf9e) for the 2022-23 application call.
 :::
 
 ### Mentor application materials
@@ -41,7 +42,8 @@ The first [Champions Application form template](https://docs.google.com/document
 -  [Frequently Asked Questions for Mentors](https://ropensci.org/champions/programdetailsmentors_2023/#frequently-asked-questions)[^1]
 
 ::: callout-note
-The first [Mentors Application form template](https://docs.google.com/document/d/1HdyQW-xIbj21UxjEEKl9-XDyaDXjtNqbnu-MBhk1ejA/) for the 2022-23 application call is preserved for archival reasons. Access only by the rOpenSci Champions Program Team.
+## Internal Documents
+The first [Mentors Application form template](https://docs.google.com/document/d/1HdyQW-xIbj21UxjEEKl9-XDyaDXjtNqbnu-MBhk1ejA/) for the 2022-23 application call.
 :::
 
 ### Communications plan {@sec-comm-plan-recruitment}
@@ -51,9 +53,8 @@ rOpenSci’s standard communication channels are used to spread the news about t
 Before beginning, decide which languages the recruitment materials will be translated into and identify translators if necessary. Remember to consider all the materials that will need to be translated (blog posts, video captions, social media posts (mastodon, linkedIn, slack), slides, and emails).
 
 ::: callout-note
-The materials outlined below are saved in this folder: [2. Communications plan](https://drive.google.com/drive/folders/1UlW185xJI3NQ1soPnu4GhwvaMd85W1aD).
-
-For internal use by the rOpenSci Champions Program Team. Preserved for archival reasons. All information is available with open licence and up to date on the Champions Program web site and this playbook.
+## Internal Documents
+The materials outlined below are saved in the Google Drive folder: [2. Communications plan](https://drive.google.com/drive/folders/1UlW185xJI3NQ1soPnu4GhwvaMd85W1aD).
 :::
 
 #### Step 1: Update program web pages
@@ -262,7 +263,8 @@ Here are examples of the message used to communicate about the program:
     > \+ info: https://ropensci.org/champions/
 
 ::: callout-note
-List and draft text for the 2022-23 program for [Communications channels](https://docs.google.com/document/d/1tqtvKjCIsiDixVdxRU2GEI9hIdiRXc_ocZhptJYZ9Ws/edit). (Document Preserved for archival reasons and internal use by the rOpenSci Champions Program Team. All information is available with an open license and up to date on the Champions Program website and this playbook)
+## Internal Documents
+List and draft text for the 2022-23 program for [Communications channels](https://docs.google.com/document/d/1tqtvKjCIsiDixVdxRU2GEI9hIdiRXc_ocZhptJYZ9Ws/edit).
 :::
 
 ##### 3.3. Update the rOpenSci Champions Program outreach slide deck.
@@ -403,7 +405,8 @@ When the review takes longer than planned, we inform the applicants the status o
 
 
 ::: callout-note
-[Google doc with templates for acceptance - rejection for Champions and mentors](https://docs.google.com/document/d/1mB6_Fdn16XMkh4ORN7bZMSRtiGnvl_iZWNeEzQIZ6Iw/edit#heading=h.wskca8x07uq9). Preserved for archival reasons. Access only by the rOpenSci Champions Program Team. All information is available with open license and up to date on the Champions Program web site and this playbook.
+## Internal Documents
+[Google doc with templates for acceptance - rejection for Champions and mentors](https://docs.google.com/document/d/1mB6_Fdn16XMkh4ORN7bZMSRtiGnvl_iZWNeEzQIZ6Iw/edit#heading=h.wskca8x07uq9).
 :::
 
 
