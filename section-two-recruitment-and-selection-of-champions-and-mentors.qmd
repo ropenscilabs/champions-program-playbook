@@ -1,4 +1,4 @@
-# Recruitment and selection of Champions and mentors
+# Recruitment and selection
 
 ## Overview
 
@@ -20,27 +20,29 @@ Potential Champions Program applicants are encouraged to attend an optional comm
 
 ### Champions application materials
 
--   [Champions Airtable application form](https://airtable.com/shrAsYlSXU0coJ5Ld). (The form is close if we don't have an open call for applications)
+-   [Champions Airtable application form](https://airtable.com/shrAsYlSXU0coJ5Ld). This form is closed if we don't have an open call for applications.
 
--   Champions application final questions. These are the questions in the application form. Available in [English](https://ropensci.org/champions/files/champions_template/) and [Spanish]((https://ropensci.org/champions/files/champions_template_es/)).
+-   Champions application questions in [English](https://ropensci.org/champions/files/champions_template/) and [Spanish](https://ropensci.org/champions/files/champions_template_es/).
 
--   After the first year application, we create [Frequently Asked Question (FAQs) for Champions](https://ropensci.org/champions/programdetails_2023/#frequently-asked-questions). These FAQs improved response time to interested people's queries.
+-   [Frequently Asked Question (FAQs) for Champions](https://ropensci.org/champions/programdetails_2023/#frequently-asked-questions)[^1]
 
-    ::: callout-note
-    [Application form template](https://docs.google.com/document/d/18V38IdipJXNL8w714Xdoj8XHd9j-mr8aDQl0TqOIAEg/edit#heading=h.d3uqayuakf9e) in google doc format for the 2022-23 application call. Preserved for archival reasons. Access only by the rOpenSci Champions Program Team. All information is available with open license and up to date on the Champions Program web site and this playbook.
-    :::
+[^1]: After the first year of applications, we created FAQs which helped people get responses to typical queries more quickly.
+
+::: callout-note
+The first [Champions Application form template](https://docs.google.com/document/d/18V38IdipJXNL8w714Xdoj8XHd9j-mr8aDQl0TqOIAEg/edit#heading=h.d3uqayuakf9e) for the 2022-23 application call is preserved for archival reasons. Accessible only by the rOpenSci Champions Program Team.
+:::
 
 ### Mentor application materials
 
--   [Mentors Airtable application form](https://airtable.com/shrlrLdQbb4wphosK). (The form is close if we don't have an open call for applications)
+-   [Mentors Airtable application form](https://airtable.com/shrlrLdQbb4wphosK). This form is closed if we don't have an open call for applications.
 
--   Mentor application final list of questions. These are the question in the application form. Available in [English](https://ropensci.org/champions/files/mentors_champions_template/) and [Spanish](https://ropensci.org/champions/files/mentors_champions_template_es/).
+-   Mentor application questions in [English](https://ropensci.org/champions/files/mentors_champions_template/) and [Spanish](https://ropensci.org/champions/files/mentors_champions_template_es/).
 
--   After the first year we also create [Frequently Asked Questions for Mentors](https://ropensci.org/champions/programdetailsmentors_2023/#frequently-asked-questions)
+-  [Frequently Asked Questions for Mentors](https://ropensci.org/champions/programdetailsmentors_2023/#frequently-asked-questions)[^1]
 
-    ::: callout-note
-    [Application form template](https://docs.google.com/document/d/1HdyQW-xIbj21UxjEEKl9-XDyaDXjtNqbnu-MBhk1ejA/) in google doc format for the 2022-23 application call. Preserved for archival reasons. Access only by the rOpenSci Champions Program Team. All information is available with open license and up to date on the Champions Program web site and this playbook.
-    :::
+::: callout-note
+The first [Mentors Application form template](https://docs.google.com/document/d/1HdyQW-xIbj21UxjEEKl9-XDyaDXjtNqbnu-MBhk1ejA/) for the 2022-23 application call is preserved for archival reasons. Access only by the rOpenSci Champions Program Team.
+:::
 
 ### Communications plan {@sec-comm-plan-recruitment}
 
