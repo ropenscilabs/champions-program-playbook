@@ -2,7 +2,7 @@
 
 ## Overview
 
-The offboarding is an opportunity to officially close the participation in the Champions Program. It mainly gives us a chance to **reflect on the road we have traveled and celebrate our achievements**. It also includes administrative tasks, such as the payment process for the champions and reporting. Champions and mentors are invited to express how they would like to continue engage with rOpenSci.
+The offboarding is an opportunity to officially close the participation in the Champions Program. It mainly gives us a chance to **reflect on the road we have traveled and celebrate our achievements**. It also includes administrative tasks, such as the payment process for the Champions and reporting. Champions and mentors are invited to express how they would like to continue engage with rOpenSci.
 
 ### Champions Stipend
 
@@ -52,7 +52,7 @@ The program manager emails the Instructions for receiving payment for your fello
 
 ### Final meeting 
 
-The very lidst full cohort and mentor meeting provides an opportunity for Champions to reflect on their projects and progress, offer thanks to each other and their mentors, and talk about next steps.
+The very last full cohort and mentor meeting provides an opportunity for Champions to reflect on their projects and progress, offer thanks to each other and their mentors, and talk about next steps.
 
 ::: callout-note
 ## Virtual Notes
@@ -62,7 +62,7 @@ These are the [virtual notes](https://docs.google.com/document/d/14uVy79h7F-qiqJ
 Only accessible for rOpenSci Champions Program Team and First cohort attendees.
 :::
 
-The meeting is mandatory for champions but optional for mentors. The agenda for the meeting is:
+The meeting is mandatory for Champions but optional for mentors. The agenda for the meeting is:
 
 -   Program manager recap in all the work done and what are the next step. 15 minutes. Slides: [rOpenSci Champions Program - Wrapup](https://docs.google.com/presentation/d/1tukcGlzDZ2iqwqco-sQZVUEK5gAVAbkbFrLKL58cvAg/edit?usp=sharing) 
 
@@ -82,7 +82,7 @@ After you've added your own reflections, review each other's posts and add comme
 
 -   Title 3: General notes of gratitude
 
-The program manager also have 1 to 1 meeting with the champions that required to discuss with more detail future engagement with the community.
+The program manager also have 1 to 1 meeting with the Champions that required to discuss with more detail future engagement with the community.
 
 ### Next Steps - Assesment
 

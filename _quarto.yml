@@ -16,3 +16,7 @@ book:
     - section-five-communications.qmd
     - section-six-offboarding.qmd
     - section-seven-evaluation-and-assessment.qmd
+
+format:
+  html:
+    number-depth: 3
