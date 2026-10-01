@@ -1,10 +1,8 @@
-# rOpenSci Champions Program Internal Playbook {.unnumbered}
+# rOpenSci Champions Program Playbook {.unnumbered}
 
 ![](images/media/image1.png)
 
-![](images/media/image2.png)
 
-_Cover illustration by [Lydia Hill](https://www.lydiakahill.com/)_
 
 ## License
 
