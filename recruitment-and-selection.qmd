@@ -425,33 +425,3 @@ When the review takes longer than planned, we inform the applicants the status o
 :::
 
 
-### First Cohort 2022-2023. Champions and Mentors
-
-| Champion Name            | Project type          | Mentor Name              |
-|---------------------------|-------------------|---------------------------|
-| Alican Cagri Gokcek      | review a package      | Elio Campitelli.         |
-| Bilikisu Wunmi Olatunji  | develop a new package | Christina Maimone        |
-| Carolina Pradier         | package peer-review   | Mo (Athanasia Mowinckel) |
-| Cesar Luis Aybar Camacho | package peer-review   | Marc Choisy              |
-| Cheryl Isabella Lim      | review a package      | Mauro Lepore             |
-| Ghozayel Elotteebi       | develop a new package | Zebulun Arendsee         |
-| Haydee Svab              | develop a new package | Beatriz Milz             |
-| Marcos Miguel Prunello   | package peer-review   | Lukas Walrick            |
-| Paola Belén Corrales     | package peer-review   | Adam Sparks              |
-| Victor Ordu              | package peer-review   | Laura DeCicco            |
-
-
-### Second Cohort 2023-2024. Champions and Mentors
-
-| Champion Name                  | Project type          | Mentor Name                      |
-|---------------------------|-------------------|---------------------------|
-| Andrea Gomez Vargas            | develop a new package | Luis D. Verde Arregoitia         |
-| Binod Jung Bogati              | develop a new package | Erle Holgersen                   |
-| Erika Siregar                  | develop a new package | Apoorv Anand                     |
-| Ezekiel Adebayo Ogundepo       | review a package      | Francisco Orlando Cardozo Macias |
-| Francesca Belem Lopes Palmeira | develop a new package | Bruna Wundervald                 |
-| Jacqui Levy                    | develop a new package | Jonathan Keane                   |
-| Liz Hare                       | review a package      | François Michonneau              |
-| Mirna Vázquez Rosas Landa      | package peer-review   | Marie Vendettuoli                |
-| Sehrish Kanwal                 | package peer-review   | Emi Tanaka                       |
-| Yi-Chin (Sunny) Tseng          | develop a new package | Eunseop Kim                      |
