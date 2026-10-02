@@ -49,9 +49,19 @@ Necesitás un **Personal Access Token (PAT)** con los permisos:
 ** Configuralo con `gitcreds`:**
 
 ```r
-install.packages("gitcreds")
+# install.packages("gitcreds")
 gitcreds::gitcreds_set()  # Pegá tu PAT cuando lo solicite
 ```
+
+### Estructura del CSV con la lista de _issues_
+
+| Columna       | Requerida | Descripción                                      | Ejemplo                          |
+|---------------|:---------:|--------------------------------------------------|----------------------------------|
+| `title`       | Si        | Título de lissue                               | `"Configurar repositorio"`       |
+| `description` | Si        | Cuerpo de la issue. Usar `\n` para saltos de línea | `"- [ ] Tarea 1\n- [ ] Tarea 2"` |
+| `labels`      | Si        | Labels separadas por coma                        | `"setup,priority:high"`          |
+| `assignees`   | Si        | Usernames de GitHub separados por coma           | `"yabellini,colaborador1"`       |
+| `milestone`   | No        | Nombre del milestone (se crea si no existe)      | `"Sprint 1"`                     |
 
 
 ## Ejemplo de uso
