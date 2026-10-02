@@ -64,7 +64,105 @@ gitcreds::gitcreds_set()  # Pegá tu PAT cuando lo solicite
 | `milestone`   | No        | Nombre del milestone (se crea si no existe)      | `"Sprint 1"`                     |
 
 
-## Ejemplo de uso
+
+## Uso de los scripts
+
+### Cargar las funciones
+
+```r
+source("gh_project_manager.R")
+```
+
+### Crear un proyecto completo con issues (repo personal)
+
+```r
+create_project_with_issues(
+  csv_path      = "issues_template.csv",
+  owner         = "mi-usuario",
+  repo          = "mi-repositorio",
+  project_title = "Cohort 2025"
+)
+```
+
+### Crear un proyecto en una organización
+
+```r
+create_project_with_issues(
+  csv_path      = "issues_template.csv",
+  owner         = "mi-organizacion",
+  repo          = "mi-repositorio",
+  project_title = "Roadmap Q1",
+  is_org        = TRUE
+)
+```
+
+### Crear solo issues sin proyecto
+
+```r
+create_issues_only(
+  csv_path = "issues_template.csv",
+  owner    = "mi-usuario",
+  repo     = "mi-repositorio"
+)
+```
+
+### Descargar issues de un repositorio
+
+```r
+# Todas las issues (abiertas y cerradas)
+download_issues(
+  owner       = "mi-usuario",
+  repo        = "mi-repositorio",
+  output_path = "issues_backup.csv"
+)
+
+# Solo issues abiertas
+download_issues(
+  owner       = "mi-usuario",
+  repo        = "mi-repositorio",
+  output_path = "issues_abiertas.csv",
+  state       = "open"
+)
+
+# Filtrar por labels
+download_issues(
+  owner         = "mi-usuario",
+  repo          = "mi-repositorio",
+  output_path   = "issues_bug.csv",
+  labels_filter = c("bug", "priority:high")
+)
+
+# Vaciar assignees para reutilizar el CSV en otro repo
+download_issues(
+  owner           = "mi-usuario",
+  repo            = "mi-repositorio",
+  output_path     = "issues_template_nuevo_ciclo.csv",
+  reset_assignees = TRUE
+)
+```
+
+### Descargar issues de un GitHub Project específico
+
+```r
+# Proyecto de usuario personal
+download_project_issues(
+  owner          = "mi-usuario",
+  project_number = 5,
+  output_path    = "proyecto_issues.csv"
+)
+
+# Proyecto de organización con reset de assignees
+download_project_issues(
+  owner           = "mi-organizacion",
+  project_number  = 3,
+  output_path     = "proyecto_template.csv",
+  is_org          = TRUE,
+  reset_assignees = TRUE
+)
+```
+
+
+## Champions 2026-2027
 
 ```
 create_project_with_issues(
