@@ -1,0 +1,99 @@
+milestone,title,description,assignees,labels
+Recruitment,Prepare and publish Champions Airtable application form.,https://airtable.com/appF6OXmxkk8VmR8a/tblgz8lImafaVFB51/viwiH1ZwtqgYruI9c?blocks=hide,yabellini,champions-program-2026-2027
+Recruitment,Prepare and publish Mentors Airtable application form.,https://airtable.com/appF6OXmxkk8VmR8a/tblgz8lImafaVFB51/viwiH1ZwtqgYruI9c?blocks=hide,yabellini,champions-program-2026-2027
+Recruitment,Review and update FAQs for champions,,yabellini,champions-program-2026-2027
+Recruitment,Review and update FAQs for mentors,,yabellini,champions-program-2026-2027
+Recruitment,Update program web page at ropensci.org,,yabellini,champions-program-2026-2027
+Recruitment,Update program web page at https://champions-program.ropensci.org,,yabellini,champions-program-2026-2027
+Recruitment,Organize and host application support activities - Community Call,,yabellini,champions-program-2026-2027
+Recruitment,Organize and host application support activities - Aplication Clinic,,yabellini,champions-program-2026-2027
+Recruitment,Blog posts Announcing the open call for champions and mentors,,yabellini,champions-program-2026-2027
+Recruitment,rOpenSci Newletter announcements,,yabellini,champions-program-2026-2027
+Recruitment,First round Social media announcements open call,,yabellini,champions-program-2026-2027
+Recruitment,Social media announcements community call,,yabellini,champions-program-2026-2027
+Recruitment,Social media announcements aplication clinc,,yabellini,champions-program-2026-2027
+Recruitment,Slack message announcements open call rOpenSci,,yabellini,champions-program-2026-2027
+Recruitment,Slack message announcements open call CSCCE,,yabellini,champions-program-2026-2027
+Recruitment,"Slack message announcements open call CSV,Conf",,yabellini,champions-program-2026-2027
+Recruitment,Slack message announcements open call CZI,,yabellini,champions-program-2026-2027
+Recruitment,Slack message announcements open call GitHub Partners,,yabellini,champions-program-2026-2027
+Recruitment,"Slack message announcements open call LatinR (English, Spanish, Portuguese)",,yabellini,champions-program-2026-2027
+Recruitment,Slack message announcements open call R User Groups Organizers,,yabellini,champions-program-2026-2027
+Recruitment,Slack message announcements open call R-Contributors,,yabellini,champions-program-2026-2027
+Recruitment,Slack message announcements open call R-Forwards,,yabellini,champions-program-2026-2027
+Recruitment,"Slack message announcements open call R-Ladies Community (English, Spanish)",,yabellini,champions-program-2026-2027
+Recruitment,"Slack message announcements open call R-Ladies Organizers (English, Spanish)",,yabellini,champions-program-2026-2027
+Recruitment,Slack message announcements open call RConsortium,,yabellini,champions-program-2026-2027
+Recruitment,Slack message announcements open call RSE,,yabellini,champions-program-2026-2027
+Recruitment,"Slack message announcements open call The Carpentries (English, Spanish)",,yabellini,champions-program-2026-2027
+Recruitment,Slack message announcements open call The Turing Way,,yabellini,champions-program-2026-2027
+Recruitment,Telegram message announcements open call RSpatial-ES,,yabellini,champions-program-2026-2027
+Recruitment,Slack message announcements open call R-Ladies Buenos Aires,,yabellini,champions-program-2026-2027
+Recruitment,Slack message announcements open call RenBaires,,yabellini,champions-program-2026-2027
+Recruitment,Announcements open call RStudio Community forum Events,https://community.rstudio.com/c/irl/18,yabellini,champions-program-2026-2027
+Recruitment,Announcements open call Carpentries discuss list,https://carpentries.topicbox.com/groups/discuss,yabellini,champions-program-2026-2027
+Recruitment,Announcements open call Sustain Community,https://discourse.sustainoss.org/,yabellini,champions-program-2026-2027
+Recruitment,Announcements open call Reddit rstats tag,https://www.reddit.com/r/rstats/,yabellini,champions-program-2026-2027
+Recruitment,Announcements open call Reddit r/programming tag,https://www.reddit.com/r/rprogramming/,yabellini,champions-program-2026-2027
+Recruitment,Announcements open call NumFOCUS Google Group,https://groups.google.com/forum/#!forum/numfocus,yabellini,champions-program-2026-2027
+Recruitment,Add to NumFOCUS monthly newsletter by responding to NumFOCUS request from comms team,,yabellini,champions-program-2026-2027
+Recruitment,Zulip Message announcements open call Bioconductor,,yabellini,champions-program-2026-2027
+Recruitment,Zulip message announcements open call NumFOCUS,,yabellini,champions-program-2026-2027
+Recruitment,Slack message announcements open call ResA,,yabellini,champions-program-2026-2027
+Recruitment,Email contact list previous applicants,,yabellini,champions-program-2026-2027
+Recruitment,Email contact list Yani's personal contacts,,yabellini,champions-program-2026-2027
+Recruitment,Email contact list R-Ladies Chapters,,yabellini,champions-program-2026-2027
+Recruitment,Request previous Champions and Mentors to share the open call,,yabellini,champions-program-2026-2027
+Recruitment,Second round Social media announcements open call,,yabellini,champions-program-2026-2027
+Selection,Step 1: Two rOpenSci Team members review application to confirm completion,,"yabellini, maelle",champions-program-2026-2027
+Selection,Step 2: Community manager assigns mentors applications to reviewers,,yabellini,champions-program-2026-2027
+Selection,Step 3: Selection team reviews their assigned mentors applicants,,"yabellini, maelle,focardozom",champions-program-2026-2027
+Selection,Step 4: Meeting to discuss mentors applicants and final selection,,"yabellini, maelle",champions-program-2026-2027
+Selection,Step 5: Inform mentors applicants,"""- [ ] Update and enable Airtable form for personal data and for the blog\n- [ ] Create pool to choose kickoff meeting dates\n- [ ] Sent welcome email with next steps and due dates to selected mentors\n- [ ] Sent thank you email to non selected mentors""",yabellini,champions-program-2026-2027
+Selection,Step 6: Community manager assigns champions applications to reviewers,,yabellini,champions-program-2026-2027
+Selection,Step 7: Selection team reviews their assigned champions applicants,,yabellini,champions-program-2026-2027
+Selection,"Step 8: Consistency Analysis, and Diversity and Representation Review",,yabellini,champions-program-2026-2027
+Selection,Step 9: Final Selection by Mentors,,yabellini,champions-program-2026-2027
+Selection,Step 10: Final match mentor-mentee,,yabellini,champions-program-2026-2027
+Selection,Step 11: Inform applicants,"""- [ ] Communicate with selected champions\n- [ ] Communicate with not selected champions""",yabellini,champions-program-2026-2027
+Onboarding,Organize Mentor's kick off meeting,,yabellini,champions-program-2026-2027
+Onboarding,Organize Champions Kick off meeting,,yabellini,champions-program-2026-2027
+Onboarding,Update and activate Champions Pledge,,yabellini,champions-program-2026-2027
+Administrative,Write and sent the interim report for the funder,,yabellini,champions-program-2026-2027
+Administrative,"Sent the instruction to request their contract to instructor, mentors and champions",,yabellini,champions-program-2026-2027
+Administrative,Follow up contracts and invoice,,yabellini,champions-program-2026-2027
+Administrative,Write and sent the final report for the funder,,yabellini,champions-program-2026-2027
+Administrative,Request no const extention to the funder if needit,,yabellini,champions-program-2026-2027
+Administrative,"Sent the instruction to request payment to instructor, mentors and champions",,yabellini,champions-program-2026-2027
+Administrative,Approve invoices,,yabellini,champions-program-2026-2027
+Communication,Introducing mentors blog post,,yabellini,champions-program-2026-2027
+Communication,Introducing champions blog post,,yabellini,champions-program-2026-2027
+Communication,Newsletter HQ with call results and highlight,,yabellini,champions-program-2026-2027
+Communication,Update rOpenSci website with new champions,,yabellini,champions-program-2026-2027
+Communication,Update rOpenSci website with new mentors,,yabellini,champions-program-2026-2027
+Communication,Update the Champions Program website to annunce we close the call for applications.,,yabellini,champions-program-2026-2027
+Training,Organize and run Mentors Training Session (1 session),,yabellini,champions-program-2026-2027
+Training,Organize and run Developing Software Together (2 seesions),,yabellini,champions-program-2026-2027
+Training,Organize and run  Oh Shit Git! (1 session),,yabellini,champions-program-2026-2027
+Training,Organize and run Use and Improve your Git history (1 session),,yabellini,champions-program-2026-2027
+Training,"Organize and run Beautiful Code, because we are worth it! (1 session)",,yabellini,champions-program-2026-2027
+Training,Organize and run Package Development The Mechanics (3 sessions),,yabellini,champions-program-2026-2027
+Training,Organize and run Package Development Not Rocket Science (1 session),,yabellini,champions-program-2026-2027
+Training,Organize and run How to Software Peer Review (2 sessions),,yabellini,champions-program-2026-2027
+Training,Organize and run How to contribute to open proyects and communities (1 session),,yabellini,champions-program-2026-2027
+Training,Organize and run How to create an unfourgetable talk (1 session),,yabellini,champions-program-2026-2027
+Training,Organize and run How to organize a fantastic event (1 session),,yabellini,champions-program-2026-2027
+Infrastructure,Update Mentors Monthly Charter,,yabellini,champions-program-2026-2027
+Infrastructure,Update Champions Monthly Charter,,yabellini,champions-program-2026-2027
+Community Building,Organize and Run First Cohort Meeting,,yabellini,champions-program-2026-2027
+Community Building,Organize and Run Second Cohort Meeting,,yabellini,champions-program-2026-2027
+Community Building,Organize and Run Third Cohort Meeting,,yabellini,champions-program-2026-2027
+Community Building,Organize and Run Mentors Cohort Meeting,,yabellini,champions-program-2026-2027
+Community Building,Organize and Offer Office Hours,,yabellini,champions-program-2026-2027
+Communication,Update Gallery Champions Program Website - projects,,yabellini,champions-program-2026-2027
+Communication,Update Gallery Champions Program Website - outreach,,yabellini,champions-program-2026-2027
+Communication,Update Gallery Champions Program Website - mentors list,,yabellini,champions-program-2026-2027
+Communication,Update Gallery Champions Program Website - champion list,,yabellini,champions-program-2026-2027
+Communication,Project Wrapup Blog Post,,yabellini,champions-program-2026-2027
+Communication,Trining Wrapup Blog Post,,yabellini,champions-program-2026-2027
+Communication,Evaluation of the program blog post,,yabellini,champions-program-2026-2027
