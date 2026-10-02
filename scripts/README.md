@@ -63,6 +63,33 @@ gitcreds::gitcreds_set()  # Pegá tu PAT cuando lo solicite
 | `assignees`   | Si        | Usernames de GitHub separados por coma           | `"yabellini,colaborador1"`       |
 | `milestone`   | No        | Nombre del milestone (se crea si no existe)      | `"Sprint 1"`                     |
 
+## Listado de fucniones
+
+### Funciones principales
+
+| Función | Descripción |
+|---------|-------------|
+| `create_project_with_issues(csv_path, owner, repo, project_title, is_org)` | Crea un GitHub Project v2 y todas las issues del CSV |
+| `create_issues_only(csv_path, owner, repo)` | Crea issues desde CSV sin crear proyecto |
+| `download_issues(owner, repo, output_path, state, labels_filter, reset_assignees)` | Descarga issues de un repo a CSV |
+| `download_project_issues(owner, project_number, output_path, is_org, reset_assignees)` | Descarga issues de un Project v2 a CSV |
+
+### Funciones auxiliares
+
+| Función | Descripción |
+|---------|-------------|
+| `validate_issues_csv(df)` | Valida columnas requeridas y títulos no vacíos |
+| `parse_comma_separated(x)` | Convierte `"a,b,c"` en `c("a","b","c")` |
+| `process_description(text)` | Convierte `\n` literales en saltos de línea reales |
+| `get_existing_labels(owner, repo)` | Obtiene labels existentes en el repo |
+| `ensure_labels_exist(owner, repo, labels_needed)` | Crea las labels faltantes |
+| `create_single_issue(owner, repo, title, body, labels, assignees, milestone_number)` | Crea una issue individual |
+| `create_issues_from_df(df, owner, repo, milestones_map)` | Itera el data.frame y crea todas las issues |
+| `get_or_create_milestones(owner, repo, milestone_names)` | Obtiene o crea milestones |
+| `create_user_project(owner, title)` | Crea un Project v2 para usuario personal |
+| `create_org_project(org, title)` | Crea un Project v2 para organización |
+| `create_project_by_id(owner_id, title)` | Crea proyecto dado un node ID (uso interno) |
+| `add_issue_to_project(project_id, issue_node_id)` | Agrega una issue a un Project v2 |
 
 
 ## Uso de los scripts
