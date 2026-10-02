@@ -13,6 +13,45 @@ This list of different script are used to manage several aspects of the Champion
 * issues-cp.csv: issues for the 2024-2025 cohort, base used to create the 2026-2027 cohort.  Every time we finished a cohort, we export all the issues to use as based of the next
 
 
+### Características
+
+- **Carga masiva de issues** desde un CSV con título, descripción, labels, assignees y milestones
+- **Creación automática de labels** faltantes con colores de una paleta armoniosa
+- **Gestión de milestones**: crea los que no existan o reutiliza los existentes
+- **Integración con GitHub Projects v2**: crea el proyecto y agrega cada issue automáticamente
+- **Descarga de issues** a CSV reutilizable (filtrando PRs), desde un repositorio o desde un proyecto
+- **Flujo de reutilización**: descarga → edita el CSV → vuelve a crear en el siguiente ciclo
+- **Checklists** renderizadas correctamente en GitHub gracias a la conversión de `\n`
+- **Repos privados**: requiere PAT con los permisos adecuados
+
+### Paquetes necesarios
+
+| Paquete | Uso |
+|---------|-----|
+| `gh`    | Llamadas a la API REST y GraphQL de GitHub |
+| `readr` | Lectura y escritura de archivos CSV |
+| `purrr` | Iteración funcional sobre listas y vectores |
+| `cli`   | Mensajes formateados en la consola |
+| `glue`  | Concatenación de cadenas de texto |
+
+Instalación de estos paquetes:
+
+```r
+install.packages(c("gh", "readr", "purrr", "cli", "glue"))
+```
+
+### Autenticación con GitHub PAT
+
+Necesitás un **Personal Access Token (PAT)** con los permisos:
+- `repo` — para crear issues, labels y milestones
+- `project` — para crear y gestionar GitHub Projects v2
+
+** Configuralo con `gitcreds`:**
+
+```r
+install.packages("gitcreds")
+gitcreds::gitcreds_set()  # Pegá tu PAT cuando lo solicite
+```
 
 
 ## Ejemplo de uso
