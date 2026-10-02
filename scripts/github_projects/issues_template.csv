@@ -1,0 +1,4 @@
+title,description,labels,assignees,milestone
+"Configurar repositorio","- [ ] Crear estructura de carpetas\n- [ ] Agregar .gitignore\n- [ ] Configurar CI/CD","setup,priority:high","yabellini","Sprint 1"
+"Escribir documentación","- [ ] README principal\n- [ ] Guía de contribución\n- [ ] Código de conducta","documentation,good first issue","yabellini,colaborador1","Sprint 1"
+"Revisar accesibilidad","- [ ] Verificar alt text en imágenes\n- [ ] Revisar contraste de colores","accessibility,enhancement","colaborador1","Sprint 2"
